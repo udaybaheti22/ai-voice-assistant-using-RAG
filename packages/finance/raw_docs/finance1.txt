@@ -1,0 +1,1209 @@
+1.0 INTRODUCTION
+Financial management is concerned with the planning and controlling of a firm's
+financial resources. It was a branch of economics till 1890 and recently it has become a
+separate discipline. The subject of financial management is of immense interest to both
+academicians and practicing managers. It is of interest to academicians because the
+subject is still developing, and there are areas where controversies still exist for which
+no unanimous solutions have been found. Practicing managers are interested in this
+subject because the most crucial decisions of the firm are related to finance, and an
+understanding of the theory of financial management enables them to make those
+decisions skillfully and correctly. This unit will discuss the nature and scope of finance,
+the financial goals of organizations and finance functions.
+1.1 LEARNING OBJECTIVES
+After going through this unit, you will be able to:  Explain the nature of finance and its interaction with other management
+functions.  Review the changing role of a finance manager and his/her position in the
+management hierarchy.  Discuss agency problems arising from the relationship between shareholders
+and managers.  Illustrate the organization of the finance function.  Focus on shareholder’s wealth maximization principle.
+1.2 MEANING, NATURE AND SCOPE OF FINANCE
+What is finance? What are the firm's financial activities? How are they related to the
+firm's other activities? Financial management is a long term decision making process
+which involves lot of planning, allocation of funds, discipline and much more. Nobody
+can ever think to start a business or a company without financial knowledge and
+management strategies. Finance links itself directly to several functional departments
+like marketing, production and personnel. .Let us understand the nature of
+financial management with reference of this discipline. 1.2.1Nature of Financial Management: Finance management is a long termdecision making process which involves lot of planning, allocation of funds, discipline
+and much more. Let us understand the nature of financial management with reference
+of this discipline.
+1. Financial management is one of the important educations which have been realized
+word wide. Now a day’s people are undergoing through various specialization courses
+of financial management. Many people have chosen financial management as their
+profession.
+2. The nature of financial management is never a separate entity. Even as an
+operational manager or functional manager one has to take responsibility of financial
+management.
+3. Finance is a foundation of economic activities. The person who manages finance is
+called as financial manager. Important role of financial manager is to control finance and
+implement the plans. For any company financial manager plays a crucial role in it. Many
+times it happens that lack of skills or wrong decisions can lead to heavy losses to an
+organization.
+4. Nature of financial management is multi-disciplinary. Financial management depends
+upon various other factors like: accounting, banking, inflation, economy, etc. for the
+better utilization of finances.
+5. Approach of financial management is not limited to business functions but it is a
+backbone of commerce, economic and industry.
+Some of the major scope of financial management is as follows: 1. Investment Decision
+2. Financing Decision 3. Dividend Decision 4. Working Capital Decision. 1.2.2 Real and Financial Assets
+Real asset can be defined as “assets that are tangible or physical in nature such as
+property, plants and equipments. As an example in our bank many real assets can be
+identified such as the buildings, computers, lands that we own, ATM machines,
+vehicles, machineries such as note counters etc.
+Financial assets can be defined as “assets in the form of stocks, bonds, rights,
+certificates, bank balances, etc., as distinguished from tangible, physical assets”
+(Pension Boards-UCC, 2009). For our bank financial assets can be identified as our
+investments in bonds, issued by government and companies, bills issued by
+government and companies, shares of other companies and debentures of other
+companies, loans we have lent, reserves we hold at Central bank and etc.
+Real assets are tangible and financial assets are intangible in nature. Real assets are
+used in day to business operations to produce/generate an output where as financial
+assets are used to generate a return by investing activities. In general by investing in
+real assets company generates an income by way of profits earned from production
+utilizing the asset, rent (from lands) and gain/loss on disposals. By investing in financial
+assets company earns dividends, interest income and capital gains/loss upon disposal
+of assets.
+Firms issue securities to investors in the primary capital markets to raise necessary
+funds. The securities issued by firms are traded - bought and sold - by investors in the
+secondary capital markets, referred to as stock exchanges. Financial assets also
+include lease obligations and borrowing from banks, financial institutions and other
+sources. In a lease, the lessee obtains a right to use the lessor's asset for an agreed
+amount of rental over the period of lease. Funds applied to assets by the firm are called
+capital expenditures or investment. The firm expects to receive return on investment
+and might distribute return (or profit) as dividends to investors.
+1.2.3 Equity and Borrowed Funds
+To raise capital, an enterprise either used owned sources or borrowed ones. Owned
+capital can be in the form of equity, whereas borrowed capital refers to the company's
+owed funds or say debt. Borrowed funds refer to the borrowings of a business firm. In a
+company, borrowed funds consist of the finance raised from debenture holders, public
+deposits, financial institutions and commercial banks. Equity refers to the stock,
+indicating the ownership interest in the company.
+Shareholders can be of two types: ordinary and preference. Preference
+shareholders receive dividend at a fixed rate, and they have a priority over ordinary
+shareholders. The dividend rate for ordinary shareholders is not fixed, and it can vary
+from year to year depending on the decision of the board of directors. The payment of
+dividends to shareholders is not a legal obligation; it depends on the discretion of the
+board of directors. Since ordinary shareholders receive dividend (or repayment of
+invested capital, only when the company is wound up) after meeting the obligations of
+others, they are generally called owners of residue. Dividends paid by a company are
+not deductible expenses for calculating corporate income taxes, and they are paid out of
+profits after corporate taxes. As per the current laws in India, a company is required to
+pay 12.5 per cent tax on dividends. Equity shares, preference shares, ploughing back of profits and debentures are
+generally used for long-term finance. Public deposits, commercial banks and financial
+institutions are the main sources of medium-term and short-term finance. A company
+can also obtain equity funds by retaining earnings available for shareholders.
+Retained earnings, which could be referred to as internal equity, are undistributed
+profits of equity capital. The retention of earnings can be considered as a form of raising
+new capital. If a company distributes all earnings to shareholders, then, it can reacquire
+new'' capital from the same sources (existing shareholders) by issuing new shares
+called rights shares. Also, a public issue of shares may be made to attract new (as well
+as the existing) shareholders to contribute equity capital.
+Another important source of securing capital is creditors or lenders. Lenders are
+not the owners of the company. They make money available to the firm as loan or debt
+and retain title to the funds lent. Loans are generally furnished for a specified period at a
+fixed rate of interest. For lenders, the return on loans or debt comes in the form of
+interest paid by the firm. Interest is a cost of debt to the firm. Payment of interest is a
+legal obligation. The amount of interest paid by a firm is a deductible expense for
+computing corporate income taxes. Thus, interest provides tax shield to a firm. The
+interest tax shield is valuable to a firm. The firm may borrow funds from a large number
+of sources, such as banks, financial institutions, public or by issuing bonds or
+debentures. A bond or a debenture is a certificate acknowledging the amount of money
+lent by a bondholder to the company. It states the amount, the rate of interest and the
+maturity of the bond or debenture. Since bond or debenture is a financial instrument, it
+can be traded in the secondary capital markets.
+1.2.4 Finance and Management Functions
+There is a valuable and undivided relationship between finance on the one hand and
+production, marketing and other functions on the other. Almost all business activities,
+directly or indirectly, involve the acquisition and use of funds. For example, recruitment
+and promotion of employees in production is clearly a responsibility of the production
+department; but it requires payment of wages and salaries and other benefits, and thus,
+involves finance.
+1.2.5 Scope of Financial Management/ Finance Function:- The main objective of financial management is to arrange sufficient finances for
+meeting short term and long term needs. A financial manager will have to concentrate
+on the following areas of finance function:
+1. Estimating Financial Requirements: - The first task of financial manager is to estimate short term and long-termfinancial requirements of his business. For this purpose, he will prepare a financial plan
+for present as well as for future. The amount required for purchasing fixed assets as
+well as for working capital will have to be ascertained.
+2. Deciding Capital Structure: - The capital structure refers to the kind and proportion of different securities
+for raising funds. After deciding about the quantum of funds required, it should be
+decided which type of securities should be raised. It may be wise to finance fixed assets
+through long-term debts and current assets through short-term debts.
+3. Selecting a Source of Finance: - After preparing capital structure, an appropriate source of finance is
+selected. Various sources from which finance may be raised include: share capital,
+debentures, financial institutions, commercial banks, public deposits etc. If finance is
+needed for short period then banks, public deposits and financial institutions may be
+appropriate. On the other hand, if long-term finance is required then, share capital, and
+debentures may be useful.
+4. Selecting a pattern of Investment: - When funds have been procured then a decision about investment pattern
+is to be taken. The selection of an investment pattern is related to the use of funds. A
+decision will have to be taken as to which asset is to be purchased. The funds will have
+to be spent first on fixed assets and then an appropriate portion will be retained for
+working capital. The decision-making techniques such as capital budgeting, opportunity
+cost analysis etc. may be applied in making decisions about capital expenditures.
+5. Proper cash Management: - Cash management is an important task of finance manager. He has to
+assess various cash needs at different times and then make arrangements for arranging
+cash. The cash management should be such that neither there is a shortage of it and
+nor it is idle. Any shortage of cash will damage the credit worthiness of the enterprise.
+The idle cash with the business will mean that it is not properly used. Cash flow
+statements are used to find out various sources and application of cash.
+6. Implementing Financial Controls:- An efficient system of financial management necessitates the use of
+various control devises. Financial control devises generally used are budgetary control,
+break even analysis; cost control, ratio analysis etc. The use of various techniques by
+the finance manager will help him in evaluating the performance in various areas and
+take corrective measures whenever needed.
+7. Proper use of Surplus: - The utilization of profit or surplus is also an important factor in financial
+management. A judicious use of surpluses is essential for expansion and diversification
+plan and also in protecting the interest of shareholders. The finance manager should
+consider the following factors before declaring the dividend;
+a. Trend of earnings of the enterprise
+b. Expected earnings in future.
+c. Market value of shares.
+d. Shareholders interest.
+e. Needs of fund for expansion etc.
+1.3 FINANCIAL GOAL: PROFIT MAXIMIZATION VS WEALTH MAXIMIZATION
+The objective of a Financial Management is to design a method of operating the Internal
+Investment and financing of a firm. The two widely used approaches are Profit
+Maximization and Wealth maximization.
+Investment and financing decisions of the firm's are continuous and unavoidable.
+Generally the financial goal of the firm should be shareholders' wealth maximization
+(SWM), as reflected in the market value of the firm's shares. In this section, we show
+that the shareholders' wealth maximization is theoretically logical and operationally
+feasible for guiding the financial decision-making.
+1.3.1 Profit Maximization
+Profit maximization is considered as the goal of financial management. In this
+approach actions that increase the profits should be undertaken and the actions that
+decrease the profits are avoided. The term 'profit' is used in two senses. In one sense it
+is used as an owner oriented. In this concept it refers to the amount and share of
+national Income that is paid to the owners of business. The second way is an
+operational concept i.e. profitability. It is the traditional and narrow approach, which
+aims at, maximizes the profit of the concern. The Ultimate aim of the business concern
+is earning profit, hence, it considers all the possible ways to increase the profitability of
+the concern. Profit is the parameter of measuring the efficiency of the business concern.
+So it shows the entire position of the business concern. And hence Profit maximization
+objectives help to reduce the risk of the business. Its main aim is to earn profit. In this
+criteria Profit is the main parameter of business operation. It reduces the risk of
+business concern. In this criteria profit is the main source of finance and profitability
+meets the social needs.
+Some of the unfavorable arguments of profit maximizations are that it leads
+to exploiting workers and consumers. It also creates immoral practices such as corrupt
+practice, unfair trade practice, etc. It also creates inequalities among the stake holders
+such as customers, suppliers, public shareholders, etc.
+1.3.2 Objections to Profit Maximization
+1. In Profit Maximization, profit is not defined precisely or correctly. It creates some
+unnecessary opinion regarding earning habits of the business concern. For
+example, profit may be long term or short term. It may be total profit or rate of
+profit. It may be net profit before tax or net profit after tax. It may be return on
+total capital employed or total assets or shareholders equity and so on.
+2. It ignores the time value of money: Profit maximization does not consider the
+time value of money or the net present value of the cash inflow. It leads certain
+differences between the actual cash inflow and net present cash flow during a
+particular period. When the profitability is worked out the bigger the better
+principle is adopted as the decision is based on the total benefits received over
+the working life of the asset, Irrespective of when they were received.
+3. It ignores the quality aspects of benefits which are associated with the financial
+course of action. The term 'quality' means the degree of certainty associated with
+which benefits can be expected. Therefore, the more certain the expected return,
+the higher the quality of benefits. As against this, the more uncertain or
+fluctuating the expected benefits, the lower the quality of benefits.
+4. It ignores risk: Profit maximization does not consider risk of the business
+concern. Risks may be internal or external which will affect the overall operation
+of the business concern.
+It suffers from the following limitations:
+• It is vague
+• It ignores the timing of returns
+• It ignores risk.
+Definition of profit: “Profit” is a vague term. It is because different mindset will have a
+different perception of profit. For e.g. profits can be the net profit, gross profit, before tax
+profit, or the rate of profit, short- or long-term profit, total profits or profit per share. Does
+it mean total operating profit or profit accruing to shareholders ,etc.?
+Time value of Money
+The profit maximization formula simply suggests “higher the profit better is the
+proposal”. In essence, it is considering the naked profits without considering the timing
+of them. Another important dictum of finance says “a dollar today is not equal to a dollar
+a year later”. So, the time value of money is completely ignored.
+Uncertainty of returns: A decision solely based on profit maximization model would
+take a decision in favor of profits. In the pursuit of profits, the risk involved is ignored
+which may prove unaffordable at times simply because higher risks directly questions
+the survival of a business. The streams of benefits may possess different degree of
+certainty. Two firms may have same total expected earnings, but if the earnings of one
+firm fluctuate considerably as compared to the other, it will be more risky. Possibly,
+owners of the firm would prefer smaller but surer profits to potentially larger but less
+certain profits.
+Ignores Quality
+The most problematic aspect of profit maximization as an objective is that it ignores the
+intangible benefits such as quality, image, technological advancements etc. The
+contribution of intangible assets in generating value for a business is not worth ignoring.
+They indirectly create assets for the organization. 1.3.3 Maximizing Profit after Taxes
+Profit after tax is the net profit attributable to shareholders of a company
+after all costs and taxes have been deducted. This is the amount left to be paid out as
+dividends to shareholders as a return on their investment or to be ploughedback into the
+business as undistributed profits to add to the company's reserve.Maximising profit
+means maximising profits after taxes, in the sense of net profit as reported in the profit
+and loss account (income statement) of the firm. It can easily be realised that
+maximising this figure will not maximize the economic welfare of the owners. It is
+possible for a firm to increase profit after taxes by selling additional equity shares and
+investing the proceeds in low-yielding assets, such as the government bonds. Profit
+after taxes would increase but earnings per share (EPS) would decrease. To illustrate,
+let us assume that a company has 20,000 shares outstanding, profit after taxes of
+Rs.1,00,000 and earnings per share of Rs.5. If the company sells 20,000 additional
+shares at Rs.50 per share and invests the proceeds (10,00,000) at 5 per cent after
+taxes, then the total profits after taxes will increase to Rs.150,000. However, the
+earnings per share will fall to Rs.3.75 (i.e.,Rs.150,000/40,000). This example clearly
+indicates that maximising profits after taxes does not necessarily serve the best
+interests of owners.
+1.3.4 Maximizing EPS
+Earnings per share (EPS) is the portion of the company’s distributable profit which is
+allocated to each outstanding equity share (common share). Earnings per share are a
+very good indicator of the profitability of any organization, and it is one of the most
+widely used measures of profitability.
+The earnings per share are a useful measure of profitability, and when compared with
+EPS of other similar companies, it gives a view of the comparative earning power of the
+companies. EPS when calculated over a number of years indicates whether the earning
+power of the company has improved or deteriorated. Investors usually look for
+companies with steadily increasing earnings per share.
+Growth in EPS is an important measure of management performance because it shows
+how much money the company is making for its shareholders, not only due to changes
+in profit, but also after all the effects of issuance of new shares (this is especially
+important when the growth comes as a result of acquisition).
+If we adopt maximising EPS as the financial objective of the firm, this will also not
+ensure the maximization of owners' economic welfare. It also suffers from the flaws
+already mentioned, i.e. it ignores timing and risk of the expected benefits.
+It is, thus, clear that maximising profits after taxes or EPS as the financial
+objective fails to maximize the economic welfare of owners. Both methods do not take
+account of the timing and uncertainty of the benefits. An alternative to profit
+maximization, which solves these problems, is the objective of wealth maximization.
+1.3.5 Wealth Maximization: Wealth maximization is one of the modern approaches,
+which involves latest innovations and improvements in the field of the business concern.
+The term wealth means shareholder wealth or the wealth of the persons those who are
+involved in the business concern. Wealth maximization is also known as value
+maximization or net present worth maximization. This objective is a universally accepted
+concept in the field of business. It removes technical disadvantages of the profit
+maximization. Wealth maximization is superior to the profit maximization because the
+main aim of the business concern under this concept is to improve the value or wealth
+of the shareholders. Wealth maximization considers the comparison of the value to cost
+associated with the business concern. Total value detected from the total cost incurred
+for the business operation. It provides extract value of the business concern. This
+concept considers both time and risk of business concern. This criterion provides
+efficient allocation of resources and it also ensures the economic interest of the society.
+The wealth maximization criterion is based on cash flows generated and not on
+accounting profit. The computation of cash inflows and cash outflows is precise. Wealth
+maximization can be activated only with the help of the profitable position of the
+business concern. So the goal of maximizing the value of the stock avoids the problems
+associated with the different goals we discussed above. In a simple language a good
+financial decisions increase the market value of the owners’ equity and poor financial
+decisions decrease it. So the financial manager best serves the owners of the business
+by identifying goods and services that add value to the firm because they are desired
+and valued in the free marketplace. So it is a long term concept based on the cash flows
+rather than profits and hence there can be a situation where a business makes losses
+every year but there are cash profits because of heavy depreciation which indirectly
+suggests heavy investment in fixed assets and that is the real wealth and it takes into
+account the time value of money and so is universally accepted.
+ShareShare Profit Maximisation an d Wealth Maximisation
+1.3.6 Profit maximization vs. wealth maximization
+The essential difference between the maximization of profits and the maximization
+of wealth is that the profits focus is on short-term earnings, while the wealth focus is
+on increasing the overall value of the business entity over time. These differences
+are substantial, as noted below:
+ Planning duration. Under profit maximization, the immediate increase of profits is
+paramount, so management may elect not to pay for discretionary expenses, such
+as advertising, research, and maintenance. Under wealth maximization,
+management always pays for the discretionary expenditures.  Risk management. Under profit maximization, management minimizes expenditures,
+so it is less likely to pay for hedges that could reduce the organization's risk profile.
+A wealth-focused company would work on risk mitigation, so its risk of loss is
+reduced.  Pricing strategy. When management wants to maximize profits, it prices products as
+high as possible in order to increase margins. A wealth-oriented company could do
+the reverse, electing to reduce prices in order to build market share over the long
+term.  Capacity planning. A profit-oriented business will spend just enough on its
+productive capacity to handle the existing sales level and perhaps the short-termsales forecast. A wealth-oriented business will spend more heavily on capacity in
+order to meet its long-term sales projections.
+It should be apparent from the preceding discussion that profit maximization is a
+strictly short-term approach to managing a business, which could be damaging over
+the long term. Wealth maximization focuses attention on the long term, requiring a
+larger investment and lower short-term profits, but with a long-term payoff that
+increases the value of the business.
+1.3.7 Need for a Valuation Approach
+The necessity for valuation of shares arises in the following circumstances:  Assessments under the wealth tax or gift tax acts.  Purchase of a block of shares which may or may not give the holder thereof a
+controlling interest in the company.  Purchase of share by the employees of the company where the retention of such
+shares is limited to the period of their employment.  Formulation of schemes of amalgamation, absorption, etc.  Acquisition of interest of dissenting shareholders under a scheme of
+rationalization.  Compensating shareholders on the acquisition of their shares by the government
+under a scheme of rationalization.  Conversation of shares i.e. preference into equity.
+ Advancing of loan on the security of shares.  Resolving a deadlock in the management of a private limited company on the
+basis of the controlling block of shares being given to either of the parties.
+Normally, the price prevailing on the stock exchange is accepted.
+Valuation by a valuer becomes a necessary when:  Shares are unquoted.  Shares relate to private limited companies.  Courts are direct.  Articles of association or relevant agreement so provide.  Large block of shares is under transfer.  Statutes so require.
+. The financial manager must know or at least assume the factors that influence the
+market price of shares, otherwise he or she would find himself or herself unable to
+maximize the market value of the company's shares. What is the appropriate share
+valuation model? In practice, innumerable factors influence the price of a share, and
+also, these factors change very frequently. Moreover, these factors vary across shares
+of different companies. For the purpose of the financial management problem, we can
+phrase the crucial questions normally: How much should a particular share be worth?
+Upon what factor or factors should its value depend? Although there is no simple
+answer to these questions, it is generally agreed that the value of an asset depends on
+its risk and return
+1.3.8 Risk-Return Trade-Off The risk-return tradeoff is the principle that potential
+return rises with an increase in risk. Low levels of uncertainty or risk are associated with
+low potential returns, whereas high levels of uncertainty or risk are associated with high
+potential returns. According to the risk-return tradeoff, invested money can render
+higher profits only if the investor is willing to accept the possibility of losses. Financial decisions incur different degrees
+of risk. Your decision to invest your
+money in government bonds has less risk
+as interest rate is known and the risk of
+default is very less. On the other hand,
+you would incur more risk if you decide to
+invest your money in shares, as return is
+not certain. However, you can expect a
+lower return from government bond and
+higher from shares. Risk and expected
+return move in tandem; the greater the
+risk, the greater the expected return.
+Risk premiumRisk-free ReturnRisk
+Expected
+Return
+Fig. 1.1 The Risk-Return Relationship
+Check Your Progress
+1. What is the advantage enjoyed by
+financial assets vis-a-vis real
+assets in a business?
+2. What are the main types of
+shareholder funds available to a
+company?
+3. Which are the major ways in which
+a company may be able to raise
+new capital?
+4. Why are borrowed funds often
+preferred over equity by firms to
+fund their businesses?
+Figure 1.1 shows this risk-return relationship.
+Financial decisions of the firm are guided by the risk-return trade-off. These
+decisions are interrelated and jointly affect
+the market value of its shares by influencing
+return and risk of the firm. The relationship
+between return and risk can be simply
+expressed as follows:
+Return = Risk-free rate + Risk premium (1)
+Risk-free rate is a rate obtainable
+from a default-risk free government security.
+An investor assuming risk from her
+investment requires a risk premium above
+the risk-free rate. Risk-free rate is a
+compensation for time and risk premium for
+risk. Higher the risk of an action, higher will be the risk premium leading to higher
+required return on that action. A proper balance between return and risk should be
+maintained to maximize the market value of a firm's shares. Such balance is called riskreturn trade-off, and every financial decision involves this trade-off. The interrelation
+between market value, financial decisions and risk-return trade-off is depicted in Figure
+1.2. It also gives an overview of the functions of financial management.
+Financial Management
+Maximisation of Share Value
+Financial Decision
+Investment
+Decisions
+Liquidity
+Manageme
+nt
+Financing
+Decisions
+Dividend
+Decisions
+Return Risk Trade-off
+Fig. 1.2 An overview of financial management
+The financial manager, in a bid to maximize shareholders' wealth, should strive to
+maximize returns in relation to the given risk; he or she should seek courses of actions
+that avoid unnecessary risks. To ensure maximum return, funds flowing in and out of
+the firm should be constantly monitored to assure that they are safeguarded and
+properly utilized. The financial reporting system must be designed to provide timely and
+accurate picture of the firm's activities.
+1.4 FINANCE FUNCTIONS
+It may be difficult to separate me finance functions from production, marketing and other
+functions, but the functions themselves can be readily identified. The functions of raising
+funds, investing them in assets and distributing returns earned from assets to
+shareholders are respectively known as financing decision, investment decision and
+dividend decision. A firm attempts to balance cash inflows and outflows while
+performing these functions. This is called liquidity decision, and we may add it to the list
+of important finance decisions or functions. Thus finance functions include:  Long-term asset-mix or investment decision
+ Capital-mix or financing decision
+ Profit allocation or dividend decision
+ Short-term asset-mix or liquidity decision
+A firm performs finance functions simultaneously and continuously in the normal
+course of the business. They do not necessarily occur in a sequence. Finance functions
+call for skilful planning, control and execution of a firm's activities.
+Let us note at the outset that shareholders are made better off by a financial
+decision that increases the value of their shares. Thus while performing the finance
+functions, the financial manager should strive to maximize the market value of shares.
+This point is elaborated in detail later on in the unit.
+1.4.1 Investment Decision
+One of the most important finance functions is to intelligently allocate capital to long
+term assets. This activity is also known as capital budgeting. It is important to allocate
+capital in those long term assets so as to get maximum yield in future. Following are the
+two aspects of investment decision
+a. Evaluation of new investment in terms of profitability
+b. Comparison of cut off rate against new investment and prevailing investment.
+Since the future is uncertain therefore there are difficulties in calculation of expected
+return. Along with uncertainty comes the risk factor which has to be taken into
+consideration. This risk factor plays a very significant role in calculating the expected
+return of the prospective investment. Therefore while considering investment proposal it
+is important to take into consideration both expected return and the risk involved.
+Check Your Progress
+5. List the main areas of financial
+decision making.
+6. What should be the main financial
+goal of a firm?
+7. Why are indicators like profits
+after taxes and earnings per
+share not the best ways to decide
+the financial goals of a firm?
+Investment decision not only involves allocating capital to long term assets but also
+involves decisions of using funds which are obtained by selling those assets which
+become less profitable and less productive. It wise decisions to decompose depreciated
+assets which are not adding value and utilize those funds in securing other beneficial
+assets. An opportunity cost of capital needs to be calculating while dissolving such
+assets. The correct cut off rate is calculated by using this opportunity cost of the
+required rate of return (RRR)
+1.4.2 Financing Decision
+Financial decision is yet another important
+function which a financial manger must
+perform. It is important to make wise
+decisions about when, where and how should
+a business acquire funds. Funds can be
+acquired through many ways and channels.
+Broadly speaking a correct ratio of an equity
+and debt has to be maintained. This mix of
+equity capital and debt is known as a firm’s
+capital structure.
+A firm tends to benefit most when the market
+value of a company’s share maximizes this
+not only is a sign of growth for the firm but
+also maximizes shareholders wealth. On the
+other hand the use of debt affects the risk and
+return of a shareholder. It is more risky though it may increase the return on equity
+funds.
+A sound financial structure is said to be one which aims at maximizing shareholders
+return with minimum risk. In such a scenario the market value of the firm will maximize
+and hence an optimum capital structure would be achieved. Other than equity and debt
+there are several other tools which are used in deciding a firm capital structure.
+1.4.3 Dividend Decision
+Earning profit or a positive return is a common goal of all the businesses. But the key
+function a financial manger performs in case of profitability is to decide whether to
+distribute all the profits to the shareholders or retain all the profits or distribute part of
+the profits to the shareholder and retain the other half in the business.
+It’s the financial manager’s responsibility to decide an optimum dividend policy which
+maximizes the market value of the firm. Hence an optimum dividend payout ratio is
+calculated. It is a common practice to pay regular dividends in case of profitability
+another way is to issue bonus shares to existing shareholders.
+Bonus shares are shares issued to the existing shareholders without any charge. The
+financial manager should consider the questions of dividend stability, bonus shares and
+cash dividends in practice.
+1.4.4 Liquidity Decision
+It is very important to maintain a liquidity position of a firm to avoid insolvency. Firm’s
+profitability, liquidity and risk all are associated with the investment in current assets. In
+order to maintain a tradeoff between profitability and liquidity it is important to invest
+sufficient funds in current assets. But since current assets do not earn anything for
+business therefore a proper calculation must be done before investing in current assets.
+Current assets should properly be valued and disposed of from time to time once they
+become non profitable. Currents assets must be used in times of liquidity problems and
+times of insolvency.
+In sum, financial decisions directly concern the firm's decision to acquire or
+dispose off assets and require commitment or recommitment of funds on a continuous
+basis. It is in this context that finance functions are said to influence production,
+marketing and other functions of the firm. Hence finance functions may affect the size,
+growth, profitability and risk of the firm, and ultimately, the value of the firm.
+1.5 INNOVATIVE FINANCE FUNCTIONS
+Who is a financial manager? What is his or her role? A financial manager is a person
+who is responsible, in a significant way, to carry out the finance functions. It should be
+noted that, in a modern enterprise, the financial manager occupies a key position. He or
+she is one of the members of the top management team, and his or her role, day-by- day, is becoming more pervasive, intensive and significant in solving the complex funds
+management problems. Now his or her function is not confined to mat of a scorekeeper
+maintaining records, preparing reports and raising funds when needed, nor is he or she
+a staff officer-in a passive role of an adviser. The finance manager is now responsible
+for shaping the fortunes of the enterprise, and is involved in the most vital decision of
+the allocation of capital. In his or her new role, he or she needs to have a broader and
+far-sighted outlook, and must ensure that the funds of the enterprise are utilized in the
+most efficient manner. He or she must realize that his or her actions have far-reaching
+consequences for the firm because they influence the size, profitability, growth, risk and
+survival of the firm, and as a consequence, affect the overall value of the firm The
+financial manager, therefore, must have a clear understanding and a strong grasp of the
+nature and scope of the finance functions.
+The financial manager has not always been in the dynamic role of decision
+making. About three decades ago, he or she was not considered an important person,
+as far as the top management decision-making was concerned. He or she became an
+important management person only which the advent of the modern or contemporary
+approach to the financial management. What are the main functions of a financial
+manager?
+1.5.1 Fund Raising
+The traditional approach dominated the scope of financial management and limited the
+role of the financial manager simply to funds raising. It was during the major events,
+such as promotion, reorganization, expansion or diversification in the firm dial the
+financial manager was called upon to raise funds. In his or her day-to-day activities, his
+or her only significant duty was to see that the firm had enough cash to meet its
+obligations. Because of its central emphasis on the procurement of funds, the finance
+textbooks, for example, in the USA, till the mid 1950s covered discussion of the
+instruments, institutions and practices through which funds were obtained. Further, as
+the problem of raising funds was more intensely felt in the special events, these books
+also contained detailed descriptions of the major events like mergers, consolidations,
+reorganizations and recapitalizations involving episodic financing. The finance books
+in India and other countries simply followed the American pattern. The notable feature
+of the traditional view of financial management was the assumption that the financial
+manager had no concern with the decision of allocating the firm's funds. These
+decisions were assumed as given, and he or she was required to raise the needed
+funds from a combination of various sources.
+The traditional approach did not go unchallenged even during the period of its
+dominance. But the criticism related more to the treatment of various topics rather than
+the basic definition of the finance function. The traditional approach has been criticized
+because it failed to consider the day-to-day managerial problems relating to finance of
+the firm. It concentrated itself to looking into the problems from management's point of
+view. Thus the traditional approach of looking at the role of the financial manager lacked
+a conceptual framework for making financial decisions, misplaced emphasis on raising
+of funds, and neglected the real issues relating to the allocation and management of
+funds.
+1.5.2 Fund Allocation
+The traditional approach outlived its utility in the changed business situation particularly
+after the mid 1950s. A number of economic and environmental factors, such as the
+increasing pace of industrialization, technological innovations and inventions, intense
+competition, increasing intervention of government on account of management
+inefficiency and failure, population growth and widened markets, during and after mid
+1950s, necessitated efficient and effective utilization of the firm's resources, including
+financial resources. The development of a number of management skills and decision
+making techniques facilitated the implementation of a system of optimum allocation of
+the firm's resources. As a result, the approach to, and the scope of financial
+management, also changed. The emphasis shifted from the episodic financing to the
+financial management, from raising of funds to efficient and effective use of funds. The
+new approach is embedded in sound conceptual and analytical theories.
+The new or modern approach to finance is an analytical way of looking into the
+financial problems of the firm. Financial management is considered a vital and an
+integral part of overall management. To quote Ezra Solomon:
+In this broader view the central issue of financial policy is the wise use of funds,
+and the central process involved is a rational matching of advantages of potential uses
+against the cost of alternative potential sources so as to achieve the broad financial
+goals which an enterprise sets for itself.
+Thus, in a modern enterprise, the basic finance function is to decide about the
+expenditure decisions and to determine the demand for capital for these expenditures.
+In other words, the financial manager, in his or her new role, is concerned with the
+efficient allocation of funds. The allocation of funds is not a new problem, however. It
+did exist in the past, but it was not considered important enough in achieving the firm's
+long run objectives.
+In his or her new role of using funds wisely, the financial manager must find a
+rationale for answering the following three questions:  How large should an enterprise be, and how fast should it grow?
+ In what form should it hold its assets?
+ How should the funds required be raised?
+As discussed earlier, the questions stated above relate to three broad decision areas
+of financial management: investment (including both long and short-term assets),
+financing and dividend. The "modern" financial manager has to help making these
+decisions in the most rational way. They have to be made in such a way that the funds
+of the firm are used optimally. We have referred to these decisions as managerial
+finance functions since they require special care and extraordinary managerial ability.
+As discussed earlier, the financial decisions have a great impact on all other
+business activities. The concern of the financial manager, besides his traditional
+function of raising money, will be on determining the size and technology of the firm, in
+setting the pace and direction of growth and in shaping the profitability and risk
+complexion of the firm by selecting the best asset mix and financing mix,
+1.5.3 Profit Planning
+The functions of the financial manager may be broadened to include profit-planning
+function. Profit planning refers to the operating decisions in the areas of pricing, costs,
+volume of output and the firm's selection of product lines. Profit planning is, therefore, a
+prerequisite for optimizing investment and financing decisions. The cost structure of the
+firm, i.e. the mix of fixed and variable costs has a significant influence on a firm's
+profitability. Fixed costs remain constant while variable costs change in direct proportion
+to volume changes. Because of the fixed costs, profits fluctuate at a higher degree than
+the fluctuations in sales. The change in profits due to the change in sales is referred to
+as operating leverage. Profit planning helps to anticipate the relationships between
+volume, costs and profits and develop action plans to face unexpected surprises.
+1.5.4 Understanding Capital Markets
+Capital markets bring investors (lenders) and firms (borrowers) together. Hence the
+financial manager has to deal with capital markets. He or she should fully understand
+the operations of capital markets and the way in which the capital markets value
+securities. He or she should also know-how risk is measured and how to cope with it in
+investment and financing decisions. For example, if a firm uses excessive debt to
+finance its growth, investors may perceive it as risky. The value of the firm's share may,
+therefore, decline. Similarly, investors may not like the decision of a highly profitable,
+growing firm to distribute dividend. They may like the firm to reinvest profits in attractive
+opportunities that would enhance their prospects for making high capital gains in the
+future. Investments also involve risk and return. It is through their operations in capital
+markets that investors continuously evaluate the actions of the financial manager.
+The vital importance of the financial decisions to a firm makes it imperative to set
+up a sound and efficient organization for the finance functions. The ultimate
+responsibility of carrying out the finance functions lies with the top management. Thus,
+a department to organize financial activities may be created under the direct control of
+the board of directors. The board may constitute a finance committee. The executive
+heading the finance department is the firm's chief finance officer (CFO), and he or she
+may be known by different designations. The finance committee or CFO will decide the
+major financial policy matters, while the routine activities would be delegated to lower
+levels. For example, at BHEL a director of finance at the corporate office heads the
+finance function. He is a member of the board of directors and reports to the chairman
+and managing director (CMD). An executive director of finance (EDF) and a general
+manager of finance (GMF) assist the director of finance. EDF looks after funding,
+budgets and cost, books of accounts, financial services and cash management. GMF is
+responsible for internal audit and taxation.
+The reason for placing the finance functions in the hands of top management
+may be attributed to the following factors: First, financial decisions are crucial for the
+survival of the firm. The growth and development of the firm is directly influenced by the
+financial policies. Second, the financial actions determine solvency of the firm. At no
+cost can a firm afford to threaten its solvency. Because solvency is affected by the flow
+of funds, which is a result of the various financial activities, top management being in a
+position to coordinate these activities retains finance functions in its control. Third,
+centralization of the finance functions can result in a number of economies to the firm.
+For example, the firm can save in terms of interest on borrowed funds, can purchase
+fixed assets economically or issue shares or debentures efficiently.
+1.5.5 Status and Duties of Finance Executives
+The exact organization structure for financial management will differ across firms. It will
+depend on factors such as the size of the firm, nature of the business, financing
+operations, capabilities, of the firm's financial officers and most importantly, on the
+financial philosophy of the firm. The designation of the chief financial officer (CFO)
+would also differ within firms. In some firms, the financial officer may be known as me
+financial manager, while in others as the vice-president of finance or the director of
+finance or the financial controller. Two more officers—treasurer and controller— may be
+appointed under the direct supervision of CFO to assist him or her. In larger companies,
+with modern management, there may be vice-president or director of finance, usually
+with both controller and treasurer reporting to him.15
+Figure 1.3 illustrates the financial organization of a large (hypothetical) business
+firm. It is a simple organization chart, and as stated earlier, the exact organization for a
+firm will depend on its circumstances. The finance function is one of the major functional
+areas, and the financial manager or director is under the control of the board of
+directors. Figure 1.4 shows the organization for the finance function of a large, multi- divisional Indian company.
+Board of Directors
+Managing Director
+Production Director
+Production
+Director
+Personnel
+Director
+Financial
+Director
+Marketing
+Director
+Treasurer Controller
+Fig. 1.3 Organization for Finance Function
+Planning and
+Budgeting
+Inventory
+Management
+Performance
+Evaluation
+Accounting
+Auditing Credit
+Management
+Retirement
+Benefits
+Cost Control
+Board of Directors
+Managing Director
+Production Director
+Production
+Director
+Personnel
+Director
+Financial
+Director
+Marketing
+Director
+Treasurer Controller
+Fig. 1.3 Organization for Finance Function
+Planning
+and
+Budgeting
+Inventory
+Managemen
+t
+Performance
+Evaluation
+Accounting
+Auditing Credit
+Managemen
+t
+Retirement
+Benefits
+Cost Control
+CFO has both line and staff responsibilities. He or she is directly concerned with
+the financial planning and control. He or she is a member of the top management, and
+he or she is closely associated with the formulation of policies and making decisions for
+the firm. The treasurer and controller, if a company has these executives, would operate
+under CFO's supervision. He or she must guide them and others in the effective working
+of the finance department.
+The main function of the treasurer is to manage the firm's funds. His or her major
+duties include forecasting the financial needs, administering the flow of cash, managing
+credit, floating securities, maintaining relations with financial institution and protecting
+funds and securities. On the other hand, the functions of the controller relate to the
+management and control of assets. His or her duties include providing information to
+formulate accounting and costing policies, preparation of financial reports, direction of
+internal auditing, budgeting, inventory control, taxes etc. It may be stated that the
+controller's functions concentrate the asset side of the balance sheet, while treasurer's
+functions relate to the liability side.
+1.5.6 Controller's and Treasurer's Functions in the Indian Context
+The controller and the treasurer are essentially American terms. Generally speaking,
+the American pattern of dividing the financial executive's functions into controllership
+and treasurer ship functions is not being widely followed in India. We do have a number
+of companies in India having officers with the designation of the controller, or the
+financial controller. The controller or the financial controller in India, by and large,
+performs the functions of a chief accountant or management accountant. The officer
+with the title of treasurer can also be found in a few companies in India.
+It should be realised that the financial controller does not control finances; he or
+she develops, uses and interprets information—some of which will be financial in
+nature—for management control and planning. For this reason, the financial controller
+may simply be called as the controller. Management of finance or money is a separate
+and important activity. Traditionally, the accountants have been involved in managing
+money in India. But the difference in managing money resources and information
+resources should be appreciated.
+In the American business, the management of finance is treated as a separate
+activity and is being performed by the treasurer. The title of the treasurer has not found
+favour in India to the extent the controller has. The company secretary in India
+discharges some of the functions performed by the treasurer in the American context.
+Insurance coverage is an example in this regard. The function of maintaining relations
+with investors (particularly shareholders) may now assume significance in India
+because of the development in the Indian capital markets and the increasing awareness
+among investors.
+The general title, financial manager or finance director, seems to be more
+popular in India. This title is also better than me title of treasurer since it conveys the
+functions involved. The main function of the financial manager in India should be the
+management of the company's funds. The financial duties may often be combined with
+Check Your Progress
+8. What are the major roles that
+the Chief Finance Officer (CFO)
+of a firm is expected to play in
+today's business environment?
+others. But the significance of not combining the financial manager's duties with others
+should be realised. The managing of funds—a very valuable resource—is a business
+activity requiring extraordinary skill on the part of the financial manager. He or she
+should ensure the optimum use of money under various constraints. He or she should,
+therefore, be allowed to devote his or her full energy and time in managing the money
+resources only.
+1.6 SUMMARY
+ The finance functions can be divided into three broad categories: (1) investment
+decision, (2) financing decision, and (3) dividend decision. In other words, the
+firm decides how much to invest in short-term and long-term assets and how to
+raise the required funds.  In making financial decisions, the financial manager should aim at increasing the
+value of the shareholders' stake in the firm. This is referred to as the principle of
+shareholders' wealth maximization (SWM).  Wealth maximization is superior to profit maximization since wealth is precisely
+defined as net present value and it accounts for time value of money and risk.  Shareholders and managers have the principal-agent relationship. In practice,
+there may arise a conflict between the interests of shareholders and managers.
+This is referred to the agency problem and the associated costs are called
+agency costs. Offering ownership rights (in the form of stock options) to
+managers can mitigate agency costs.  The financial manager raises capital
+from the capital markets. He or she
+should therefore know how the capital
+markets function to allocate capital to
+the competing firms and how security
+prices are determined in the capital
+markets.  Most companies have only one chief
+financial officer (CFO). But a large
+company may have both a treasurer and
+a controller, who may or may not operate under a CFO.  The treasurer's function is to raise and manage company funds while the
+controller oversees whether the funds are correctly applied. A number of
+companies in India either have a finance director or a vice-president of finance as
+the chief financial officer.
+1.7 KEY TERMS
+ Profit Planning: The operating decisions in the areas of pricing, costs, volume of
+output and the firm's selection of product lines.  Operating Leverage: The change in profits due to the change in sales.  Opportunity Cost of Capital: The expected rate of return that an investor could
+earn by investing his or her money in financial assets of equivalent risk.
+ Net Present Value (NPV): The NPV of a course of action is the difference
+between the present value of its benefits and the present value of its costs.
+1.8 ANSWERS TO 'CHECK YOUR PROGRESS'
+1. Financial assets like shares and bonds can be bought or sold more easily. Real
+assets like plant and machinery, building etc. are not as liquid as financial assets
+are.
+2. Mostly equity funds consisting of ordinary shares and undistributed profits
+(retained earnings).
+3. By issuing new shares to the general public as well as to existing shareholders
+which are known as rights shares.
+4. A firm borrows money from lenders; they are not owners of the business. There
+are three reasons for preferring borrowed funds: (1) Unlike dividends on
+shareholder funds, the amount of interest paid on borrowed funds by a firm saves
+taxes as it is treated as a deductible expense while computing income tax
+payable by a firm. (2) The shareholders' return will be higher if the interest rate
+on borrowed funds is less than return from assets or business. (3) It is relatively
+easy to raise borrowed funds from a financial institution or bank than issuing
+equity funds.
+5. The main areas of financial decision making are (1) the investment decision (or
+capital budgeting decision), (2) the financing decision (or capital structure
+decision), (3) the dividend decision (or profit allocation decision) and (4) the
+liquidity decision (or working capital management decision).
+6. The main financial goal of a firm is to create value for shareholders by
+maximizing the wealth of shareholders.
+7. The CFO, heading the finance function of a company, is often a member of the
+Board of Directors and reports to the Chairman & Managing Director of the
+Company. Typically, the CFO supervises the work of the Treasurer and the
+Controller, who in turn look after various functional areas.
+1.9 QUESTIONS AND EXERCISES
+Short- Answer Questions
+1. Define the scope of financial management. What role should the financial
+manager play in a modern enterprise?
+2. What are the basic financial decisions? How do they involve risk-return trade-off?
+3. How should the finance function of an enterprise be organized? What functions
+does the financial officer perform?
+4. When can there arise a conflict between shareholders' and managers' goals?
+How does the wealth maximization goal take care of this conflict?
+Long-Answer Questions
+1. How does the "modern" financial manager differ from the "traditional" financial
+manager? Does the "modern" financial manager's role differ for the large
+diversified firm and the small to medium size firm?
+2. "Profit maximization is not an operationally feasible criterion". Do you agree?
+Illustrate your views.
+3. In what ways is the wealth maximization objective superior to the profit
+maximization objective? Explain.
+4. Should the titles of controller and treasurer be adopted under Indian context?
+Would you like to modify their functions in view of the company practices in
+India? Justify your opinion.
+UNIT-2
+COST OF CAPITAL
+2.1 COST OF CAPITAL
+In this unit, we focus on the concept of the cost of capital as a discount rate and the
+procedure of its measurement.
+The opportunity cost of capital (or simply, the cost of capital) for a project is the
+discount rate for discounting its cash flows. The project's cost of capital is the minimumrequired rate of return on funds committed to the project, which depends on the
+riskiness of its cash flows. Since the investment projects undertaken by a firm may differ
+in risk, each one of them will have its own unique cost of capital. It should be clear at
+the outset that the cost of capital for a project is defined by its risk, rather than the
+characteristics of the firm undertaking the project.
+The firm represents the aggregate of investment projects undertaken by it.
+Therefore, the firm's cost of capital will be the overall, or average, required rate of return
+on the aggregate of investment projects. Thus the firm's cost of capital is not the same
+thing as the project's cost of capital. Can we use the firm's cost of capital for discounting
+the cash flows of an investment projects. The firm's cost of capital can be used for
+discounting the cash flows of those investment projects, which have risk equivalent to
+the average risk of the firm. As a first step, however, the firm's cost of capital can be
+used as a standard for establishing the required rates of return of the individual
+investment projects. In the absence of a reliable formal procedure of calculating the cost
+of capital for projects, the firm's cost of capital can be adjusted upward or downward to
+account for risk differentials of investment projects. That is, an investment project's
+required rate of return may be equal to the firm's cost of capital plus or minus a risk
+adjustment factor depending on whether the project's risk is higher or lower than the
+firm's risk. There does exit a methodology to calculate its cost of capital for projects. The
+objective method of calculating the risk-adjusted cost of capital for projects is to use the
+capital asset pricing model (CAPM), as we show later in this unit.
+2.1.1 Meaning and Significance of Cost of Capital
+We should recognize that the cost of capital is one of the most difficult and disputed
+topics in the finance theory. Financial experts express conflicting opinions as to the
+correct way in which the cost of capital can be measured. Irrespective of the
+measurement problems, it is a concept of vital importance in the financial decision
+making. It is useful as a standard for:  evaluating investment decisions,  designing a firm's debt policy, and
+ appraising the financial performance of top management.
+Investment evaluation
+The primary purpose of measuring the cost of capital is its use as a financial
+standard for evaluating the investment projects. In the NPV method, an investment
+project is accepted if it has a positive NPV. The project's NPV is calculated by
+discounting its cash flows by the cost of capital. In this sense, the cost of capital is the
+discount rate used for evaluating the desirability of an investment project. In the IRR
+method, the investment project is accepted if it has an internal rate of return greater
+than the cost of capital. In this context, the cost of capital is the minimum required rate
+of return on an investment project. It is also known as the cutoff rate, or the hurdle rate.
+An investment project that provides a positive NPV when its cash flows are
+discounted by the cost of capital makes a net contribution to the wealth of shareholders.
+If the project has zero NPV, it means that its cash flows, have yielded a return just equal
+to the cost of capital, and the acceptance or rejection of the project will not affect the
+wealth of shareholders. The cost of capital is the minimum required rate of return on the
+investment project that keeps the present wealth of shareholders unchanged. It may be,
+thus, noted that the cost of capital represents a financial standard for allocating the
+firm's funds, supplied by owners and creditors, to the various investment projects in the
+most efficient manner.
+Designing debt policy
+The debt policy of a firm is significantly influenced by the cost consideration. As
+we shall learn later on, debt helps to save taxes, as interest on debt is a tax-deductible
+expense. The interest tax shield reduces the overall cost of capital, though it also
+increases the financial risk of the firm. In designing the financing policy, that is, the
+proportion of debt and equity in the capital structure, the firm aims at maximising the
+firm value by minimizing the overall cost of capital.
+The cost of capital can also be useful in deciding about the methods of financing
+at a point of time. For example, cost may be compared in choosing between leasing and
+borrowing. Of course, equally important considerations are control and risk.28
+Performance appraisal
+The cost of capital framework can be used to evaluate the financial performance of top
+management.29 Such an evaluation will involve a comparison of actual profitability of the
+investment projects undertaken by the firm with the projected overall cost of capital, and
+the appraisal of the actual costs incurred by management in raising the required funds.
+The cost of capital also plays a useful role in dividend decision and investment in
+current assets.
+2.1.2 Calculation of Cost of Debt
+A company may raise debt in a variety of ways. It may borrow funds from financial
+institutions or public either in the form of public deposits or debentures (bonds) for a
+specified period of time at a certain rate of interest. A debenture or bond may be Issued
+at par or at a discount or premium as compared to its face value. The contractual rule of
+interest or the coupon rate forms the basis for calculating the cost of debt.
+Debt issued at par
+The method of computation for ascertaining cost of debt which is issued at par is
+comparatively an easy task. It is nothing but the explicit interest rate adjusted again for
+the tax liability.
+Symbolically,
+Example:
+A company has issued 8% debentures and the tax rate is 50%, the after tax cost of debt
+will be 4%. — It may be’ calculated as under:
+kd=(1-50%)8=(1-0.5)8=4
+Since interest is treated as an expense while calculating firm’s income for income- tax
+purpose, the tax is deducted out of the interest payable. This tax adjusted interest rate
+is used only where the EBIT (Earnings/Profits before Interest and Tax) is equal to or
+exceed the interest.
+The before-tax cost of debt is the rate of return required by lenders. It is easy to
+compute before-tax cost of debt issued and to be redeemed at par; it is simply equal to
+the contractual (or coupon) rate of interest. For example, a company decides to sell
+new issue of 7 year 15 per cent bonds of Rs. 100 each at par. If the company realizes
+the full face value of Rs. 100 bond and will pay Rs. 100 principal to bondholders at
+maturity, the before-tax cost of debt will simply be equal to the rate of interest of 15 per
+cent.
+Thus: kd= i = (13)
+where kd is the before-tax cost of debt, i is the coupon rate of interest, B0 is the issue
+price of the bond (debt) and in Equation (13) it is assumed to be equal to the face value
+(F), and INT is the amount of interest. The amount of interest payable to the lender is
+always equal to:
+Interest = Face value of debt x Interest rate
+The before-tax cost of bond in the example is:
+kd =
+.
+. = 0.15 or 15%
+We could arrive at same results as above by using Equation (13): cash outflow are Rs.
+15 interest per year for 7 years and Rs. 100 at the end of seventh year in exchange for
+Rs 100 now. Thus:
+By trial and error, we find that the discount rate (kd), which solves the equation, is 15 per
+cent:
+100 = 15(4.160) + 100(0.376) = 62.40 + 37.60 = 100
+Clearly, the before-tax cost of bond is the rate, which the investment should yield to
+meet the outflows to bondholders.
+Debt issued at discount or premium
+In many cases, bonds or debentures may be issued at a premium (when, it is more than
+the face value) or at a discount (when it is less than the face value). In that case, the
+cost of debt must not be equal to the coupon rate of interest. Moreover, if discounts or
+premiums are amortized for income-tax purposes, it should also be considered.
+(14)
+Illustration 2.1: A company issues 10% Debentures tor Rs. 2,00,000 Rate of tax is
+55%. Calculate the cost of debt (after tax) if the debentures are issued (i) at par (ii) at a
+discount of 10% and (iii) at a premium of 10%.
+Solution:
+Cost of debt is calculated as under:
+Solution:
+(i) Issued at Par
+= Rs. 20,000/Rs. 2,00,000 (1 – .55)
+=1/10 x .45
+= 4.5%
+(ii) Issued at a Discount of 10%
+Rs. 20,000/Rs. 1,80,000 (1 – .55)
+= 1/9 x .45
+= 5 %
+(iii) Issued at Premium of 10%
+Rs. 20,000/Rs. 2,20,000 (1 – .55)
+= 1/11 x .45
+= 4.1 %
+Illustration:2.2
+A company raises Rs 90,000 by the issue of 1,000 10% Debentures of Rs. 100 each at
+a discount of 10%, repayable at par after 10 years. If the rate of company’s tax is 50,
+what is the cost of debt capital to the firm?
+Solution:
+Cost of Redeemable Debt:
+If debt and/or debentures are redeemed after the expiry of a period, the effective cost of
+debt before tax can be calculated with the help of the following formula:
+(15)
+Illustration:2.3
+A company issues 10,000, 10% Debentures of Rs.10 each and realizes Rs.95,000 after
+allowing 5% commission to brokers. The debentures are redeemed after 10 years.
+Calculate the effective cost of debt before tax.
+Solution:
+Tax adjustment
+The interest paid on debt is tax deductible. The higher the interest charges, the lower
+will be the amount of tax payable by the firm. This implies that the government indirectly
+pays a part of the lender's required rate of return. As a result of the interest tax lenders,
+the after-tax cost of debt to the firm will be substantially less than the investors' required
+rate of return. The before-tax cost of debt, kd, should, therefore, be adjusted for the tax
+effect as follows:
+After- tax cost of debt = kd (l -T) (16)
+where T is the corporate tax rate. If the before-tax cost of bond in our example is 16.5
+per cent, and the corporate tax rate is 35 per cent, the after-tax cost of bond will be:
+kd (l -T)= 0.1650(1-0.35) = 0.l073 or 10.73%
+It should be noted that the tax benefit of interest deductibility would be available
+only when the firm is profitable and is paying taxes. An unprofitable firm is not required
+to pay any taxes. It would not gain any tax benefit associated with the payment of
+interest, and its true cost of debt is the before-tax cost.
+It is important to remember that in the calculation of the average cost of capital,
+the after-tax cost of debt must be used, not the before-tax cost of debt.
+2.2 COST OF PREFERENCE CAPITAL
+The cost of preference share capital is apparently the dividend which is committed and
+paid by the company. This cost is not relevant for project evaluation because this is not
+the cost at which further capital can be obtained. To find out the cost of acquiring
+the marginal cost, we will be finding the yield on the preference share based on the
+current market value of the preference share. The measurement of the cost of
+preference capital poses some conceptual difficulty. In the case of debt, there is a
+binding legal obligation on the firm to pay interest, and tax interest constitutes the basis
+to calculate the cost of debt. However, in the case o preference capital, payment of
+dividends is not legally binding on the firm and even if the dividends are paid, it is not a
+charge on earnings; rather it is a distribution or appropriate of earnings to preference
+shareholders. One may, therefore, be tempted to conclude that the dividends on
+preference capital do not constitute cost. This is not true.
+The cost of preference capital is a function of the dividend expected by investors for
+Preference capital is never issued with an intention not to pay dividends. Although it not
+legally binding upon the firm to pay dividends on preference capital, yet it is general
+paid when the firm makes sufficient profits. The failure to pay dividends, although does
+not cause bankruptcy, yet it can be a serious matter from the ordinary shareholders
+point of view. The non-payment of dividends on preference capital may result in voting
+rights and control to the preference shareholders. More than this, the firm's credit
+standing may be damaged. The accumulation of preference dividend arrears may
+adversely affect the prospects of ordinary shareholders for receiving any dividends
+because dividends on preference capital represent a prior claim on profits. As
+consequence, the firm may find difficulty in raising funds by issuing preference to equity
+shares. Also, the market value of the equity shares can be adversely affected if
+dividends are not paid to the preference shareholders and, therefore, to the equity
+shareholders. For these reasons, dividends on preference capital should be paid
+regularly except when the firm does not make profits, or it is in a very tight cash
+position.
+2.2.1 Irredeemable Preference Share
+The preference share may be treated as a perpetual security if it is irredeemable. Thus,
+its cost is given by the following equation:
+Kp = (17)
+Where kp is the cost of preference share, PDIV is the expected preference dividend]
+and Po is the issue price of preference share.
+Illustration 2.10: Cost of Irredeemable Preference Share
+A company issues 10 per cent irredeemable preference shares. The face value per
+share is Rs. 100, but the issue price is Rs. 95. What is the cost of a preference share?
+What is the cost if the issue price is Rs. 105?
+We can compute cost of a preference share as follows:
+Issue price Rs. 95: Kp = = = 0.1053 or 10.53%
+Issue price Rs. 105: : Kp = = = 0.0952 or 9.52%
+2.2.2 Redeemable Preference Share
+Redeemable preference shares (that is, preference shares with finite maturity) are also
+issued in practice..These shares are issued for a particular period and at the expiry of
+that period, they are redeemed and principal is paid back to the preference
+shareholders. The characteristics are very similar to debt and therefore the calculations
+will be similar too. For finding cost of redeemable preference shares, following formula
+can be used. These shares are issued for a particular period and at the expiry of that
+period, they are redeemed and principal is paid back to the preference shareholders.
+The characteristics are very similar to debt and therefore the calculations will be similar
+too. A formula similar to previous equation can be used to compute the cost of
+redeemable preference share
+P0 = ∑t=1 to n [ PDIV / (1 +Kp)
+t ] + [ Pn / (1 + Kp)n
+] (18)
+Here, preference share is traded at say P0 with dividend payments ‘D’ and principal
+repayment ‘P’. The cost of debt is designated by Kp. Kp can be determined by solving
+above equation. In Equation (18), k, is the cost of preference capital. Given the current
+price, expected preference dividend (PDIV,), and maturity price Kf can be found by trial
+and error.
+The cost of preference share is not adjusted for taxes because preference dividend is
+paid after the corporate taxes have been paid. Preference dividends do not save any
+taxes. Thus, the cost of preference capital is automatically computed on an after-tax
+basis. Since interest is tax deductible and preference dividend is not, the after-tax cost
+of preference capital is substantially higher than the after-tax cost of debt.
+2.3 COST OF EQUITY CAPITAL AND RETAINED EARNINGS
+Cost of equity share is the part of cost of capital which allows the payment to only the
+equity shareholders. In this every shareholders get the shares for getting the return on
+the shares on which they are investing so much. From company's perspective the
+company must earn more than cost of equity capital in order to be unaffected by the
+market value of the shares of its. Firms may raise equity capital internally by retaining
+earnings. Alternatively, they could distribute the entire earnings to equity shareholders
+and raise equity capital externally by issuing new shares. In both cases, shareholders
+are providing funds to the firms to finance their capital expenditures. Therefore, the
+equity shareholders' required rate of return would be the same whether they supply
+funds by purchasing new shares or by foregoing dividends, which could have been
+distributed to them.
+2.3.1 Is Equity Capital Free of Cost?
+It is sometimes argued that the equity capital is free of cost. The reason for such
+argument is that it is not legally binding for firms to pay dividends to ordinary
+shareholders. Further, unlike the interest rate or preference dividend rate, the equity
+dividend rate is not fixed. It is fallacious to assume equity capital to be free of cost. As
+we have discussed earlier, equity capital involves an opportunity cost; ordinary
+shareholders supply funds to the firm in the expectation of dividends and capital gains
+commensurate with their risk of investment. The market value of the shares determined
+by the demand and supply forces in a well functioning capital market reflects the return
+required by ordinary shareholders. Thus, the shareholders' required rate of return, which
+equates the present value of the expected dividends with the market value of the share,
+is the cost of equity. The cost of external equity would, however, be more than the
+shareholders' required rate of return if the issue price were different from the market
+price of the share.
+2.3.2 Cost of Internal Equity: The methods of computing the cost of internal and
+external equity are discussed below.
+1) Dividend yield method or Price ratio method
+In this the minimum rate of cost of equity shares will be equal to the “present value of
+future dividend per share with current price of a share”.
+Cost of equity shares= Dividend per equity/ Market price
+For example if there is a company which issues shares of Rs. 200 each a premium of
+10%. The company pays 20% dividend to equity shareholders for the past five years
+and expects to maintain the same in the future also. Compute the cost of equity capital.
+Will it be different if market price of equity share is Rs. 260?
+The solution can be found out by our formula which says
+Cost of equity shares= Dividend per equity/ Market price
+= 20*100/210
+= 9.52%
+If the market price of equity share is Rs. 260.
+=20* 100/260 = 7.69%
+2) Dividend yield plus growth in dividend method
+It is based on the theory that company is growing and its shares market value is also on
+growth. So, because of this shareholders are in need of simple dividend, so that
+company can provide the profit to them according to the growth.
+To calculate this formula is as follows:- Cost of equity share = Dividend per equity/Market Price + Rate of growth in dividends
+3) Earning yield method
+In this cost of equity capital is minimum and the earning of the company should be
+considered on market price of share. The formula for this is as follows:- Cost of equity share = Earnings per share / Market Price per share
+4) Realised yield method
+This method removes the drawback which in the dividend yield method or earning yield
+method as both are based on future estimation of dividend or earning. In the economics
+there are many factors which can't be controlled and are very uncertain and if the risk is
+involved then the future planning can't be used and the decision related estimation
+return on investment can't be considered. It is based on actual earning which is earned
+on the amount of investment. The equity share capital is calculated as:- Cost of equity share = Actual earnings per share * 100
+2.3.3 Earning-Price Ratio and the Cost of Equity
+Earnings per share (EPS) are the amount of earning per each share of a company's
+stock. Companies require the EPS for their each income statement which shows about
+the continuing operations, discontinued operations, net income and outstanding items.
+EPS doesn't depend on the increase or decrease of the earning power of the company
+and gets calculated over number of years.
+How is it calculated?
+Earnings per share ratio (EPS Ratio) are calculated by dividing the net profit after taxes
+and preference dividend by the total number of equity shares. It is a small variance of
+return on equity capital ratio. The formula of Earning per share ratio is given as:-
+“[Earnings per share (EPS) Ratio = (Net profit after tax - Preference dividend) / No. of
+equity shares (common shares)]”
+. For example, if the current market price of a share is Rs. 500 (face value being Rs
+100) and the earning per share is Rs. 10, the E/P ratio will be: Rs 10 / Rs. 500 = 0.02 or
+2 per cent. Does this mean that the expectation of shareholders is 2 per cent? They
+would, in fact, expect to receive a stream of dividends and a final price of the share that
+would result in a return significantly greater than the E/P ratio. Thus, the dividend
+valuation model gives the most of valid measure of the cost of equity.
+Illustration 2.13: Earnings-Price Ratio and the Cost of Equity
+A firm is currently earning Rs. 100,000 and its share is selling at a market price of Rs.
+80. The firm has 10,000 shares outstanding and has no debt. The earnings of the firmare expected to remain stable, and it has a payout ratio of 100 per cent. What is the
+cost of equity? If the firm's payout ratio is assumed to be 60 per cent and that it earns
+15 per cent rate of return on its investment opportunities, then, what would be the firm's
+cost of equity?.
+In the first case since expected growth rate is zero, we can use expected earnings-price
+ratio to compute the cost of equity. Thus:
+Ke= Rs10/80=0.125 or 12.5%
+The earnings per share are Rs. 100,000 /10,000 = Rs. 10. If the firm pays out 60 per
+cent of its earnings, the dividends per share will be: Rs. 10 x 0.6 = Rs. 6, and the
+retention ratio will be 40 per cent. If the expected return on interval investment
+opportunities is 15 per cent, then the firm's expected growth is: 0.40 x 0.15 = 0.06 or 6
+per cent. The firm's cost of equity will be:
+Ke= Rs6/80+0.06=0.135=13.5%
+2.4 COMBINED COST OF CAPITAL
+Once the component costs have been calculated, they are multiplied by the proportions
+of the respective sources of capital to obtain the weighted average cost of capital
+(WACC). The proportions of capital must be based on target capital structure. WACC is
+the composite or overall cost of capital. You may note that it is the weighted average
+concept, not the simple average, which is relevant in calculating the overall cost of
+capital. The simple average cost of capital is not appropriate to use because firms
+hardly use various sources of funds equally in the capital structure. The following steps
+are involved for calculating the firm's WACC:  Calculate the cost of specific sources of funds
+ Multiply the cost of each source by its proportion in the capital structure.  Add the weighted component costs to get the WACC.
+In financial decision-making, the cost of capital should be calculated on an after tax
+basis. Therefore, the component costs should be the after-tax costs. 2.5 SUMMARY
+ The cost of capital to a firm is the minimum return which the suppliers of capital
+require. In other words, it is the price of obtaining capital; it is a compensation for
+time and risk.  The cost of capital concept is of vital significance in financial decision making. It is
+used: (a) as a discount, or cut-off, rate for evaluating investment projects, (6) for
+designing the firm's debt-equity mix and (c) for appraising the top management's
+financial performance.  Debt includes all interest-bearing borrowings. Its cost is the yield (return) which
+lenders expect from their investment. In most cases, return is equal to the annual
+contractual rate of interest (also called coupon rate). Interest charges are tax
+deductible. Therefore, the cost of debt to the firm should be calculated after
+adjusting for interest tax shield: where kd is before-tax cost of debt and T is the
+corporate tax rate.
+ Equity includes paid-up capital and reserve and surplus (retained earnings). Equity
+has no explicit cost, as payment of dividends is not obligatory. However, it involves
+an opportunity cost.  Three steps are involved in calculating the firm's weighted average cost of capital
+(WACC). First, the component costs of debt and equity are calculated. Second,
+weights to each component of capital are assigned according to the target capital
+structure. Third, the product of component costs and weights is summed up to
+determine WACC. The weighted average cost of new capital is the weighted
+marginal cost of capital (WMCC). WACC for a firm which debt and equity in the
+capital structure, is given by the following formula:
+Where ke is the cost of equity, kd is the cost of debt, T is the tax rate, D is d and £ is
+equity. The market value weights should be used in calculating WAC
+2. 6 QUESTIONS AND EXERCISES
+Short-Answer Questions
+1. Define cost of capital. Explain its significance in financial decision-making,
+2. How is the cost of debt computed? How does it differ from the cost of preference
+capital?
+Long-Answer Questions
+1. A company has 5,000,000 ordinary shares outstanding. The market price of the
+share is Rs. 96 while the book value is Rs. 65. The firm's earnings and dividends
+per share are X 10 and Rs. 7, respectively. The company wants to issue
+1,000,000 shares with net proceeds of Rs. 80 per share. What is the cost of
+capital of the new issue?

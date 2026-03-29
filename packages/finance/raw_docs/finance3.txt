@@ -1,0 +1,760 @@
+4.0 INTRODUCTION:
+You may not talk about working capital every day, but this accounting term may hold the
+key to your company’s success. Working capital affects many aspects of your business,
+from paying your employees and vendors to keeping the lights on and planning for
+sustainable long-term growth. In short, working capital is the money available to meet
+your current, short-term obligations. To make sure your working capital works for you,
+you’ll need to calculate your current levels, project your future needs and consider ways
+to make sure you always have enough cash. Working capital (abbreviated WC) is a
+financial metric which represents operating liquidity available to a business,
+organization, or other entity, including governmental entities. Along with fixed assets
+such as plant and equipment, working capital is considered a part of operating capital.
+Gross working capital is equal to current assets. Working capital is calculated as current
+assets minus current liabilities.[1] If current assets are less than current liabilities, an
+entity has a working capital deficiency, also called a working capital deficit and Negative
+Working capital. A company can be endowed with assets and profitability but may fall
+short of liquidity if its assets cannot be readily converted into cash. Positive working
+capital is required to ensure that a firm is able to continue its operations and that it has
+sufficient funds to satisfy both maturing short-term debt and upcoming operational
+expenses. The management of working capital involves managing inventories, accounts
+receivable and payable, and cash.
+4.1 REQUIREMENT OF WORKING CAPITAL AND FINANCING
+The management of current assets is similar to that of fixed assets in the sense that in
+both cases a firm analyses their effects on its return and risk. The management of fixed
+and current assets, however, differs in three important ways: First, in managing fixed
+assets, time is a very important factor; consequently, discounting and compounding
+techniques play a significant role in capital budgeting and a minor one in the
+management of current assets. Second, the large holding of current assets, especially
+cash, Strengthens the firm's liquidity position (and reduces riskiness), but also reduces
+the overall profitability. Thus, a risk-return trade off is involved in holding current assets.
+Third, levels of fixed as well as current assets depend upon expected sales, but it is
+only current assets which can be adjusted with sales, fluctuations in the short run. Thus,
+the firm has a greater degree of flexibility in managing current assets. The two main
+sources of working capital are trade credit and bank borrowing. Commercial paper is
+another important source of short-term funds.
+4.1.1. Meaning and Types of Working Capital
+There are two concepts of working capital—gross and net.
+• Gross working capital refers to the firm's investment in current assets, Current
+assets are the assets which can be converted into cash within an accounting year and
+include cash, short-term securities, debtors, (accounts receivable or book debts) bills
+receivable and stock (inventory). • Net working capital refers to the difference between current assets and current
+liabilities. Current liabilities are those claims of outsiders which are expected to mature
+for payment within an accounting year and include creditors (accounts payable), bills
+payable, and outstanding expenses. Net working capital can be positive or negative. A
+positive net working capital will arise when current assets exceed current liabilities. A
+negative net working capital occurs when current liabilities are in excess of current
+assets.
+4.1.2 Importance or Advantages of Adequate Working Capital : Working capital is
+the life blood and nerve centre of a business. Hence, it is very essential to maintain
+smooth running of a business. No business can run successfully without an adequate
+amount of working capital. The main advantages of maintaining adequate amount of
+working capital are as follows:
+1. Solvency of the Business: Adequate working capital helps in maintaining
+solvency of business by providing uninterrupted flow of production.
+2. Goodwill: Sufficient working capital enables a business concern to make
+prompt payments and hence helps in creating and maintaining goodwill.
+3. Easy Loans: A concern having adequate working capital, high solvency and
+good credit standing can arrange loans from banks and others on easy and
+favourable terms.
+4. Cash Discounts: Adequate working capital also enables a concern to avail
+cash discounts on purchases and hence it reduces cost.
+5. Regular Supply of Raw Material: Sufficient working capital ensure regular
+supply of raw materials and continuous production.
+6. Regular payment of salaries, wages and other day to
+day commitments: A company which has ample working capital can make
+regular payment of salaries, wages and other day to day commitments which
+raises morale of its employees, increases their efficiency, reduces costs and
+wastages.
+7. Ability to face crisis: Adequate working capital enables a concern to face
+business crisis in emergencies such as depression.
+8. Quick and regular return on investments: Every investor wants a quick and
+regular return on his investments. Sufficiency of working capital enables a concern
+to pay quick and regular dividends to is investor as there may not be much
+pressure to plough back profits which gains the confidence of investors and
+creates a favourable market to raise additional funds in future.
+9. Exploitation of Favourable market conditions: Only concerns with
+adequate working capital can exploit favourable market conditions such as
+purchasing its requirements in bulk when the prices are lower and by holding its
+inventories for higher prices.
+10. High Morale: Adequacy of working capital creates an environment of security,
+confidence, high morale and creates overall efficiency in a business.
+4.1.3 Factors Determing the Working Capital Requirements
+The following are important factors which influence working capital requirements:
+1. Nature or Character of Business: The working capital requirements of
+firm depend upon nature of its business. Public utility undertakings like
+electricity, water supply need very limited working capital because they offer
+cash sales only and supply services, not products, and such no funds are tied
+up in inventories and receivables whereas trading and financial firms require
+less investment in fixed assets but have to invest large amounts in current
+assets and as such they need large amount of working capital. Manufacturing
+undertaking require sizeable working capital between these two.
+2. Size of Business/Scale of Operations: Greater the size of a business
+unit, larger will be requirement of working capital and vice-versa.
+3. Production Policy: The requirements of working capital depend upon
+production policy. If the policy is to keep production steady by accumulating
+inventories it will require higher working capital. The production could be kept
+either steady by accumulating inventories during slack periods with view to
+meet high demand during peak season or production could be curtailed during
+slack season and increased during peak season.
+4. Manufacturing process / Length of Production cycle: Longer the
+process period of manufacture, larger is the amount of working capital
+required. The longer the manufacturing time, the raw materials and other
+supplies have to be carried for longer period in the process with progressive
+increment of labour and service costs before finished product is finally
+obtained. Therefore, if there are alternative processes of production, the
+process with the shortest production period should be chosen.
+5. Credit Policy: A concern that purchases its requirements on credit and
+sell its products/services on cash requires lesser amount of working capital.
+On other hand a concern buying its requirements for cash and allowing credit
+to its customers, shall need larger amount of working capital as very huge
+amount of funds are bound to be tied up in debtors or bills receivables.
+6. Business Cycles: In period of boom i.e. when business is prosperous,
+there is need for larger amount of working capital due to increase in sales, rise
+in prices etc. On contrary in times of depression the business contracts, sales
+decline, difficulties are faced in collections from debtors and firms may have
+large amount of working capital lying idle.
+7. Rate of Growth of Business: The working capital requirements of a
+concern increase with growth and expansion of its business activities. In fast
+growing concerns large amount of working capital is required whereas in
+normal rate of expansion in the volume of business the firm may have retained
+profits to provide for more working capital.
+8. Earning Capacity and Dividend Policy. The firms with high earning
+capacity generate cash profits from operations and contribute to working
+capital. The dividend policy of concern also influences the requirements of its
+working capital. A firm that maintains a steady high rate of cash dividend
+irrespective of its generation of profits need more working capital than firm that
+retains larger part of its profits and does not pay so high rate of cash dividend.
+9. Price Level Changes: Changes in price level affect the working capital
+requirements. Generally, the rising prices will require the firm to maintain large
+amount of working capital as more funds will be required to maintain the same
+current assets. The effect of rising prices may be different for different firms.
+10. Working Capital Cycle: In a manufacturing concern, the working capital
+cycle starts with the purchase of raw material and ends with realisation of cash
+from the sale of finished products. This cycle involves purchase of raw
+materials and stores, its conversion into stocks of finished goods through work
+in progress with progressive increment of labour and service costs, conversion
+of finished stock into sales, debtors and receivables and ultimately realisation
+of cash and this cycle again from cash to purchase of raw material and so
+on. The speed with which the working capital completes one cycle determines
+the requirements of working capital longer the period of cycle larger is
+requirement of working capital.
+4.1 .4 Focusing on management of current assets
+The gross working capital concept focuses attention on two aspects of current assets!
+Management: (1) How to optimize investment in current assets? (2) How should current
+assets be financed?
+Investment in current assets should be just adequate to the needs of the business firm.
+Excessive investment in current assets should be avoided because it impairs the firm's
+profitability, as idle investment earns nothing. On the other hand, inadequate amount of
+working capital can threaten solvency of the firm because of its inability to meet its
+current obligations. It should be realised that the working capital needs of the firm may
+be| fluctuating with changing business activity. This may cause excess or shortage in
+working capital frequently. The management should be prompt to initiate an action and
+correct imbalances.
+Another aspect of the gross working capital points to the need of arranging funds to
+finance current assets. Whenever a need for working capital funds arises due to the
+increasing level of business activity or for any other reason, financing arrangement |
+should be made quickly. Similarly, if suddenly, some surplus funds arise they should not
+be allowed to remain idle, but should be invested in short-term securities. Thus, that
+financial manager should have knowledge of the sources of working capital funds as
+well as investment avenues where idle funds may be temporarily invested.
+4.1 .5 Focusing on liquidity management
+Net working capital is a qualitative concept. It indicates the liquidity position of the firmand suggests the extent to which working capital needs may be financed by permanent
+sources of funds. It is a conventional rule to maintain the level of current assets twice
+the level of current liabilities. However, the quality of current assets should be
+considered in determining the level of current assets vis-a-vis current liabilities. A weak
+liquidity position poses a threat to the solvency of the company and makes it unsafe and
+unsound. A negative working capital means a negative liquidity- and may prove to be
+harmful for the company's reputation. Excessive liquidity is also bad. It may be due to
+mismanagement of current assets. Therefore, prompt and timely action should be taken
+by management to improve and correct the imbalances in the liquidity position of the
+firm.
+Net working capital concept also covers the question of judicious mix of long-term and
+short-term funds for financing current assets. For every firm, there is a minimum amount
+of net working capital which is permanent. Therefore, a portion of the working capital
+should be financed with the permanent sources of funds such as equity share capital,
+debentures, long-term debt, preference share capital or retained earnings. Management
+must, therefore, decide the extent to which current assets should be financed with
+equity capital and/or borrowed capital.
+In summary, it may be emphasised that both gross and net concepts of working capital
+are equally important for the efficient management of working capital. There is no
+precise way to determine the exact amount of gross or net working capital for any firm.
+4.1.6 Permanent and Variable Working Capital
+We know that the need for current assets arises because of the operating cycle. The
+operating cycle is a continuous process and, therefore, the need for current assets is
+felt constantly. But the magnitude of current assets needed is not always the same; it
+increases and decreases over time. However, there is always a minimum level of
+current assets which is continuously required by a firm to carry on its business
+operations. Permanent or fixed, working capital is the minimum level of current assets. It
+is permanent in the same way as the firm's fixed assets are. Depending upon the
+changes in production and sales, the need for working capital, over and above
+permanent working capital, will fluctuate. For example, extra inventory of finished goods
+will have to be maintained to support the peak periods of sale, and investment in
+debtors (receivable) may also increase during such periods. On the other hand,
+investment in raw material, work-in-process and finished goods will fall if the market is
+slack.
+Fluctuating or variable working capital is the extra working capital needed to support the
+changing production and sales activities of the firm. Both kinds of working capital—permanent and fluctuating (temporary)—are necessary to facilitate production and sale
+through the operating cycle. But the firm to meet liquidity requirements that will last only
+temporarily creates the temporary working capital. Figure 4.5 illustrates differences
+between permanent and temporary working capital. It is shown that permanent working
+capital is stable over time, while temporary working capital is fluctuating—sometimes
+increasing and sometimes decreasing. However, the permanent working capital line
+need not be horizontal if the firm's requirement for permanent capital is increasing (or
+decreasing) over a period. For a growing firm, the difference between permanent and
+temporary working capital can be depicted through Figure 4.6.
+4.2 CALCULATING OPERATING CYCLE PERIOD AND ESTIMATING WORKING
+CAPITAL NEEDS
+The most appropriate method of calculating the working capital needs of a firm is the
+concept of operating cycle. However, a number of other methods may be used to
+determine working capital needs in practice. We shall illustrate here three approaches
+which have been successfully applied in practice: • Current assets holding period: To estimate working capital requirements on the
+basis of average holding period of current assets and relating them to costs based on
+the company's experience in the previous years. This method is essentially based on
+the operating cycle concept. • Ratio of sales: To estimate working capital requirements as a ratio of sales on
+the assumption that current assets change with sales. • Ratio affixed investment: To estimate working capital requirements as a
+percentage of fixed investment.
+.
+Example4.1. From the following projects of PQR
+Ltd. for the coming year, you are asked to determine the working capital needs of the
+company.
+Annuals Sales: Rs. 15,60,000
+Cost of production (including depreciation of Rs. 1,30,000): Rs.12,50,000
+Raw material purchases: Rs.7,00,000
+Opening Stock of raw materials: Rs. 1,50,000
+Closing stock of raw materials: Rs. 1,30,000
+Inventory Norms:
+Raw materials: 2 months
+Work-in-process: 1/2 month
+Finished goods: 1 month
+The firm enjoys credit of 1 month on its purchases and also extends credit of 1 month
+on its supplier. It may be assumed that production is carried out evenly. Cash balance
+of the year and the minimum cash balance to be maintained is Rs. 50,000.
+Check Your Progress
+7. Differentiate between
+permanent and variable working
+capital.
+8. What are the main methods for
+estimating working capital needs?
+Solution: Determination of net working capital
+(i)Current Assets:
+Cash Balance (Rs.) 50,000
+Inventories:
+Raw materials :
+Opening Stock Rs. 1,50,000
+Add: Purchase Rs. 7,00,000
+Less: Closing Stock Rs. 130,000
+----------------- Annual Consumption Rs 7,20,000
+Two months' requirement (7,20,000 x 2/12) 120,000
+Work-in-process (l 1,20,000 x 1/24) 46,667
+Finished goods (11,20,000 x 1/12) 93,333
+Debtors (11,20,000x1/12) 93,333
+----------- Total Current Assets Rs 4,,03,333
+(II) Current liabilities:
+Trade creditors (7,00,000 x 1/12) 58333
+--------------
+(iii) Net working capital (I - II) Rs. 3,45,000
+Note: Depreciation is excluded from the cost of production.
+Example 4.2: Walmart Stores Inc. provides all about inventories. Find its operating
+cycle assuming all sales are (a) cash sales and (b) credit sales. You can use cost of
+revenue as approximate figure for purchases (i.e. no need to adjust it for changes in
+inventories). Rs.
+Revenue 4,69,162
+Cost of revenue 3,52,488
+Inventories as at 31 January 2013 43,803
+Inventories as at 31 January 2012 40,714
+Average inventories 42,259
+Accounts receivable as at 31 January 2013 6,768
+Accounts receivable as at 31 January 2012 5,937
+Average accounts receivable 6,353
+Solution
+Part (a)
+Days taken in converting inventories to accounts receivable = 365/352,488*42,259 =
+43.75
+Since there are no credit sales, time taken in recovering cash from accounts receivable
+is zero. Customers pay cash right away.
+Operating cycle is 43.75 days and this represents the time taken in selling inventories.
+Part (b)
+There is no change in days taken in converting inventories to accounts receivable.
+Days taken in converting receivables to cash = 365/469,162*6,353 = 4.92
+Operating cycle = days taken in selling + days taken in recovering cash = 43.75 + 4.92
+= 48.68
+Example 4.3. XYZ Ltd. has obtained the following data concerning the average working
+capital cycle for other companies in the same industry :
+Raw material stock turnover 20 Days
+Credit received 40 Days
+Work-in-Progress Turnover 15 Days
+Finished goods stock turnover 40 Days
+Debtors' collection period 60 Days
+95 Days
+Using the following data, calculate the current working capital cycle for XYZ Ltd. And
+briefly comment on it.
+(Rs. in '000)
+Sales 3,000
+Cost of Production 2,100
+Purchase 600
+Average raw material stock 80
+Average work-in-progress 85
+Average finished goods stock 180
+Average creditors 90
+Average debtors 350
+Solution: Operating cycle of XYZ Ltd. 1. Raw material = 49 Days
+2. Work-in-progress = 15Days
+3. Finished Goods = 31 Days
+4. Debtors = 43 Days
+5. Creditors = 55 Days
+Net Operating Cycle = 49 days + 15 days + 31 days + 43 days – 55 days
+= 138 Days – 55 Days = 83 Days
+Comment : For XYZ Ltd., the working capital cycle is below the industry average,
+including a lower investment in net current assets. However, the following points should
+be noted about the individual elements of working capital.
+a) The stock of raw materials is considerably higher than average. So there is a need
+for stock control procedure to be reviewed.
+b) The value of creditors is also above average; this indicates that XYZ Ltd. is
+delaying the payment of creditors beyond the credit period. Although this is an
+additional source of finance, it may result in a higher cost of raw materials or loss of
+goodwill among the suppliers.
+c) The finished goods stock is below average. This may be due to a high demand for
+the firm's goods or to efficient stock control. A low finished goods stock can,
+however, reduce sales since it can cause delivery delays.
+d) Debts are collected more quickly than average. The company might have
+employed good credit control procedure or offer cash discounts for early payments.
+Example.4.4 A proforma cost sheet of a company provides the following particulars:
+Elements of Cost
+Material 40%
+Direct Labour 20%
+Overheads 20%
+The following further particulars are available:
+(a) It is proposed to maintain a level of activity of 2,00,000 units.
+(b) Selling price is Rs.12/- per unit.
+(c) Raw materials are expected to remain in stores for an average period of one
+month.
+(d) Materials will be in process, on averages half a month.
+(e) Finished goods are required to be in stock for an average period of one month.
+(f) Credit allowed to debtors is two months.
+(g) Creditor allowed by suppliers is one month.
+You may assume that sales and production follow a consistent pattern.
+You are required to prepare a statement of working capital requirements, a
+forecast Profit and Loss Account and Balance Sheet of the company assuming that:
+Rs.
+Share Capital 15,00,000
+8% Debentures 2,00,000
+Fixed Assets 13,00,000
+Solution:
+Statement of Working Capital
+Current Assets: Rs. Rs.
+Stock of Raw Materials (1 month)
+80,000
+Work in progress (1/2 month):
+Materials
+40,000
+Labour
+20,000
+Overheads
+20,000 80,000
+Stock of Finished Goods (1 month)
+Materials
+80,000
+Labour
+40,000
+Overheads
+40,000
+1,60,000
+Debtors (2 months)
+at cost
+Material 1,60,000
+Labour 80,000
+Overheads 80,000 3,20,000
+6,40,000
+Less: Current Liabilities:
+Creditors (1 month) for raw materials
+80,000
+Net Working Capital Required: 5,60,000
+Note: Sales = (2,00,000 X 12 = Rs.24,00,000)
+Forecast Profit and Loss Account
+For the year ended….
+Rs. Rs.
+To Materials 9,60,000 By Cost of good old 19,20,000
+To Wages 4,80,000
+To Overheads 4,80,000
+19,20,000 19,20,000
+To Cost of goods sold 19,20,000 By Sales 24,00,000
+To Gross profit c/d 4,80,000
+24,00,000 24,00,000
+To Interest on Debentures 16,000 By Gross Profit b/d 4,80,000
+To Net Profit 4,64,000
+4,80,000 4,80,000
+Forecast Balance Sheet
+as at……
+Liabilities Rs. Assets Rs.
+Share Capital 15,00,000 Fixed Assets 13,00,000
+8% Debentures 2,00,000 Stocks:
+Net Profit 4,64,000 Raw Materials 80,000
+Creditors 80,000 Work-in-Progress 80,000
+Finished Goods 1,60,000
+Debtors 4,00,000
+Cash & Bank Balance
+(Balancing figure) 2,24,000
+22,44,000 22,44,000
+Working Notes:
+(a) Profits have been ignored while preparing working capital requirements for the
+following reasons:
+(i) Profits may or may not be used for working capital.
+(ii) Even if profits have to be used for working capital, they have to be reduced
+by the amount of income tax, dividends, etc.
+(b) Interest on debentures has been assumed to have been paid.
+4.3 FINANCING OF WORKING CAPITAL
+Working capital financing is done by various modes such as trade credit, cash
+credit/bank overdraft, working capital loan, purchase of bills/discount of bills, bank
+guarantee, letter of credit, factoring, commercial paper, inter-corporate deposits etc.
+The arrangement of working capital financing forms a major part of the day to day
+activities of a finance manager. It is a very crucial activity and requires continuous
+attention because working capital is the money which keeps the day to day business
+operations smooth. Without appropriate and sufficient working capital financing, a firmmay get into troubles. Insufficient working capital may result in nonpayment of certain
+dues on time. Inappropriate mode of financing would result in loss of interest which
+directly hits the profits of the firm.
+4.15 Types of Working Capital Financing / Loans
+A firm may adopt three types of financing policies as follows:
+=>Long-term financing: The sources of long-term financing include ordinary
+share capital, preference share capital, debentures, long-term borrowings from financial
+institutions and reserves and surplus (retained earnings).
+1. Long-Term Loan from a Bank:
+Many companies opt for a full-fledged long term loan from a bank that allows them to
+meet all their working capital needs for two, three or more years.
+2. Retain Profits:
+Rather than making dividend payments to shareholders or investing in new ventures,
+many businesses retain a portion of their profits so that they may use it for working
+capital. This way they do not have to take loans, pay interest, incur losses on
+discounted bills, and they can be self-sufficient in their financing.
+3. Issue Equities and Debentures:
+In extreme cases when the business is really short of funds, or when the company is
+investing in a large-scale venture, they might decide to issue debentures or bonds to the
+general public or in some cases even equity stock. Of course, this will be done only by
+conglomerates and only in cases when there is a need for a huge quantum of funds.
+=>Short-term financing: The short-term financing is obtained for a period less
+than one year. It is arranged in advance from banks and other suppliers of short-termfinance in the money market. Short-term finances include working capital funds frombanks, public deposits, commercial paper, factoring of receivable etc.
+1. Overdraft Agreement:
+By entering into an overdraft agreement with the bank, the bank will allow the business
+to borrow up to a certain limit without the need for further discussion. The bank might
+ask for security in the form of collateral and they might charge daily interest at a variable
+rate on the outstanding debt. However, if the business is confident of making the
+repayments quickly, then an overdraft agreement is a valuable source of financing, and
+one that many companies resort to.
+2. Accounts Receivable Financing:
+Many banks and non-banking financial institutions provide invoice discounting facilities.
+The company takes the commercial bills to the bank which makes the payment minus a
+small fee. Then, on the due date the bank collects the money from the customer. This is
+another popular method of financing especially among small traders. Businesses that
+offer large terms of credit can carry on their operations without having to wait for the
+customers to settle their bills.
+3. Customer Advances:
+There are many companies that insist on the customer making an advance payment
+before selling them goods or providing a service. This is especially true while dealing
+with large orders that take a long time to fulfill. This method also ensures that the
+company has some funds to channelize into its operations for fulfilling those orders.
+4. Selling Goods on Installment:
+Many companies, especially those that sell television sets, fans, radios, refrigerators,
+vehicles and so on, allow customers to make their payments in installments. Since
+many of these items have become modern day essentials, their customers might not
+come from well-to-do backgrounds or the cost of the product might be too prohibitive for
+immediate payment. In such a case, instead of waiting for a large payment at the end,
+they allow the customers to make regular monthly payments. This ensures that there is
+a constant flow of funds coming into the business that does not choke up the accounts
+receivable numbers.
+5. Commercial Paper (CP):
+CP is a debt instrument for short-term borrowing that enables highly-rated corporate
+borrowers to diversify their sources of short-term borrowings, and provides an additional
+financial instrument to investors with a freely negotiable interest rate. The maturity
+period ranges from three months to less than 1 year.
+6. Public Deposits:
+Deposits from the public are one of the important sources of finance particularly for well
+established big companies with huge capital base. The period of public deposits is
+restricted to a maximum 5 years at a time and hence, this source can provide finance
+only for short-term to medium-term, which could be more useful for meeting working
+capital needs of the company. It is advisable to use the amounts of public deposits for
+acquiring assets of long-term nature unless its pay back is very short.
+=>Spontaneous financing: Spontaneous financing refers to the automatic
+sources of short-term funds arising in the normal course of a business. Trade
+(suppliers') credit and outstanding expenses are examples of spontaneous financing.
+1. Trade Credit
+This credit service offered by suppliers allows businesses to get goods and pay for themlater. This is a source of working capital that may be acquired from all suppliers
+depending on the business arrangements, the type of business you conduct and the
+worth of the credit to be offered.
+2. Asset-Based Financing
+A business may use its assets to secure working capital from financial institutions that
+offer asset based loans. The asset includes machinery, vehicle or accounts receivable.
+Accounts receivable are financial documents of people or companies that owe money to
+the business and they may be traded in to finance working capital at discounting
+companies.
+3. Inventory Financing
+These loans are secured with the business` inventory acting as the security. Finance for
+working capital may be acquired through its inventory although the business cannot sell
+it until the loan is repaid because the lender has the right to the inventory until the loan
+has been repaid.
+4. Accrued Expenses:
+Another source of spontaneous short-term financing is the accrued expenses that arise
+from the normal conduct of business. An accrued expense is an expense that has been
+incurred, but has not yet been paid.
+What should be the mix of short-and long-term sources in financing current assets?. Depending on the mix of short- and long-term financing, the approach followed by a
+company may be referred to as: • matching approach
+• Conservative approach
+• Aggressive approach
+(1)The Hedging or Matching Approach: The term ‘hedging’ refers to two off-selling
+transactions of a simultaneous but opposite nature which counterbalance effect of each
+other. With reference to financing mix, the term hedging refers to ‘process of matching
+of maturities of debt with maturities of financial needs’. According to this approach the
+maturity of sources of funds should match the nature of assets to be financed. This
+approach is also known as ‘matching approach’ which classifies the requirements of
+total working capital into permanent and temporary working capital.
+The hedging approach suggests that permanent working capital requirements
+should be financed with funds from long-term sources while temporary working capital
+requirements should be financed with short-term funds. When the firm follows matching
+approach, long-term financing will be used to finance fixed assets and permanent
+current assets and short-term financing to finance temporary or variable current assets.
+However, it should be realised that exact matching is not possible because of the
+uncertainty about the expected lives of assets. The firm can adopt a financial plan which
+matches the expected life of assets with the expected life of the source of funds raised
+to finance assets. Thus, a ten-year loan may be raised to finance a plant with an
+expected life of ten years; stock of goods to be sold in thirty days may be financed with
+a thirty-day commercial paper or a bank loan.
+Figure 4.7 is used to illustrate the matching plan over time.
+The firm's fixed assets and permanent current assets are financed with long-term funds
+and as the level of these assets increases, the long-term financing level also increases.
+The temporary or variable current assets are financed with short-term funds and as their
+level increases, the level of short-term financing also increases. Under matching plan,
+no short-term financing will be used if the firm has fixed current assets sonly.
+(2) The Conservative Approach: This approach suggests that the entire estimated
+investments in current assets should be financed from long-term sources and short-termsources should be used only for emergency requirements. The distinct features of this
+approach are:
+(ii) Liquidity is greater
+(iii) Risk is minimized
+(iv) The cost of financing is relatively more as interest has to be paid
+even on seasonal requirements for entire period.
+A firm in practice may adopt a conservative approach in financing its current and fixed
+assets. The financing policy of the firm is said to be conservative when it depends more
+on long-term funds for financing needs. Under a conservative plan, the firm finances its
+permanent assets and also a part of temporary current assets with long-term financing.
+In the periods when the firm has no need for temporary current assets, the idle longterm funds can be invested in the tradable securities to conserve liquidity. The
+conservative plan relies heavily on long-term financing and, therefore, the firm has less
+risk of facing the problem of shortage of funds. The conservative financing policy is
+shown in Figure 4.8
+Trade off between the Hedging and Conservative Approaches
+The hedging approach implies low cost, high profit and high risk while the conservative
+approach leads to high cost, low profits and low risk. Both the approaches are the two
+extremes and neither of them serves the purpose of efficient working capital
+management. A trade off between the two will then be an acceptable approach. The
+level of trade off may differ from case to case depending upon the perception of risk by
+the persons involved in financial decision making. However, one way of determining the
+trade off is by finding the average of maximum and the minimum requirements of
+current assets. The average requirements so calculated may be financed out of longterm funds and excess over the average from short-term funds.
+(3). Aggressive Approach: The aggressive approach suggests that entire estimated
+requirements of current asset should be financed from short-term sources even a part of
+fixed assets investments be financed from short-term sources. This approach makes
+the finance – mix more risky, less costly and more profitable.
+A firm may be aggressive in financing its assets. An aggressive policy is said to be
+followed by the firm when it uses more short-term financing than warranted by me
+matching plan. Under an aggressive policy, the firm finances a part of its permanent
+current assets with short-term financing. Some extremely aggressive firms may even
+finance a part of their fixed assets with short-term financing. The relatively more use of
+short-term financing makes the firm more risky. The aggressive financing is illustrated in
+Figure 4.9.
+Hedging Vs Conservative Approach
+Hedging Approach Conservative Approach
+1. The cost of financing is
+reduced.
+1. The cost of financing is higher
+2. The investment in net working
+capital is nil.
+2. Large Investment is blocked in
+temporary working capital.
+3. Frequent efforts are required to
+arrange funds.
+3. The firm does not face frequent
+financing problems.
+4. The risk is increased as firm is
+vulnerable to sudden shocks.
+4. It is less risky and firm is able to
+absorb shocks.
+Short-term vs. Long-term Financing: A Risk-Return Trade-off
+A firm should decide whether or not it should use short-term financing. If short-termfinancing has to be used, the firm must determine its portion in total financing. This
+decision of the firm will be guided by the risk-return trade-off. Short-term financing may
+be preferred over long-term financing for two reasons: (i) the cost advantage and (ii)
+flexibility. But short-term financing is more risky than long-term financing. Cost: Shortterm financing should generally be less costly than long-term financing. It has been
+found in developed countries, like USA, that the rate of interest is related to the maturity
+of debt. The relationship between the maturity of debt and its cost is called the termstructure of interest rates. The curve, relating to the maturity of debt and interest rates,
+is called the yield curve. The yield curve may assume any shape, but it is generally
+upward sloping. Figure 4.10 shows the yield curve. The figure indicates that more the
+maturity greater the interest rate.
+4.4 SOURCES OF WORKING CAPITAL
+1.Trade Credit
+This is simply the credit period which is extended by the creditor of the business. Trade
+credit is extended based on the creditworthiness of the firm which is reflected by its
+earning records, liquidity position, and records of payment. Just like other sources of
+working capital financing, trade credit also comes with a cost after the free credit period.
+Normally, it is a costly source as a means of financing business working capital.
+2.Cash Credit / Bank Overdraft
+Cash credit or bank overdraft is the most useful and appropriate type of working capital
+financing extensively used by all small and big businesses. It is a facility offered by
+commercial banks whereby the borrower is sanctioned a particular amount which can
+be utilized for making his business payments. The borrower has to make sure that he
+does not cross the sanctioned limit. The best part is that the interest is charged to the
+extent the money is used and not on the sanctioned amount which motivates him to
+keep depositing the amount as soon as possible to save on interest cost. Without a
+doubt, this is a cost-effective working capital financing.
+3.Working Capital Loans
+Working capital loans are as good as term loan for a short period. These loans may be
+repaid in installments or a lump sum at the end. The borrower should take such loans
+for financing permanent working capital needs. The cost of interest would not allow
+using such loans for temporary working capital.
+4.Purchase / Discount of Bills
+For a business, it is another good service provided by commercial banks for working
+capital financing. Every firm generates bills in the normal course of business while
+selling goods to debtors. Ultimately, that bill acts as a document to receive payment
+from the debtor. The seller who requires money will approach the bank with that bill and
+bank will apply the discount on the total amount of the bill based on the prevailing
+interest rates and pay the remaining amount to the seller. On the date of maturity of that
+bill, the bank will approach the debtor and collect the money from him.
+5.Bank Guarantee
+It is primarily known as non-fund based working capital financing. Bank guarantee is
+acquired by a buyer or seller to reduce the risk of loss to the opposite party due to non- performance of the agreed task which may be repaying money or providing of some
+services etc. A buyer ‘B1’ is buying some products from seller ‘S1’. In this case, ‘B1’
+may acquire bank guarantee from the bank and give it to ‘S1’ to save him from the risk
+of nonpayment. Similarly, if ‘S1’ may acquire bank guarantee and hand it over to ‘B1’ to
+save him from the risk of getting lower quality goods or late delivery of goods etc. In
+essence, a bank guarantee is revoked by the holder only in case of non-performance by
+the other party. Bank charges some commission for same and may also ask for
+security.
+6.Letter of Credit
+It is also known as non-fund based working capital financing. Letter of credit and bank
+guarantee has a very thin line of difference. Bank guarantee is revoked and the bank
+makes payment to the holder in case of non-performance of the opposite party
+whereas, in the case of a letter of credit, the bank will pay the opposite party as soon as
+the party performs as per agreed terms. So, a buyer would buy a letter of credit and
+send it to the seller. Once the seller sends the goods as per the agreement, the bank
+would pay the seller and collects that money from the buyer.
+7.Intercorporate Loans and Deposits:
+In present corporate world, it is a common practice that the company with surplus cash
+will lend other companies for short period normally ranging from 60 days to 180 days.
+The rate of interest will be higher than the bank rate of interest and depending on the
+financial soundness of the borrower company. This source of finance reduces
+intermediation of banks in financing.
+8. Commercial Paper (CP):
+CP is a debt instrument for short-term borrowing, that enables highly-rated corporate
+borrowers to diversify their sources of short-term borrowings, and provides an additional
+financial instrument to investors with a freely negotiable interest rate. The maturity
+period ranges from three months to less than 1 year. Since it is a short-term debt, the
+issuing company is required to meet dealers’ fees, rating agency fees and any other
+relevant charges. Commercial paper is short-term unsecured promissory note issued by
+corporation with high credit ratings.
+9. Funds Generated from Operations:
+Funds generated from operations, during an accounting period, increase working capital
+by an equivalent amount. The two main components of funds generated fromoperations are retained profit and depreciation. Working capital will increase by the
+extent of funds generated from operations.
+10. Retained Profit:
+Profit is the accretion of fund which is available for finance internally, to the extent it is
+retained in the organization. Retained profits are an important source of working capital
+finance.
+11. Depreciation Provision:
+Since there is no cash outflow to the extent of depreciation provided in the accounting, it
+is used for financing the internal operations of a firm. The amount deducted towards
+depreciation on fixed assets is not immediately used in acquisition of fixed assets and
+such amount is retained in business for same time. This is used as a temporary source
+of working capital so long as the capital expenditure is postponed. 12. Amortization Provisions:
+Any provisions made for meeting the future payments or expenses such as provision for
+dividend, provision for taxation, provision for gratuity etc. provide a source of finance so
+long as they are kept in the business.
+13.. Deferred Tax Payments:
+Another source of short-term funds similar in character to trade credit is the credit
+supplied by the tax authorities. This is created by the interval that elapses between the
+earning of the profits by the company and the payment of the taxes due on them.
+Deferred payment of taxes is also used as a temporary source of working capital so
+long as the amount is deposited with the tax authorities. The taxes deducted at sources,
+collection of sales tax and excise duty, retirement benefits deducted from salaries of
+staff etc. also retained in business for some time and used as a source of working
+capital.
+14.Accrued Expenses:
+Another source of spontaneous short-term financing is the accrued expenses that arise
+from the normal conduct of business. An accrued expense is an expense that has been
+incurred, but has not yet been paid. For most firms, one of the largest accrued
+expenses is likely to be employees’ accrued wages. For large firms, the accrued wages
+held by the firm constitute an important source of financing. Usually, accrued expenses
+are not subject to much managerial manipulation.
+15.Deposits and Advances:
+The deposits collected from dealers and advances received from customers will also
+constitute a source of finance.
+16.. Public Deposits:
+Deposits from the public is one of the important
+source of finance particularly for well established
+big companies with huge capital base. The period
+of public deposits is restricted to a maximum 5
+years at a time and hence, this source can provide
+finance only for short-term to medium-term, which
+could be more useful for meeting working capital
+needs of the company. It is advisable to use the
+amounts of public deposits for acquiring assets of
+long-term nature unless its pay back is very short.
+4.5 SUMMARY
+ The term working capital may be used to denote either the gross working capital
+which refers to total current assets or net working capital which refers to excess of
+current asset over current liabilities.  The working capital requirement for a firm depends upon several factors such as
+Nature or Character of Business, Credit Policy, Price level changes, business
+cycles, manufacturing process, production policy.  The working capital need of the firm may be bifurcated into permanent and
+temporary working capital.  The Hedging Approach says that permanent requirement should be financed by long
+term sources while the temporary requirement should be financed by short-termsources of finance.  The Conservative approach on the other hand says that the working capital
+requirement be financed from long-term sources.  The Aggressive approach says that even a part of permanent requirement may be
+financed out of short-term funds. Every firm must monitor the working capital
+position and for this purpose certain accounting ratios may be calculated. There is
+no set formula for deciding the break-up.  The 'matching approach' suggests that long term financing be used to finance fixed
+assets and permanent current assets, while short-term financing should be used to
+finance temporary or variable current assets. Overall, a firm in practice adopts a
+conservative approach in financing its current and fixed assets when it depends
+more on long-term funds for financing needs. On the other hand, an aggressive
+Check Your Progress
+9. What are the main long- term
+and short-term sources for
+financing working capital?
+10. What should be the mix of
+snort-term and long-term sources
+in financing current Assets?
+11. List the main sources of
+working capital.
+12 What are the main forms by
+means of which firms may avail
+working capital finance from
+banks?.
+policy would be implied when a firm uses more short-term financing than suggested
+by the matching plan. Usually, short-tem financing is more risky but less expensive
+than long-term financing, and hence there is a risk-return trade-off.  The main sources of working capital include trade credit, accrued expenses and
+deferred income, bank finance and commercial paper.  The main forms in which bank finance for working capital are availed of by firms
+are overdraft facility, cash credit facility, bills purchasing/discounting facility and
+working capital loan.
+4.6 KEY TERMS
+. Gross working capital: It refers to the firm's investment in current assets,
+. Current assets: are the assets which can be converted into cash within an
+accounting year • Net working capital refers to the difference between current assets and current
+liabilities.
+. Current liabilities are those claims of outsiders which are expected to mature for
+payment within an accounting year
+4.7ANSWERS TO CHECK YOUR PROGRESS
+1. There is no set formula for deciding the break-up. The 'matching approach'
+suggests that long term financing be used to finance fixed assets and permanent
+current assets, while short-term financing should be used to finance temporary or
+variable current assets. Overall, a firm in practice adopts a conservative approach in
+financing its current and fixed assets when it depends more on long-term funds for
+financing needs. On the other hand, an aggressive policy would be implied when a
+firm uses more short-term financing than suggested by the matching plan. Usually,
+short-terms financing is more risky but less expensive than long-term financing, and
+hence there is a risk-return trade-off.
+2. The main sources of working capital include trade credit, accrued expenses and
+deferred income, bank finance and commercial paper.
+3. The main forms in which bank finance for working capital are availed of by firms
+are overdraft facility, cash credit facility, bills purchasing/discounting facility and
+working capital loan.
+4 .MM approach holds that under a perfect market situation the dividend policy of a
+firm is irrelevant, as it does not affect the value of the firm.
+4.8 .QUESTIONS AND EXERCISES
+1. Discuss different sources of working capital.
+2. Explain the concept of operating cycle in determining working capital requirement of a
+firm?
+3. Differentiate between Gross working capital and Net working capital?
+4. Differentiate between Permanent and Temporary working capital?
+5.Elaborate the factors affecting the working capital requirement of a firm?

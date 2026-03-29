@@ -1,0 +1,2375 @@
+3.0 INTRODUCTION
+Capital budgeting, and investment appraisal, is the planning process used to
+determine whether an organization's long term investments such as purchase new
+machinery, replacement of machinery, new plants, new products, and research
+development projects are worth the funding of cash through the firm's capitalization
+structure (debt, equity or retained earnings). It is the process of allocating resources for
+major capital, or investment, expenditures. One of the primary goals of capital budgeting
+investments is to increase the value of the firm to the shareholders.
+An efficient allocation of capital is the most important finance function in modern times.
+It involves decisions to commit the firm's funds to long-term assets. Capital budgeting or
+investment decisions are of considerable importance to a firm since they tend to
+determine its value by influencing its growth, profitability and risk. In this unit, we will
+focus on the nature and evaluation of capital budgeting decisions. You will learn about
+the net present value and internal rate of return methods. The unit will also discuss the
+cost of capital, emphasizing on the calculation of cost of debt and equity capital and
+retained earnings.
+3.1 Learning Objectives
+After going through this unit, you will be able to:  Understand the nature and importance of investment decisions.  Understand the capital budgeting and investment proccess, including planning
+and control.  Explain the methods of calculating net present value (NPV) and internal rate of
+return (IRR).  .Describe the non-DCF evaluation criteria: payback and accounting rate of
+return.  Illustrate the computation of discounted payback. ,  Compare NPV and IRR and emphasize the superiority of NPV rule.  Understand how to take investment decisions under capital rationing.
+3.2 NATURE AND TYPES OF INVESTMENT DECISIONS
+The investment decisions of a firm are generally known as the capital budgeting, or
+capital expenditure decisions. A capital budgeting decision may be defined as the firm's
+decision to invest its current funds most efficiently in the long-term assets in anticipation
+of an expected flow of benefits over a series of years. The long-term assets are those
+that affect the firm's operations beyond the one-year period. The firm's investment
+decisions would generally include expansion, acquisition, modernization and
+replacement of the long-term assets. Sale of a division or business (divestment) is also
+as an investment decision. Decisions like the change in the methods of sales
+distribution, or an advertisement campaign or a research and development programme
+have long-term implications for the firm's expenditures and benefits, and therefore, they
+should also be evaluated as investment decisions. It is important to note that investment
+in the long-term assets invariably requires large funds to be tied up in the current assets
+such as inventories and receivables. As such, investment in fixed and current assets is
+one single activity.
+The following are the features of investment decisions:  The exchange of current funds for future benefits.  The funds are invested in long-term assets.  The future benefits will occur to the firm over a series of years.
+It is significant to emphasize those expenditures and benefits of an investment
+should be measured in cash. In the investment analysis, it is cash flow, which is
+important, not the accounting profit. It may also be pointed out that investment decisions
+affect the firm's value. The firm's value will increase if investments are profitable and
+add to the shareholders' wealth. Thus, investments should be evaluated on the basis of
+a criterion, which is compatible with the objective of the shareholders' wealth
+maximization. An investment will add to the shareholders' wealth if it yields benefits in
+excess of the minimum benefits as per the opportunity cost of capital. In this unit, we
+assume that the investment project's opportunity cost of capital is known. We also
+assume that the expenditures and benefits of the investment are known with certainty.
+Both these assumptions are relaxed in later units.
+3.2.1 Importance of Investment Decisions
+Investment decisions require special attention because of the following reasons:1  They influence the firm's growth in the long run
+ They affect the risk of the firm
+ They involve commitment of large amount of funds
+ They are irreversible, or reversible at substantial loss
+ They are among the most difficult decisions to make.
+Growth: The effects of investment decisions extend into the future and have to be
+endured for a longer period than the consequences of the current operating
+expenditure. A firm's decision to invest in long-term assets has a decisive influence on
+the rate and direction of its growth. A wrong decision can prove disastrous for the
+continued survival of the firm; unwanted or unprofitable expansion of assets will result in
+heavy operating costs to the firm. On the other hand, inadequate investment in assets
+would make it difficult for the firm to compete successfully and maintain its market
+share.
+Risk: A long-term commitment of funds may also change the risk complexity of the firm.
+If the adoption of an investment increases average gain but causes frequent fluctuations
+in its earnings, the firm will become more risky. Thus, investment decisions shape the
+basic character of a firm.
+Funding: Investment decisions generally involve large amount of funds, which make it
+imperative for the firm to plan its investment programmes very carefully and make an
+advance arrangement for procuring finances internally or externally.
+Irreversibility: Most investment decisions are irreversible. It is difficult to find a market
+for such capital items once they have been acquired. The firm will incur heavy losses if
+such assets are scrapped.
+Complexity: Investment decisions are among the firm's most difficult decisions. They
+are an assessment of future events, which are difficult to predict. It is really a complex
+problem to correctly estimate the future cash flows of an investment. Economic,
+political, social and technological forces cause the uncertainty in cash flow estimation.
+There are many ways to classify investments. One classification is as follows:  Expansion of existing business
+ Expansion of new business
+ Replacement and modernization.
+3.2.2 Expansion and Diversification
+A company may add capacity to its existing product
+lines to expand existing operations. For example,
+the Gujarat State Fertilizer Company (GSFC) may
+increase its plant capacity to manufacture more
+urea. It is an example of related diversification. A
+firm may expand its activities in a new business.
+Expansion of a new business requires investment
+in new products and a new kind of production
+activity within the firm. If a packaging manufacturing
+company invests in a new plant and machinery to
+produce ball bearings, which the firm has not
+manufactured before, this represents expansion of
+new business or unrelated diversification.
+Sometimes a company acquires existing firms to
+expand its business. In either case, the firm makes
+investment in the expectation of additional revenue. Investments in existing or new
+products may also be called as revenue-expansion investments.
+3.2.3 Replacement and Modernization
+The main objective of modernization and replacement is to improve operating efficiency
+and reduce costs. Cost savings will reflect in the increased profits, but the firm's
+revenue may remain unchanged. Assets become outdated and obsolete with
+technological changes. The firm must decide to replace those assets with new assets
+that operate more economically. If a cement company changes from semi-automatic
+drying equipment to fully automatic drying equipment, it is an example of modernization
+and replacement. Replacement decisions help to introduce more efficient and
+economical assets and therefore, are also called cost-reduction investments. However,
+Check Your Progress
+1. How do we define capital
+budgeting decisions?
+2. How do we usually define
+long-term assets?
+3. What type of decisions
+may be termed as a firm's
+long-term investment
+decisions?
+4. Why do investment
+decisions require special
+attention from a firm's
+management?
+replacement decisions that involve substantial modernization and technological
+improvements expand revenues as well as reduce costs.
+Yet another useful way to classify investments is as follows:  Mutually exclusive investments
+ Independent investments
+ Contingent investments
+3.2.4 Mutually Exclusive Investments
+Mutually exclusive investments serve the same purpose and compete with each other. If
+one investment is undertaken, others will have to be excluded. A company may, for
+example, either use a more labour-intensive, semi-automatic machine, or employ a
+more capital-intensive, highly automatic machine for production. Choosing the
+semiautomatic machine precludes the acceptance of the highly automatic machine.
+3.2.5 Independent Investments
+Independent investments serve different purposes and do not compete with each other.
+For example, a heavy engineering company may be considering expansion of its plant
+capacity to manufacture additional excavators and addition of new production facilities
+to manufacture a new product—light commercial vehicles. Depending on their
+profitability and availability of funds, the company can undertake both investments.
+3.2.6 Contingent Investments
+Contingent investments are dependent projects; the choice of one investment
+necessitates undertaking one or more other investments. For example, if a company
+decides to build a factory in a remote, backward area, it may have to invest in houses,
+roads, hospitals, schools etc. for employees to attract the work force. Thus, building of
+factory also requires investment in facilities for employees. The total expenditure will be
+treated as one single investment.
+3.3 INVESTMENT EVALUATION CRITERIA
+Three steps are involved in the evaluation of an investment:  Estimation of cash flows
+ Estimation of the required rate of return (the opportunity cost of capital)  Application of a decision rule for making the choice
+The first two steps, discussed in the subsequent units, are assumed as given. Thus, our
+discussion in this unit is confined to the third step. Specifically, we focus on the merits
+and demerits of various decision rules.
+3.3.1 Investment Decision Rule
+The investment decision rules may be referred to as capital budgeting techniques, or
+investment criteria. A sound appraisal technique should be used to measure the
+economic worth of an investment project. The essential property of a sound technique is
+that it should maximize the shareholders' wealth. The following other characteristics
+should also be possessed by a sound investment evaluation criterion:2  It should consider all cash flows to determine the true profitability of the project.  It should provide for an objective and unambiguous way of separating good
+projects from bad projects.  It should help ranking of projects according to their true profitability.  It should recognize the fact that bigger cash flows are preferable to smaller ones
+and early cash flows are preferable to later ones.  It should help to choose among mutually exclusive projects that project which
+maximizes the shareholders' wealth.  It should be a criterion which is applicable to any conceivable investment project
+independent of others.
+These conditions will be clarified as we discuss the features of various investment
+criteria in the following pages.
+3.3.2 Evaluation Criteria
+A number of investment criteria (or capital budgeting techniques) are in practice. They
+may be grouped in the following two categories:
+1. Discounted Cash Flow (DCF) Criteria
+ Net present value (NPV)  Internal rate of return (IRR)  Profitability index (PI)
+2. Non-discounted Cash Flow Criteria
+ Payback period (PB)  Discounted payback period
+ Accounting rate of return (ARR)
+Discounted payback is a variation of the
+payback method. It involves discounted cash flows,
+but, as we shall see later, it is not a true measure of investment profitability. We will
+show in the following pages that the net present value criterion is the most valid
+technique of evaluating an investment project. It is consistent with the objective of
+maximising the shareholders' wealth.
+3.4 NET PRESENT VALUE METHOD
+The net present value (NPV) method is the classic economic method of evaluating the
+investment proposals. It is a DCF technique that explicitly recognizes the time value of
+money. It correctly postulates that cash flows arising at different time periods differ in
+value and are comparable only when their equivalents—present values—are found out.
+The following steps are involved in the calculation of NPV:
+Check Your Progress
+5. Which are the two main
+categories in which we divide the
+evaluation criteria of capital
+budgeting decisions?
+ Cash flows of the investment project should be forecasted based on realistic
+assumptions.  Appropriate discount rate should be identified to discount the forecasted cash
+flows. The appropriate discount rate is the project's opportunity cost of capital,
+which is equal to the required rate of return expected by investors on investments
+of equivalent risk.  Present value of cash flows should be calculated using the opportunity cost of
+capital as the discount rate.  Net present value should be found out by subtracting present value of cash
+outflows from present value of cash inflows. The project should be accepted if
+NPV is positive (i.e., NPV > 0).
+Let us consider an example.
+Illustration 3.1: Calculating Net Present Value
+Assume that Project A costs Rs3000 now and is expected to generate year-end cash
+inflows of Rs 1000, Rs 900, Rs 800, Rs 700, and Rs 600 in 5 years. The opportunity
+cost of the capital may be assumed to be 10 per cent.
+The net present value for Project A can be calculated by referring to the present value
+table. The calculations are shown below:
+NPV = ( . )
++
+( . )
++
+( . )
++
+( . )
++
+( . ) − 3500
+NPV = [Rs 1000(PVF1,0.10)+ Rs 900(PVF2,0.10)+ Rs 800(PVF3,0.10)+ Rs 700(PVF4,0.10)+
+Rs 600(PVF5,0.10)]- Rs 3000
+NPV = [Rs 1000x 0.909+Rs 900x0.826+Rs 800x 0.751+Rs 700x 0.683+Rs 600 x
+0.6201 - Rs 3000
+NPV = Rs 3,104 - Rs 3,000=+ Rs 104
+Thus, it generates a positive net present value (NPV = Rs 104). Project A adds to the
+wealth of owners; therefore, it should be accepted.
+The formula for the net present value can be written as follows:
+NPV=V= ( )
++
+( )
++ ⋯ ( ) − (1)
+where A1, A2... represent net cash inflows (after but before depreciation) in year 1, 2...,
+A0 is the initial cost of the investment and n is the expected life of the investment. I=rate
+of interest
+3.4.1 Why is NPV Important?
+A question may be raised: why should a financial manager invest Rs 3,000in Project A?
+Project A should be undertaken if it is best for the company's shareholders; they would
+like their shares to be as valuable as possible. Let us assume that the total market value
+of a hypothetical company is Rs 10,000, which includes Rs 3,000 cash that can be
+invested in Project A. Thus the value of the company's other assets must be Rs 7,000.
+The company has to decide whether it should spend cash and accept Project A or to
+keep the cash and reject Project A. Clearly Project A is desirable since its PV (Rs
+3,104) is greater than the Rs 3,000 cash. If Project A is accepted, the total market
+value of the firm will be: Rs 7,000 +• PV of Project A = Rs 7,000 + Rs 3104 = Rs
+10,104; that is, an increase by Rs 104. The company's total market value would remain
+only Rs 10,000 if Project A was rejected. 3.4.2 Acceptance Rule
+It should be clear that the acceptance rule using the NPV method is to accept the
+investment project if its net present value is positive (NPV > 0) and to reject it if the net
+present value is negative (NPV < 0). Positive NPV contributes to the net wealth of the
+shareholders, which should result in the increased price of a firm's share. The positive
+net present value will result only if the project generates cash inflows at a rate higher
+than the opportunity cost of capital. A project with zero NPV (NPV = 0) may be
+accepted. A zero NPV implies that project generates cash flows at a rate just equal to
+the opportunity cost of capital. The NPV acceptance rules are:  Accept the project when NPV is positive NPV > 0
+ Reject the project when NPV is negative NPV < 0
+ May accept the project when NPV is zero NPV = 0
+The NPV method can be used to select between mutually exclusive projects; the one
+with the higher NPV should be selected. Using the NPV method, projects would be
+ranked in order of net present values; that is, first rank will be given to the project with
+highest positive net present value and so on.
+3.4.3 Evaluation of NPV Method
+NPV is the true measure of an investment's profitability. It provides the most acceptable
+investment rule for the following reasons: • Time value: It recognizes the time value of money—a rupee received today is
+worth more than a rupee received tomorrow. • Measure of true profitability: It uses all cash flows occurring over the entire life
+of the project in calculating its worth. Hence, it is a measure of the project's true
+profitability. The NPV method relies on estimated cash flows and the discount
+rate rather than any arbitrary assumptions, or subjective considerations. • Value-additivity : The discounting process facilitates measuring cash flows in
+terms of present values; that is, in terms of equivalent, current rupees. Therefore,
+the NPVs of projects can be added. For example, NPV (A + B) = NPV (A) + NPV
+(B). This is called the value-additivity principle. It implies that if we know the
+NPVs of individual projects, the value of the firm will increase by the sum of their
+NPVs. We can also say that if we know values of individual assets, the firm's
+value can simply be found by adding their values. The value-additivity is an
+important property of an investment criterion because it means that each project
+can be evaluated, independent of others, on its own merit.
+• Shareholder value: The NPV method is always consistent with the objective of
+maximization of the shareholder value. This is the greatest virtue of me method.
+Are there any limitations in using the NPV rule? The NPV method is a theoretically
+sound method. In practice, it may pose some computational problems. • Cash flow estimation: The NPV method is easy to use if forecasted cash flows
+are known. In practice, it is quite difficult to obtain the estimates of cash flows
+due to uncertainty. • Discount rate: It is also difficult in practice to precisely measure the discount rate. • Mutually exclusive projects: Further, caution needs to be applied in using the
+NPV method when alternative (mutually exclusive) projects with unequal lives, or
+under funds constraint are evaluated. The NPV rule may not give unambiguous
+results in these situations. • Ranking of projects: It should be noted that the ranking of investment projects as
+per the NPV rule is not independent of the discount rates.4 Let us consider an
+example.
+Suppose two projects—X and Y—both costing Rs. 50 each. Project X returns Rs.100
+after one year and Rs. 25 after two years. On the other hand, Project Y returns Rs. 30
+after one year and Rs. 100 after two years. At discount rates of 5 per cent and 10 per
+cent, the NPV of projects and their ranking are as follows:
+NPV at 5% Rank NPV at 10% Rank
+Project X 67.92 II 61.57 I
+Project Y 69.27 I 59.91 II
+It can be seen that the project ranking is reversed
+when the discount rate is changed from 5 per cent to
+10 per cent. The reason lies in the cash flow
+patterns. The impact of the discounting becomes
+more severe for the cash flow occurring later in the
+life of the project; the higher is the discount rate, the
+higher would be the discounting impact. In the case
+of Project Y, the larger cash flows come later in the
+life. Their present value will decline as the discount
+rate increases.
+3.5 INTERNAL RATE OF RETURN METHOD
+The internal rate of return (IRR) method is another
+discounted cash flow technique, which takes account
+of the magnitude and timing of cash flows. It is the
+rate which equates the present value of the expected future cash flows with the cost of
+the investment. Other terms used to describe the IRR method are yield on an
+investment, marginal efficiency of capital, rate of return over cost, time-adjusted rate of
+internal return and so on. The concept of internal rate of return is quite simple to
+understand in the case of a one-period project. Assume that you deposit Rs 10,000 with
+Check Your Progress
+6. Describe the basic
+approach of calculating the
+net present value of an
+investment proposal.
+7. Why is NPV method
+considered perhaps the best
+method for evaluating the
+profitability of a project? Are
+there any difficulties
+associated with this method?
+a bank and would get back Rs 10,800 after one year. The true rate of return on your
+investment would be:
+Rate of return = = − 10000 = 1.08 − 1 = 0.08 or, 8%
+The amount that you would obtain in the future (Rs. 10,800) would consist of your
+investment (Rs. 10,000) plus return on your investment (0.08 x Rs. 10,000):
+10,000(1.08)= 10,800
+10,000 = ( . )
+You may observe that the rate of return of your investment (8 per cent) makes the
+discounted (present) value of your cash inflow Rs ( 10,800) equal to your investment
+(Rs. 10,000).
+We can now develop a formula for the rate of return (r) on an investment (C0) that
+generates a single cash flow after one period (C1) as follows:
+r = = − 1 (2)
+Equation (2) can be rewritten as follows:
+= 1+r
+C0 =
+( ) (3)
+From Equation (3), you may notice that the rate of return, r, depends on the project's
+cash flows, rather than any outside factor. Therefore, it is referred to as the internal rate
+of return. The internal rate of return (IRR) is the rate that equates the investment outlay
+with the present value of cash inflow received after one period. This also implies that the
+rate of return is the discount rate which makes NPV = 0. There is no satisfactory way of
+defining the true rate of return of a long-term asset. IRR is the best available concept.
+We shall see that although it is a very frequently used concept in finance, yet at times it
+can be a misleading measure of investment worth. IRR can be determined by solving
+the following equation for r.
+C0 =
+( )
++
+( )
++
+( )
++ ⋯ +
+( )
+C0=∑
+( )
+∑
+( ) -C0 =0 (4)
+It can be noticed that the ERR equation is the same as the one used for the NPV
+method. In the NPV method, the required rate of return, k, is known and the net present
+value is found, while in the IRR method the value of r has to be determined at which the
+net present value becomes zero.
+3.5.1 Calculating IRR by Trial and Error
+The value of r in Equation (2) can be found out by trial and error. The approach is to
+select any discount rate to compute me present value of cash inflows. If the calculated
+present value of the expected cash inflow is lower than the present value of cash
+outflows, a lower rate should be tried. On me other hand, a higher value should be tried
+if the present value of inflows is higher than the present value of outflows. This process
+will be repeated unless the net present value becomes zero. The following illustration
+explains the procedure of calculating IRR.
+Illustration 3.2: Trial and Error Method for Calculating IRR
+A project costs Rs. 16,000 and is expected to generate cash inflows of Rs. 8,000, Rs.
+7,000 and Rs. 6,000 at the end of each year for next 3 years. We know that IRR is the
+rate at which project will have a zero NPV. As a first step, we try (arbitrarily) a 20 per
+cent discount rate. The project's NPV at 20 per cent is:
+NPV = - Rs.16,000+Rs.8,000(PVF1.020)+Rs. 7,000(PVF2,0.20)+Rs.6,000(PVF3, 0.20) = - Rs.16,000+Rs.8,000x0.833+Rs.7,000x0.694+Rs.6,000x0.579 = -Rs. 16,000+Rs. 14,996=-Rs. 1,004
+A negative NPV of Rs. 1,004 at 20 per cent indicates that the project's true rate of return
+is lower than 20 per cent. Let us try 16 per cent as the discount rate. At 16 per cent, the
+project's NPV is:
+NPV = -Rs.16,000+Rs.8,000(PVF1,0.16)+Rs.7,000(PVF2,0.16)+Rs.6,000(PVF3, 0.16) = -Rs.16,000+Rs.8,000x0.862+Rs.7,000x0.743+Rs.6,000x0.641 = -Rs. 16,000+Rs. 15,943=-Rs. 57
+Since the project's NPV is still negative at 16 per cent, a rate lower than 16 per cent
+should be tried. When we select 15 per cent as the trial rate, we find that the project's
+NPV is Rs. 200:
+NPV = -Rs.16,000+Rs.8,000(PVF1,0.15)+ Rs. 7,000(PVF2,0.15)+Rs.6,000(PVF3,0.15) = -Rs.16,000 + Rs.8,000x0.870 + Rs.7,000x0.756 + Rs. 6,000x0.658 = -Rs. 16,000 + Rs. 16,200 = Rs. 200
+The true rate of return should lie between 15-16 per cent. We can find out a close
+approximation of the rate of return by the method of linear interpolation as follows:
+3.5.2 NPV Profile and IRR
+We repeat to emphasize that NPV of a project declines as the discount rate increases,
+and for discount rates higher than the project's IRR, NPV will be negative. NPV profile of
+the project at various discount rates is shown in Table 2.2. At 16 per cent, the NPV is
+zero; therefore, it is the IRR of the project. As you may notice, we have used the Excel
+spreadsheet to make the computations and create the chart using the Excel chart
+wizard.
+Table 2.2 NPV Profile
+Table 2.2 NPV Profile
+3.5.3 Acceptance Rule
+The accept-or-reject rule, using the IRR method, is to accept the project if its internal
+rate of return is higher than the opportunity cost of capital (r > k). Note that k is also
+known as the required rate of return, or the cut-off. The project shall be rejected if its
+internal rate of return is lower than the opportunity cost of capital (r < k). The decision
+maker may remain indifferent if the internal rate of return is equal to the opportunity cost
+of capital. Thus the IRR acceptance rules are:  Accept the project when r > k
+ Reject the project when r < k
+ May accept the project when r = k
+3.5.4 Evaluation of IRR Method
+Difference
+PV required Rs. 16,000
+200
+PV at lower rate, 15% 16,200
+257
+PV at higher rate, 16% 15,943
+r = 15% + (16% - 15%)200/257
+= 15%+ 0.80%= 15.8%
+1 NPV Profile
+2 Cash Flow Discount
+Rate NPV
+3 -20000 0% 12580
+4 5430 5% 7561
+5 5430 10% 3649
+6 5430 15% 550
+7 5430 16% 0
+8 5430 20% (1942)
+9 5430 25% (3,974)
+NPV 15000
+10000
+5000
+-
+(5000)
+0% 10% 16% 20% 30%
+Discount Rate
+The IRR method is like the NPV method. It is a popular investment criterion since it
+measures profitability as a percentage and can be easily compared with the opportunity
+cost of capital. IRR method has following merits:  Time value: The IRR method recognizes the time value of money.  Profitability measure: It considers all cash flows occurring over the entire life of the
+project to calculate its rate of return.  Acceptance rule: It generally gives the same acceptance rule as the NPV method.  Shareholder value: It is consistent with the shareholders' wealth maximization
+objective. Whenever a project's IRR is greater than the opportunity cost of capital,
+the shareholders' wealth will be enhanced.
+Like the NPV method, the IRR method is also theoretically a sound investment
+evaluation criterion. However, IRR rule can give misleading and inconsistent results
+under certain circumstances. Here we briefly mention the problems that IRR method
+may suffer from.  Multiple rates: A project may have multiple rates, or it may not have a unique rate
+of return. As we explain later on, these problems arise because of the mathematics
+of IRR computation.  Mutually exclusive projects: It may also fail to indicate a correct choice between
+mutually exclusive projects under certain situations. This pitfall of the IRR method is
+elaborated later on in this unit.  Value additivity: Unlike in the case of the NPV method, the value additivity principle
+does not hold when the IRR method is used—IRRs of projects do not add.7 Thus,
+for Projects A and B, IRR(A) + IRR(B) need not be equal to IRR (A + B). Consider an
+example given below.
+The NPV and IRR of Projects A and B are given below:
+Project C0
+(`)
+C1
+(`)
+NPV @ 10%
+(`)
+IRR
+(%)
+A -100 + 120 + 9.1 r 20.0
+B -150 + 168 + 2.7 12.0
+A + B -250 + 288 + 11.8 15.2
+It can be seen from the example that NPVs of projects add:
+NPV(A) + NPV(B) = NPV(A + B) = 9.1 + 2.7 = 11.8, while
+IRR(A) + IRR(B) IRR(A + B) = 20%+12% # 15.2%
+3.5.5 NPV versus IRR
+The net present value and the internal rate of return methods are two closely related
+investment criteria. Both are time-adjusted methods of measuring investment worth. In
+case of independent projects, two methods lead to same decisions. However, under
+certain situations (to be discussed later in this section), a conflict arises between them.
+It is under these cases that a choice between the two criteria has to be made.
+Equivalence of NPV and IRR: Case of Conventional Independent Projects
+It is important to distinguish between conventional and non-conventional investments in
+discussing the comparison between NPV and IRR methods. A conventional investment
+can be defined as one whose cash flows take the pattern of an initial cash outlay
+followed by cash inflows. Conventional projects have only one change in the sign of
+cash flows; for example, the initial outflow followed by inflows, i.e., - + + +. A non- conventional investment, on the other hand, is one, which has cash outflows mingled
+with cash inflows throughout the life of the project.8 Non-conventional investments have
+more than one change in the signs of cash flows; for example, - +
+In case of conventional investments, which are economically independent of mil other,
+NPV and IRR methods result in same accept-or-reject decision if the firm be is not
+constrained for funds in accepting all profitable projects. Same projects would be
+indicated profitable by both methods. The logic is simple to understand. As has been
+explained earlier, all projects with positive net present values would be accepted. If the
+NPV method is used, or projects with internal rates of return higher than the internal
+rates of return would be accepted if the IRR method were followed. The last marginal
+project acceptable under the NPV method is the one, which has zero net present value;
+while using the IRR method, this project will have an internal rate of return equal to the
+required rate of return. Projects with positive net present values would also have
+internal rates of return higher than the required rate of return and the marginal project
+will have zero present value only when its internal rate of return is equal to the required
+rate of return.
+We know that NPV is:
+NPV=∑
+( ) -C0 (5)
+and IRR is that rate r which satisfies the following equation:
+NPV=∑
+( ) -C0 = 0 (6)
+Subtracting Equation (6 from Equation (5), we get
+NPV=∑
+( ) −
+( ) (7)
+As we know that C(, A:, r and t are positive, NPV can be positive (NPV > 0) only
+if r > k. NPV would be zero if and only if r = k and it would be negative (NPV < 0) If r < k. Thus, we find that NPV and IRR methods are equivalent as regards the acceptance or
+rejection of independent conventional investments.
+Figure 2.2 also substantiates this argument where oa2 represents the highest net
+present value for the project at zero discount rate; at this point NPV is simply the
+difference between cash inflows and cash outflows. At r2, discount rate, the net present
+value is zero and therefore, by definition, r, is the internal rate of return of the project.
+For discount rate (say r3) greater than IRR, the net present value would be negative.
+Conversely, for discount rate (say r1) lower than IRR, the net present value of the
+project will be positive. Thus, if the required rate of return is r., the project will be
+accepted under both methods since the net present value, oa1 is greater than zero and
+internal rate, r2, exceeds the required rate, r1. Project could also be accepted if the
+required rate is r2 as net present value is zero and the required rate and internal rate are
+equal. But the project would be rejected under either method if the required rate is r3, as
+the net present value is negative and the internal rate of return is lower than the
+required rate of return (i.e., r2 < r3).
+Assuming
+= x, we obtain – 3,750x2 + 4,000x-1,000 = 0
+This is a quadratic equation of the form: ax2 + bx
++ c = Q, and we can solve it by using the
+following formula:
+x=
+± √
+Substituting values, we obtain
+x =
+± ( ) ( )
+( )
+x =
+± = , Since x = , therefore = , =
+r = or 150%, r = = 50%
+It is obvious from the above calculation that Project I yields dual rates of return:
+50 per cent and 150 per cent. At these two rates of return the net, present value of the
+project is zero. It needs to be emphasized here that this dilemma does not arise when
+the NPV method is used—we have simply to specify the required rate of return and find
+NPV. The relationship between discount rates and NPVs are shown in Figure 2.4,
+where the discount rate is plotted along the horizontal axis and net present value along
+the vertical axis.
+At zero rate of discount, the net present value of the project is simply the
+difference of undiscounted cash flows. It is - Rs. 750 for Project I (- 1,000 + 4,000 -3,750 = - 750). As the discount rate increases, the negative net present value diminishes and
+becomes zero at 50 per cent. The positive net present value increases as the discount
+Check Your Progress
+8. Define the basic method of
+calculating the internal rate of
+return (IRR) while appraising an
+investment project.
+9. In the IRR system, how do we
+decide which projects to accept
+or reject ?
+10. What is the main difference
+between the concepts of NPV
+and IRRRs.
+rate exceeds 50 per cent, but reaching a maximum it starts decreasing and at 150 per
+cent it again becomes zero.
+It should be clear from Figure 2.4 that Project I combines the features of both lending
+and borrowing.'' The first part of the figure has an upward slope typical of a loan; the
+second part has a downward slope typical of an ordinary investment (lending). Since the
+NPV curve cuts the horizontal-axis twice, the project has two rates of return, 50 and 150
+per cent.
+Which of the two rates is correct? None. The project would be worthwhile only
+when the opportunity cost of the capital falls between these two rates; NPV is positive at
+the discount rates ranging between 50 and 150 per cent.
+The number of rates of return depends on the number of times the sip of the
+cash flow stream changes. In the case of Project I above, there are two reversals of
+sign (- + -), and there are two rates of return. Reversal of sign is a necessary but not n
+sufficient condition for multiple rates of return.
+A number of adaptations of the IRR criterion have been suggested to take care of
+the problem of multiple rates. In our opinion, none of them will work satisfactorily. The
+simple, straightforward alternative is to use the NPV rule.
+Difference: Case of ranking mutually exclusive projects
+We have shown that the NPV and IRR methods yield the same accept-or-reject rule in
+case of independent conventional investments. However, in real business situations
+there are alternative ways of achieving an objective and, thus, accepting one alternative
+will mean excluding the other. As defined earlier, investment projects are said to be
+mutually exclusive when only one investment could be accepted and others would
+have to be excluded.12 For example, in order to distribute its products a company may
+decide either to establish its own sales organization or engage outside distributors. The
+more profitable out of the two alternatives shall be selected. This type of exclusiveness
+may be referred to as technical exclusiveness. On the other hand, two independent
+250
+NPV Rs 63
+0
+-250
+-500
+-750
+0 50 100 150 200 250
+Discount Rate (%)
+Fig. 2.4 Dual Rales of Return
+projects may also be mutually exclusive if a financial constraint is imposed. If limited
+funds are available to accept either Project A or Project B, this would be an example of
+financial exclusiveness or capital rationing. The NPV and IRR methods can give
+conflicting ranking to mutually exclusive projects. In the case of independent projects
+ranking is not important since all profitable projects will be accepted. Ranking of
+projects, however, becomes crucial in the case of mutually exclusive projects. Since the
+NPV and IRR rules can give conflicting ranking to projects, one cannot remain
+indifferent as to the choice of the rule.
+The NPV and ERR rules will give conflicting ranking to the projects under the following
+conditions:  The cash flow pattern of the projects may differ. That is, the cash flows of one
+project may increase over time, while those of others may decrease or vice
+versa.  The cash outlays (initial investments) of the projects may differ.  The projects may have different expected lives.
+Timing of cash flows: The most commonly found condition for the conflict between the
+NPV and IRR methods is the difference in the timing of cash flows. Let us consider the
+following two Projects, M and N.
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 at 9% IRR
+M -1680 1400 700 140 301 23%
+N -1680 140 840 1510 321 17%
+At 9 per cent discount rate, project N has higher NPV of Rs. 321 than Project
+ATs NPV of Rs. 301. However, Project N has a lower IRR of 17 per cent than Project
+M's IRR of 23 per cent. Why this conflict?. Which project should we accept?. Let us see
+how NPVs of Projects M and N behave with discount rates. The NPV profiles of two
+projects would be as shown in Table 2.5.
+The net present values of Projects M and N, as a function of discount rates, are
+plotted in Figure 2.5. It is noticeable from the NPV calculations as well as from Figure
+2.5 that the present value of Project N falls rapidly as the discount rate increases. The
+reason is that its largest cash flows come late in life, when the compounding effect of
+time is most significant. Reverse is true with Project M as its largest cash flows come
+early in the life when compounding effect is not so severe. The internal rates of Projects
+M and N respectively are 23 per cent and 17 per cent. The NPV profiles of two projects
+intersect at 10 per cent discount rate. This is called Fisher's intersection.14
+Table 2.3 NPV Profiles of Projects M and N
+Discount Rate (%) Project M Project N
+0 560 810
+5 409 520
+10 276 276
+15 159 70
+20 54 -106
+25 -40 -251
+30 - 125 -388
+Fisher's intersection occurs at the discount rate where the NPVs of two projects are
+equal. We can determine the discount rate at which Fisher's intersection occurs as
+follows:
+-1680+( ∗
+)
++
+( ∗
+)
++
+( ∗
+) = -1680+( ∗
+)
++
+( ∗
+)
++
+( ∗
+)
+This equation can be simplified by bringing all terms over the left-hand side. -
+( ∗
+)
++
+( ∗
+)
++
+( ∗
+) = 0
+Solving for r*—Fisher's intersection rate—by trial and error, we obtain: r* = 10%. We
+can write the following formula for determining the rate at which Fisher's intersection
+occurs for two Projects M and N:
+NPVM = NPVN
+∑ ∗ − = ∑ ∗ − (8)
+It is notable from Table 2.5 and Figure 2.5 that at the discount rates less than the
+intersection rate (10 per cent). Project N has the higher NPV but lower IRR (17 percent).
+On the other hand, at the discount rates greater than the intersection rate (10 per cent).
+Project M has both higher NPV as well as higher IRR (23 per cent). Thus, if the required
+rate of return is greater than the intersection rate, both NPV and IRR methods will yield
+consistent results. That is, the project with higher internal rate of Mini n will also have
+higher net present value. However, if the required rate of return is than the intersection
+rate, the two methods will give contradictory results. That is, the project with higher
+internal rate of return will have lower net present value and Vice versa.
+Which project should we choose between Projects M and NRs. Both projects
+generate positive net present value at 9 per cent opportunity cost of capital. Therefore,
+both are profitable. But Project N is better since it has a higher NPV. The IRR rule,
+however, indicates that we should choose Project M as it has a higher IRR. If we
+choose Project N, following the NPV rule, we shall be richer by an additional value of
+120. Should we have the satisfaction of earning a higher rate of return, or should we like
+to be richer ? The NPV rule is consistent with the objective of maximizing wealth. When
+we have to choose between mutually exclusive projects, the easiest procedure is to
+compare the NPVs of the projects and choose the one with the larger NPV.
+Incremental approach: It is argued that the IRR method can still be used to
+choose between mutually exclusive projects if we adapt it to calculate rate of return on
+the incremental cash flows. If we prefer Project N to Project M, there should be
+incremental benefits in doing so. To see this, let us calculate the incremental flows of
+Project N over Project M. We obtain the following cash flows:
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 at 9% IRR
+(N-M) 0 -1260 140 1370 20 10%
+The IRR on the incremental flows is 10 per cent. It is more than the opportunity
+cost of 9 per cent. Therefore, Project N should be accepted. Project N is better than
+Project M despite its lower IRR because it offers all benefits that Project M offers plus
+the opportunity of an incremental investment at 10 per cent—a rate higher than 11io
+required rate of return of 9 per cent. It may be noticed that the NPV of the Incremental
+flows is the difference of the NPV of Project N over that of Project M; this is so because
+of the value-additivity principle.
+The incremental approach is a satisfactory way of salvaging the IRR rule. But the
+series of incremental cash flows may result in negative and positive cash flows (i.e.,
+lending and borrowing type pattern). This would result in multiple rates of return and
+ultimately the NPV method will have to be used.
+Some people find it difficult to appreciate that the IRR rule can mislead. Let us,
+for instance, assume that we are considering two mutually exclusive Projects M and N,
+and we are also contemplating an investment opportunity, say Project O, to occur after
+one year. Project O has the following cash follows:
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 at 9% IRR
+O 0 -1400 700 948 37 11%
+We have established so far that Project N is better than Project M, since it adds
+more wealth. Still some may argue in favour of Project M. Their reasoning could I that if
+we accept Project M today, we would also be able to undertake Project O ne; year that
+can be financed out of the cash flows generated by Project M in the fir year. This
+reasoning implies a capital shortage next year to undertake Project O if Project M is
+rejected in the absence of capital constraint. Project N is definitely better (NPV is
+higher) than Project M, and Project O can also be accepted next year by raising Rs.
+1,260 at a rate equal to the cost of capital. It is very unlikely that the large companies
+would face capital constraint. However, some companies do impose capital rationing on
+their divisions for control purposes. Such impositions are thought to b real constraints by
+management people at the lower levels. Even if there is a capital constraint, real or selfimposed, the IRR rule cannot be used for ranking projects. The problem under capital
+rationing is to determine the portfolio of projects, which have the largest net present
+value satisfying such portfolio. We shall show later on that this problem can be handled
+through the programming techniques.
+Settlement of investment: Another condition, under which the NPV and IRR methods
+will give contradictory ranking to the projects, is when the cash outlays are of different
+sizes. Let us consider Projects A and B, involving following cash flows:
+Cash Flow (`) NPV
+Project C0 C1 at 10% IRR
+A -1000 1500 364 50%
+B -100000 120000 9091 20%
+Project A's NPV at 10 per cent required rate of return of `. 364 and IRR is 50
+percent. Project B’s NPV at 10 per cent required rate of return is `. 9,091 and internal
+rate of return is 20 per cent. Thus, the two projects are ranked differently by the NPV
+and IRR rules.
+As we have explained earlier, the NPV method gives unambiguous results. Since
+the NPV of Project B is high, it should be accepted. The same result will be obtained if
+we calculate the internal rate of return on the incremental investment:
+The incremental investment of `. 99,000 (i.e., `. 100,000 - `. 1,000) will generate
+cash inflow of `. 118,500 after a year. Thus, the return on the incremental investment is
+19.7 per cent, which is in excess of the 10 per cent required rate of return. We should,
+therefore, prefer Project B to Project-4.
+Project life span: Difference in the life spans of two mutually exclusive projects can
+also give rise to the conflict between the NPV and IRR rules. To illustrate, let us
+consider two mutually exclusive Projects, X and Y, of significantly different expected
+lives:
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 C4 C5 at 10% IRR
+X -10000 -12000 - - - - 909 20%
+Y -10000 0 0 0 0 20120 2493 15%
+Both the projects require initial cash outlays of `. 10,000 each. Project X generates a
+cash flow of `. 12,000 at the end of one year, while Project Y generated cash flow of `.
+20,120 at the end of fifth year. At 10 per cent required rate of return, Project X's net
+present value is `. 908 and internal rate of return is 20 per cent, while Project Ts net
+present value is `. 2,495 and internal rate of return is 15 per cent. Thus, the two
+methods rank the projects differently. The NPV rule can be used to choose between the
+projects since it is always consistent with the wealth maximization principle. Thus,
+Project Y should be preferred since it has higher NPV. The problem of choosing
+between the short and long-lived assets, which have to be replaced in future, is
+discussed later on.
+3.6 PAYBACK
+The payback (PB) is one of the most popular and widely recognized traditional methods
+of evaluating investment proposals. It is based on the assumption that the degree of risk
+associated with the fixed asset is the length of time required to recover the investment
+from the firm’s cash flow. Payback is the number of years required to recover the
+original cash outlay invested in a project. If the project generates constant annual cash
+inflows, the payback period can be computed by dividing cash outlay by the annual
+cash inflow. That is:
+Payback = =
+Illustration 34: Payback (Constant Cash Flows)
+Assume that a project requires an outlay of Rs 2,00,000 and yields annual cash inflow
+of Rs 40000 for 9 years. The payback period for the project is:
+PB= . = 5years
+Unequal cash flows: In case of unequal cash inflows, the payback period can be found
+out by adding up the cash inflows until the total is equal to the initial cash outlay.
+Consider the following example.
+Illustration 35: Payback (Uneven Cash Flows)
+Suppose that a project requires a cash outlay of Rs 20,000, and generates cash inflows
+of Rs 8,000; Rs 7,000; Rs 4,000; and Rs 3,000 during the next 4 years. What is the
+project's payback?. When we add up the cash inflows, we find that in the first three
+years Rs 19,000 of the original outlay is recovered. In the fourth year cash inflow
+generated is Rs 3,000 and only Rs 1,000 of the original outlay remains to be recovered.
+Assuming that the cash inflows occur evenly during the year, the time required to
+recover Rs 1,000 will be (Rs 1,000/ Rs 3,000) x 12 months = 4 months. Thus, the
+payback period is 3 years and 4 months.
+3.6.1 Acceptance Rule
+Many firms use the payback period as an investment evaluation criterion and a method
+of ranking projects. They compare the project's payback with a predetermined, standard
+payback. The project would be accepted if it’s payback period is less than the maximum
+or standard payback period set by management. As a ranking method, it gives highest
+ranking to the project, which has the shortest payback period and lowest ranking to the
+project with highest payback period. Thus, if the firm has to choose between two
+mutually exclusive projects, the project with shorter payback period will be selected.
+3.6.2 Evaluation of Payback
+Payback is a popular investment criterion in practice, lt is considered to have certain
+virtues.
+Simplicity: The most significant merit of payback is that it is simple to understand and
+easy to calculate. The business executives consider the simplicity of method as a virtue.
+This is evident from their heavy reliance on it for appraising investment proposals in
+practice.  Cost effective: Payback method costs less than most of the sophisticated
+techniques that require a lot of the analysts" time and the use of computers.  Short-term effects: A company can have more favorable short-run effects on
+earnings per share by setting up a shorter standard payback period.16 It should,
+however, be remembered that this may not be a wise long-term policy as the
+company may have to sacrifice its future growth for current earnings.  Risk shield: The risk of the project can be tackled by having a shorter standard
+payback period as it may ensure guarantee against loss. A company has to invest in
+many projects where the cash inflows and life expectancies are highly uncertain.
+Under such circumstances, payback may become important, not so much as a
+measure of profitability but as a means of establishing an upper bound on the
+acceptable degree of risk.17  Liquidity: The emphasis in payback is on the early recovery of the investment.
+Thus, it gives an insight into the liquidity of the project. The funds so released can be
+put to other uses.  In spite of its simplicity and the so-called virtues, the payback may not be a desirable
+investment criterion since it suffers from a number of serious limitations:  Cash flows after payback: Payback fails to take account of the cash inflows earned
+after the payback period. For example, consider the following projects X and Y:
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 Payback NPV
+X -4000 0 4000 2000 2 years +806
+Y -4000 2000 2000 0 3 years -530
+As per the payback rule, both the projects are equally desirable since both return the
+investment outlay in two years. If we assume an opportunity cost of 10 per cent, Project
+X yields a positive net present value of X 806 and Project Y yields a negative net
+present value of Rs. 530. As per the NPV rule. Project X should be accepted and
+Project Y rejected. Payback rule gave wrong results because it failed to consider Rs.
+2,000 cash flow in third year for Project X.
+ Cash flows ignored: Payback is not an appropriate method of measuring the
+profitability of an investment project as it does not consider all cash inflows yielded
+by the project. Considering Project X again, payback rule did not take into account
+its entire series of cash flows.  Cash flow patterns: Payback fails to consider the pattern of cash inflows, i.e.,
+magnitude and timing of cash inflows. In other words, it gives equal weights to
+returns of equal amounts even though they occur in different time periods. For
+example, compare the following projects C and D where they involve equal cash
+outlay and yield equal total cash inflows over equal time periods:
+Cash Flow (`) NPV
+Project C0 C1 C2 C3 Payback NPV
+C -5000 3000 2000 2000 2 years +881
+D -5000 2000 3000 2000 2 years + 798
+Using payback period, both projects are equally desirable. But Project C should be
+preferable as larger cash inflows' come earlier in its life. This is indicated by the NPV
+rule; project C has higher NPV (Rs 881) than Project D (Rs 798) at 10 per cent
+opportunity cost. It should be thus clear that payback is not a measure of profitability. As
+such, it is dangerous to use it as a decision criterion.  Administrative difficulties: A firm may face difficulties in determining the
+maximum acceptable payback period. There is no rational basis for setting a
+maximum payback period. It is generally a subjective decision.  Inconsistent with shareholder value: Payback is not consistent with the objective
+of maximising the market value of the firm's shares. Share values do not depend on
+payback periods of investment projects.
+Let us re-emphasize that the payback is not a valid method for evaluating the
+acceptability of the investment projects. It can, however, be used along with the NPV
+rule as a first step in roughly screening the projects. In practice, the use of DCF
+techniques has been increasing but payback continues to remain a popular and primary
+method of investment evaluation (Exhibit 2.1).
+3.6.3 Payback Reciprocal and the Rate of Return
+Payback is considered theoretically useful in a few situations. One significant argument
+in favour of payback is that its reciprocal is a good approximation of the rate of return
+under certain conditions.
+Exhibit 2.1: Capital Budgeting Methods in Practice
+ In a study of the capital budgeting practices of fourteen medium to large size
+companies in India, it was found that all companies, except one, used
+payback. With payback and/or other techniques, about two-thirds of
+companies used IRR and about two-fifths NPV. IRR was found to be the
+second most popular method.
+ The reasons for the popularity of payback in order of significance were stated
+to be its simplicity to use and understand its emphasis on the early recovery
+of investment and focus on risk.
+ It was also found that one-third of companies always insisted on the
+computation of payback for all projects, one-third of its majority of projects
+and remaining for some of the projects. For about two-thirds of company’s
+standard payback ranged between 3 and 5 years.
+ Reasons for the secondary role of DCF techniques in India included difficulty
+in understanding and using these techniques, lack of qualified professionals
+and unwillingness of top management to use DCF techniques. One large
+manufacturing and marketing organisation mentioned that conditions of its
+business were such mat DCF techniques were not needed. Yet another
+company stated that replacement projects were very frequent in the company,
+and it was not considered necessary to use DCF techniques for evaluating
+such projects.
+Source: Pandey, I.M., Capital Budgeting Practices of Indian Companies,
+MDI Management Journal,Vol.2,No. I (Jan. 1989).
+The payback period is defined as follows:
+Payback = ( ) = (9)
+The formula for the present value of an annuity is given by the following equation as
+discussed in Unit 2. (i) in the original equation is being replaced by r, the internal rate of
+return).
+C0= C ( ) = −
+( )
+(10)
+Multiplying both sides by r, we get
+rC0 = C-C ( )
+Solving for r, we find
+r= −
+( )
+where C0 is the initial investment, C is annual cash inflow, r is rate of return and n is the
+life of investment.
+In Equation (10), the first right-hand term is the reciprocal of the payback period. The
+second right-hand term is payback reciprocal multiplied by 1/(1 + r)n
+. If n is very large or
+extends to infinity, the second term becomes insignificant (almost equal to zero), and
+we are left with the term C/C0. Thus, IRR is equal to the reciprocal of payback.
+The reciprocal of payback will be a close approximation of the internal rate of return if
+the following two conditions are satisfied:  The life of the project is large or at least twice the payback period.  The project generates equal annual cash inflows,
+The payback reciprocal is a useful technique to quickly estimate the true rate of return.
+But its major limitation is that every investment project does not satisfy the conditions on
+which this method is based. When the useful life of the project is not at least twice the
+payback period, the payback reciprocal will always exceed the rate of return. Similarly, it
+cannot be used as an approximation of the rate of return if the project yields uneven
+cash inflows.
+3.6.4 Discounted Payback Period
+One of the serious objections to the payback method is that it does not discount the
+cash flows for calculating the payback period. We can discount cash flows and then
+calculate the payback. The discounted payback period is the number of periods taken in
+recovering the investment outlay on the present value basis. The discounted payback
+period still fails to consider the cash flows occurring after the payback period.
+Let us consider an example. Projects P and Q involve the same outlay of Rs 4,000
+each. The opportunity cost of capital may be assumed as 10 per cent. The cash flows ill
+the projects and their discounted payback periods are shown in Table 2.3.
+Table 2.3 Discounted Payback Illustrated
+Cash Flow (`)
+Project C0 C1 C2 C3 C4 Simple
+PB
+Discounted
+PB
+NPV at
+10%P -4000 3000 1000 1000 1000 2 years - - PV of cash flows -4000 2727 826 751 683 - 2.6 years 987
+Q -4000 0 4000 1000 2000 2 years - - PV of cash flows -4000 0 3304 751 1366 2.9 years 1421
+The projects are indicated of same desirability by the simple payback period. When
+cash flows are discounted to calculate the discounted payback period, Project P
+recovers the investment outlay faster than Project Q, and therefore, it would be
+preferred over Project Q. Discounted payback period for a project will be always higher
+than simple payback period because its calculation is based on the discounted cash
+flows. Discounted payback rule is better as it discounts the cash flows until the outlay is
+recovered. But it does not help much. It does not take into consideration the entire
+aeries of cash flows. It can be seen in our example that if we use the NPV rule, Project
+Q (with higher discounted payback period) is better.
+3.7 ACCOUNTING RATE OF RETURN METHOD
+The accounting rate of return (ARR), also known as the return on investment (ROI),
+uses accounting information, as revealed by financial statements, to measure the
+profitability of an investment. The accounting rate of return is the ratio of the average
+after tax profit divided by the average investment. The average investment would be
+equal to half of the original investment if it were depreciated constantly. Alternatively, it
+can be found out by dividing the total of the investment's book values after depreciation
+by the life of the project. The accounting rate of return, thus, is an average rate and can
+be determined by the following equation:
+ARR = (11)
+In Equation (11) average income should be defined in terms of earnings after
+taxes without an adjustment for interest viz. EBIT (1 - T) or net operating profit after tax.
+Thus
+ARR =
+∑ ( )
+(12)
+where EBIT is earnings before interest and taxes, T tax rate, /0 book value of
+investment in the beginning, /( book value of investment at the end of n number of
+years.
+Illustration 3.6: Accounting Rate of Return
+A project will cost Rs 40,000. Its stream of earnings before depreciation, interest and
+taxes (EBDIT) during first year through five years is expected to be Rs 10,000. Rs
+12,000, Rs 14,000, Rs. 16,000 and Rs 20,000. Assume a 50 per cent tax rate and
+depreciation on straight-line basis. Project's ARR is computed in Table 2.4.
+Accounting Rate of Return = x 100 = 16 per cent
+A variation of the ARR method is to divide average earnings after taxes by the original
+cost of the project instead of the average cost. Thus, using this version, the ARR in
+Illustration 2.6 would be: Rs 3,200  Rs 40.000 x 100 = 8 per cent. This version of the
+ARR method is less consistent as earnings are averaged but investment is not.
+Table 2.4 Calculation of Accounting Rate of Return
+(`)Period 1 2 3 4 5 AverageEarnings before depreciation.
+interest and taxes (EBDIT)
+Depreciation
+10,000
+8,000
+12,000
+8,000
+14,000
+8,000
+16,000
+8,000
+20,000
+8,000
+14,4008,000
+Earnings before interest and
+taxes (EB1T)
+Taxes at 50%
+2,000
+1,000
+4,000
+2,000
+6,000
+3,000
+8,000
+4,000
+12,000
+6,000
+6,400
+3,200
+Earnings before interest and
+after taxes [EBIT (1-T)]
+1,000 2,000 3,000 4,000 6,000 3,200
+Book value of investment:
+Beginning
+Ending
+Average
+40,000
+32,000
+36,000
+32,000
+24,000
+28,000
+24,000
+16,000
+20,000
+16,000
+8,000
+12,000
+8,000
+-4,000 20,0003.7.1 Acceptance Rule
+As an accept-or-reject criterion, this method will accept all those projects whose ARR is
+higher than the minimum rate established by the management and reject those projects
+which have ARR less than the minimum rate. This method would rank a project as
+number one if it has highest ARR and lowest rank would be assigned to the project with
+lowest ARR.
+3.7.2 Evaluation of ARR Method
+The ARR method may claim some merits:
+ Simplicity: The ARR method is simple to understand and use. It does not involve
+complicated computations.  Accounting data: The ARR can be readily calculated from the accounting data;
+unlike in the NPV and IRR methods, no adjustments are required to arrive at cash
+flows of the project.  Accounting profitability: The ARR rule incorporates the entire stream of income in
+calculating the project's profitability.
+The ARR is a method commonly understood by accountants, and frequently used as a
+performance measure. As a decision criterion, however, it has serious shortcomings.  Cash flows ignored: The ARR method uses accounting profits, not cash flows, in
+appraising the projects. Accounting profits arc based on arbitrary assumptions and
+choices and also include non-cash items. It is, therefore, inappropriate to rely on
+them for measuring the acceptability of the investment projects.  Time value ignored: The averaging of income ignores the time value of money. In
+fact, this procedure gives more weightage to the distant receipts.  Arbitrary cut-off: The firm employing the ARR rule uses an arbitrary cut-off
+yardstick. Generally, the yardstick is the firm's current return on its assets (book- value). Because of this, the growth companies earning very high rates on their
+existing assets may reject profitable projects (i.e., with positive NPVs) and the less
+profitable companies may accept bad projects (i.e.. with negative NPVs).
+The ARR method continues to be used as a performance evaluation and control
+measure in practice. But its use as an investment criterion is certainly undesirable. It
+may lead to unprofitable allocation of capital.
+3.8 SUMMARY
+ Investments involve cash flows. The profitability of an investment project is
+determined by evaluating its cash flows.  The capital budgeting process involves a process of facilitating decisions which
+cover expenditures on long-term assets. They encompass both tangible and
+intangible assets.  The phases of expenditure planning and control include identification of investment
+opportunities, forecasting benefits and costs, authorization of capital expenditure
+and control of capital projects.  NPV, IRR and PI are the discounted cash flow (DCF) criteria for appraising the worth
+of an investment project.  The net present value (NPV) method is a process of calculating the present value of
+a project's cash flows using the opportunity cost of capital as the discount rate, and
+finding out the net present value by subtracting the initial Investment from the
+present value of cash flows.  Under the NPV method, the investment project is accepted if its net present value is
+positive (NPV > 0). The market value of the firm's share is expected 10 increase by
+the project's positive NPV Between the mutually exclusive projects, the one with the
+highest NPV will be chosen.
+ The internal rate of return (ERR) is that discount rate at which the project's net
+present value is zero. Under the IRR rule, the project will be accepted when its
+internal rate of return is higher than the opportunity cost of capital (IRR > jfc).  I'B is the number of years required to recoup the initial cash outlay of an investment
+project. The project would be accepted if it’s payback is less than the standard
+payback. The greatest limitations of this method are that it does not consider the
+time' value of money, and does not consider cash flows after the payback period.  Discounted payback considers the time value of money, but like simple payback, it
+also ignores cash flows after the payback period. Under the conditions of constant
+cash flows and the long life of a project, the reciprocal of payback can be a good
+approximation of the project's rate of return.  Capital rationing is a situation where in a firm may be constrained by external or
+internal reasons to obtain necessary funds to invest in all projects with positive NPV.  The cost of capital to a firm is the minimum return which the suppliers of capital
+require. In other words, it is the price of obtaining capital; it is a compensation for
+time and risk.  The cost of capital concept is of vital significance in financial decision making. It is
+used: (a) as a discount, or cut-off, rate for evaluating investment projects, (6) for
+designing the firm's debt-equity mix and (c) for appraising the top management's
+financial performance.  Debt includes all interest-bearing borrowings. Its cost is the yield (return) which
+lenders expect from their investment. In most cases, return is equal to the annual
+contractual rate of interest (also called coupon rate). Interest charges are tax
+deductible. Therefore, the cost of debt to the firm should be calculated after
+adjusting for interest tax shield: where kd is before-tax cost of debt and T is the
+corporate tax rate.  Equity includes paid-up capital and reserve and surplus (retained earnings). Equity
+has no explicit cost, as payment of dividends is not obligatory. However, it involves
+an opportunity cost.  Three steps are involved in calculating the firm's weighted average cost of capital
+(WACC). First, the component costs of debt and equity are calculated. Second,
+weights to each component of capital are assigned according to the target capital
+structure. Third, the product of component costs and weights is summed up to
+determine WACC. The weighted average cost of new capital is the weighted
+marginal cost of capital (WMCC). WACC for a firm which debt and equity in the
+capital structure, is given by the following formula:
+where ke is the cost of equity, kd is the cost of debt, T is the tax rate, D is d and £ is
+equity. The market value weights should be used in calculating WAC
+3.9 KEY TERMS
+ Capital Budget: The formal plan for the appropriation of funds is called capital
+budget.  Payback: The number of years required to recover the original cash outlay
+invested in a project.
+ Accounting Rate of Return: ARR, also known as the return on investment
+(ROI) uses accounting information as revealed by financial statements, measure
+the profitability of an investment.  Internal Rate of Return Method: A discounted cash flow technique which takes
+account of the magnitude and timing of cash flows.  Internal Rate of Return: The rate that equates the investment outlay with
+present value of cash inflow received after one period.  Discounted Payback Period: The number of periods taken in recovering
+investment outlay on the present value basis.
+3.10 ANSWERS TO 'CHECK YOUR PROGRES” 1 A capital budgeting decision is a decision to invest the firm's funds most efficient
+in anticipation of a projected flow of benefits (measured in cash flows) of number
+of years in the future.
+2 Long-term assets are those assets which affect a firm's operations beyond o
+year.
+3 A firm's long-term investment decisions would generally include expansion
+acquisition, modernization and replacement of long-term assets. Sale of lot termassets is also considered an investment decision. Further, business decision
+which have long-term implications like research and development programme
+advertising campaigns, etc., should also be treated as investment decisions.
+4 The reasons are as follows: (1) Growth: Investment decisions affect the firm's
+growth in the long run. (2) Commitment of funds: Usually, in capital budgeting
+decisions, large amounts of funds have to be committed. Once this large quantity
+of funds is invested in long-term assets, the decision is irreversible, or reversible
+at a substantial cost. (3) Risk: Given the nature of capital budgeting decision the
+overall riskiness of the firm may also be considerably affected. (Complexities:
+Finally, investment decisions are complex decisions, as so decisions have to
+take into account a large number of factors which are uncertain and difficult to
+predict. Economic, political, social and technological fact causes uncertainty in
+future incomes.
+5 The two main categories for assessment of capital budgeting decisions non- discounted cash flow criteria and discounted cash flow criteria. T discounted
+cash flow techniques use cash flows and take into account the value of money.
+The non-discounted cash flow criteria may measure benefit cither in cash flows
+or non-cash flows terms but they not consider the time value of money.
+6 The first step is to forecast on a realistic basis the cash flows of the proposed
+project. The forecasted cash flows then should be discounted with the
+appropriate discount rate, otherwise known as the cost of capital. The net
+present value is then arrived at by subtracting the present value of cash outflows
+from the present value of cash inflows. The project is acceptable if the net
+present value is positive and rejected if the net present value is negative.
+7 It is well-accepted that the best way to measure returns from a proposed project
+is to estimate future cash flows. This avoids the ambiguities of different
+accounting systems. The NPV method measures all cash flows occurring over
+the entire life of the project. After the future cash flows are projected, the NPV
+method discounts the cash flows with the cost of capital (or opportunity cost of
+capital) which reflects the risks and missed opportunities in the financial market.
+Hence the NPV method takes into account the time value of money and risk.
+8 Finally, a project is found acceptable only if the net present value is positive, that
+is the discounted cash inflows exceed the discounted cash outflows. This
+approach is consistent with the objective of shareholder value maximization.
+9 However, in spite of its obvious strengths, there are difficulties in using the NPV
+method. First, it is not easy to forecast cash flows accurately. There are also
+difficulties in arriving at the cost of capital or the discount rate that we use to
+discount cash flows. In the case of alternative or mutually exclusive projects, a
+project which yields a higher amount of NPV may also be more expensive to
+implement. This means that a company with a funds constraint may prefer a
+lower cost project. Finally, the ranking of investment projects are not independent
+of the discount rates. This means that as the discount rate or cost of capital
+changes, me ranking of projects may vary.
+10 In this case, as in the NPV method, the projected cash flows of the project are
+estimated on a realistic basis. IRR is the rate that equates the investment outlay
+with me present value of the cash inflows. As the cash inflows from the proposed
+project are uneven, the IRR has to be calculated by a trial and error method.
+11 Under the IRR method, if we find that the calculated internal rate of return
+exceeds the assumed opportunity cost of capital we accept the proposal;
+otherwise we reject it. This minimum rate of return is sometimes known as the
+cut-off or hurdle rate.
+12 In the NPV method, the required rate of return is given, and this required rate of
+return or cost of capital is used to calculate the present value of the projected
+cash inflows, and hence the NPV of the project.
+13 ARR is the ratio of average profit and average investment. It is calculated fromthe accounting data which is available from me projected financial statements of
+the proposed project.
+14 Payback is defined as the number of years required to recover the original cash
+outlay invested in a project. It is very simple to calculate as we obtain i.e Payback
+period of a project by the cash flows obtained on an annual basis.
+15 The Payback system has serious limitations as it does not take into account the
+time value of money. Further, it does not take into account the cash flows earned
+after the payback period.
+3.11 QUESTIONS AND EXERCISES
+Short-Answer Questions
+1What is capital budgeting?. Describe its significant for a firm.
+2 Despite its weaknesses, the payback period method is popular in practice. What
+are the reasons for its popularity?.
+3. How do you calculate the accounting rate of return? What are its limitations?
+4. What is profitability index? Which is a superior ranking criterion, profitability index
+or the net present value?
+5. What are the limitations of Profitability Index in the capital budgeting process?
+Long-Answer Questions
+1Under what circumstances do the net present value and internal rate of return
+methods differ? Which method would you prefer and why ?
+2. Comment on the following statements:
+a. '"We use payback primarily as a method of coping with risk."
+b. "The virtue of the IRR rule is that it does not require the computation of the
+required rate of return."
+c. "The average accounting rate of return fails to give weight to the later cash
+flows."
+UNIT-3
+DIVIDEND DECISIONS
+STRUCTURE
+4.0 Introduction
+4.1 Learning Objectives
+4.2 Issues in Dividend Decisions
+4.2.1 Dividend Decision and Valuation of the Firms
+4.3 Walter's Model
+4.3.1 Assumptions
+4.3.2 Relation of Dividend Decision and Valuation of a Firm
+4.3.3 Criticisms of Walter's Model
+4.3.4 Implications of Walter's Model
+4.4 Gordon's Model
+4.5 Miller-Modigliani (MM) Hypothesis
+4.6 Dividends and Uncertainty
+4.7 Relevance of Dividend
+4.7.1 Relevance under Market Imperfections
+4.7.2 Uncertainty and Shareholders' Preference for Dividends
+4.7.3 Transaction Costs and the Case against Dividend Payments
+4.7.4 Information Asymmetry and Agency Costs and the Case for Dividend Payments
+4.7.5 Tax Differential: Low-Payout and High-Payout Clientele
+4.7.6 Neutrality of Dividend Policy: Black-Scholes Hypothesis
+4.8 Dividend Policy in Practice
+4.8.1 Firm's Investment Opportunities and Financial Needs
+4.8.2 Shareholders' Expectations
+4.8.3 Constraints on Paying Dividends
+4.9 Stability of Dividends
+4.10 Corporate Dividend Behaviour
+4.11 Forms of Dividends
+4.11.1 Cash Dividend
+4.11.2 Bonus Shares
+4.11.3 Advantages of Bonus Shares
+4.11.4 Limitations of Bonus Shares
+4.11.5 Conditions for the Issue of Bonus Shares
+4.12 Questions and Exercises
+4.0 INTRODUCTION
+Dividend policy is the set of guidelines a company uses to decide how much of its
+earnings it will pay out to shareholders. Some evidence suggests that investors are not
+concerned with a company’s dividend policy since they can sell a portion of their
+portfolio of equities if they want cash. The dividend decision of a firm is a crucial area of
+financial management. The important aspect of dividend policy is to determine the
+amount of earnings to be distributed to shareholders and the amount to be retained in
+the firm. Retained earnings are the most important internal sources of financing the firm.
+On the other hand, dividends may be considered desirable from shareholders' point of
+view as they tend to increase their current return. There are three main approaches to dividends: residual, stability or a hybrid of the two.
+Residual Dividend Policy
+Companies using the residual dividend policy choose to rely on internally
+generated equity to finance any new projects. As a result, dividend payments can come
+out of the residual or leftover equity only after all project capital requirements are met.
+These companies usually attempt to maintain balance in their debt/equity ratios before
+making any dividend distributions, deciding on dividends only if there is enough money
+left over after all operating and expansion expenses are met.
+Typically, this method of dividend payment creates volatility in the dividend payments
+that some investors find undesirable.
+The residual-dividend model is based on three key pieces: an investment opportunity
+schedule (IOS), a target capital structure and a cost of external capital.
+1. The first step in the residual dividend model to set a target dividend payout ratio to
+determine the optimal capital budget.
+2. Then, management must determine the equity amount needed to finance the optimal
+capital budget. This should be done primarily through retained earnings.
+3. The dividends are then paid out with the leftover, or residual, earnings. Given the use
+of residual earnings, the model is known as the "residual-dividend model."
+A primary advantage of the dividend-residual model is that with capital-projects
+budgeting, the residual-dividend model is useful in setting longer-term dividend policy. A
+significant disadvantage is that dividends may be unstable. Earnings from year to year
+can vary depending on business situations. As such, it is difficult to maintain stable
+earnings and thus a stable dividend. While the residual-dividend model is useful for
+longer-term planning, many firms do not use the model in calculating dividends each
+quarter.
+Dividend Stability Policy
+The fluctuation of dividends created by the residual policy significantly contrasts with the
+certainty of the dividend stability policy. With the stability policy, quarterly dividends are
+set at a fraction of yearly earnings. This policy reduces uncertainty for investors and
+provides them with income.
+Hybrid Dividend Policy
+The final approach is a combination between the residual and stable dividend policy.
+Using this approach, companies tend to view the debt/equity ratio as a long-term rather
+than a short-term goal. In today's markets, this approach is commonly used by
+companies that pay dividends. As these companies will generally experience business
+cycle fluctuations, they will generally have one set dividend, which is set as a relatively
+small portion of yearly income and can be easily maintained. On top of this set dividend,
+these companies will offer another extra dividend paid only when income exceeds
+general levels.
+4.1 LEARNING OBJECTIVES
+After going through this unit, you will be able to: • Identify the issues in dividend decisions. • Explain the Walter's and Gordon's models of dividend policies. • Discuss the MM hypothesis. • Understand the relevance of dividends. • Explain the various forms of dividends. • Understand corporate dividend behavior. • Understand the meaning, significance and types of working capital. • Get an idea of the financing of current assets. • Understand the sources of working capital.
+4.2 ISSUES IN DIVIDEND DECISIONS
+In dividend decision, a financial manager is concerned to decide one or more of the
+following: - Should the profits be ploughed back to finance the investment decisions?
+- Whether any dividend be paid? If yes, how much dividend be paid?
+- When these dividend be paid? Interim or final. - In what form the dividend be paid? Cash dividend or Bonus shares.
+All these decisions are inter-related and have bearing on the future growth plans
+of firm. If a firm pays dividend it affects the cash flow position of the firm but earns the
+goodwill among investors who therefore may be willing to provide additional funds for
+financing of investment plans of firm. On the other hand, the profits which are not
+distributed as dividends become an easily available source of funds at no explicit costs.
+However, in case of ploughing back of profits ,the firm may loose the goodwill
+and confidence of the investors and may also defy the standards set by other firms.
+Therefore, in taking dividend decision, the financial manager has to consider and
+analyse various factors. Every aspects of dividend decision are to be critically
+evaluated. The most important of these considerations is to decide as to what portion of
+profit should be distributed which is also known as dividend payout ratio. A low payout policy might produce a higher share price because it accelerates
+earnings growth. Investors of growth companies will realise their return mostly in the
+form of capital gains. Dividend yield—dividend per share divided by the market price per
+share—will be low for such companies. The impact of dividend policy on future capital
+gains is, however, complex. Capital gains occur in distant future, and therefore, many
+people consider them uncertain. It is not sure that low-payout policy will necessarily lead
+to higher prices in reality. It is quite difficult to clearly identify the effect of payout on
+share price. Share price is a reflection of so many factors that the long-run effect of
+payout is quite difficult to isolate. A high payout policy means more current dividends
+and less retained earnings, which may consequently result in slower growth and
+perhaps lower market price per share. As stated earlier, low payout policy means less
+current dividends, more retained earnings and higher capital gains and perhaps higher
+market price per share. Capital gains are future earnings while dividends are current
+earnings. Dividends in most countries are taxed more than capital gains.1 Therefore, it
+is quite possible that some investors would prefer high-payout companies while others
+may prefer low-payout companies
+Table 4.1 Consequences of High and Low Payout Policies
+Year Equity Earnings at
+20%
+Dividends Retained
+Earnings
+High Payout
+Company 1
+100.00 20.00 16.00 4.00
+2 104.00 20.80 16.64 4.16
+3 108.16 21.63 7.31 4.32
+4 112.48 22.50 18.00 4.50
+5 116.98 23.40 18.72 4.68
+10 142.33 28.47 22.77 5.69
+15 173.17 34.63 27.71 6.92
+20 210.68 42.14 33.71 8.43
+Low Payout
+Company
+1 100.00 20.00' 4.00 16.00
+2 116.00 23.20 4.64 18.56
+3 134.56 26.91 5.38 21.53
+4 156.09 31.22 6.24 24.98
+5 181.07 36.21 7.24 28.97
+10 380.30 76.06 15.21 60.85
+15 798.75 159.75 31.95 127.80
+20 1,677.65 335.53 67.11 268.42
+It may be seen from Table 4.1 that High Payout's dividend is initially four times that of
+Low Payout's. However, over a long period of time, Low Payout overtake! High Payout's
+dividend payments. As shown in Figure 4.1, in our example, fourteenth; year onwards
+Low Payout's dividend exceeds that of High Payout. Note that Low| Payout retains
+much more than High Payout, and as a consequence, High Payouts’ earnings,
+dividends and equity investment are growing at 16 per cent while that the Low Payout's
+at 4 per cent only.
+4.2.1 Dividend Decision and Valuation of Firms
+The value of the firm can be maximized if the shareholders wealth is maximized.
+There are conflicting views regarding the impact of dividend decision on valuation of the
+firm. According to one school of thought, dividend decision does not affect shareholders
+wealth and hence the valuation of firm. On other hand, according to other school of
+thought dividend decision materially affects the shareholders wealth and also valuation
+of the firm. We have discussed below the views of two schools of thought under two
+groups:
+1. The Relevance Concept of Dividend a Theory of Relevance.
+2. The Irrelevance Concept of Dividend or Theory of Irrelevance.
+The Relevance Concept of Dividend
+The advocates of this school of thought include Myron Gordon, James Walter
+and Richardson. According to them dividends communicate information to the investors
+about the firm’s profitability and hence dividend decision becomes relevant. Those firms
+which pay higher dividends will have greater value as compared to those which do not
+pay dividends or have a lower dividend pay out ratio. It holds that dividend decisions
+affect value of the firm.
+We have examined below two theories representing this notion: (i) Walter’s
+Approach and (ii) Gordon’s Approach.
+4.3 WALTER'S MODEL:
+Professor James E. Walter argues that the choice of dividend policies almost always
+affect the value of the firm. His model, one of the earlier theoretical works, shows the
+importance of the relationship between the firm's rate of return, r, and its cost of capital,
+k, in determining the dividend policy that will maximise the wealth of shareholders.
+Walter's model is based on the following assumptions:
+4.3.1 Assumptions of Walter’s model • Internal financing: All the investments are financed by the firm through retained
+earnings. No new equity or debt is issued for the same.
+• Constant return and cost of capital: The internal rate of return (r) and the cost
+of capital (k) of the firm are constant. The business risks remain same for all
+the investment decisions
+•100 per cent payout or retention: All the earnings of the company are either
+reinvested internally or distributed as dividends.
+• Constant EPS and DIV: Beginning earnings and dividends of the firm never
+change. Though different values of EPS and DPS may be used in the model, but they
+are assumed to remain constant while determining a value.
+• Infinite time: The firm has a very long or infinite life.
+Walter’s formula for determining the value of share
+P = D/K +{r(E-D)/K}/K
+Where P = Market price per share
+D = Dividend per share
+r = internal rate of return
+E = earnings per share
+K = Cost of equity capital.
+The above equation clearly reveals that the market price per share is the sum of
+the present value of two sources of income:
+i) The present value of an infinite stream of constant dividends, (D/K) and
+ii) The present value of the infinite stream of stream gains.
+4.3.2 .RELATION OF DIVIDEND DECISION AND VALUE OF A FIRM
+According to Walter’s theory, the dividend payout in relation to (Internal Rate of Return)
+‘r’ and (Cost of Capital) ‘k’ will impact the value of the firm in the following ways:
+Relationship between
+r and k
+Increase in Dividend
+Payout
+Decrease in Dividend
+Payout
+r>k
+Value of the firm decreases Value of the firm increases
+r<k
+Value of the firm increases Value of the firm decreases
+r=k No change in the value of
+the firm
+No change in the value of
+the firm
+Illustration 4.1 A company has an EPS of Rs. 15. The market rate of discount
+applicable to the company is 12.5%. Retained earnings can be reinvested at IRR of
+10%. The company is paying out Rs.5 as a dividend.
+Calculate the market price of the share using Walter’s model.
+Here,
+D = 5, E = 15, k = 12.5%, r = 10%
+Market price of the share = P = 5/.125 + {.10 * (15-5)/.125} /.125 =Rs. 104
+4.3.3 Criticism of Walter’s Model
+Walter’s model has been criticized on account of various assumptions made by Prof
+Walter in formulating his hypothesis.
+(i) The basic assumption that investments are financed through retained
+earnings only is seldom true in real world. Firms do raise fund by external
+financing.
+(ii) The internal rate of return i.e. r also does not remain constant. As a matter of
+fact, with increased investment the rate of return also changes.
+(iii) The assumption that cost of capital (k) will remain constant also does not
+hold good. As a firm’s risk pattern does not remain constant, it is not proper to
+assume that (k) will always remain constant.
+(IV) No external financing: Walter's model of share valuation mixes dividend policy
+with investment policy of the firm. The model assumes that retained earnings finance
+the investment opportunities of the firm and no external financing—debt or equity—is
+used for the purpose. When such a situation exists, either the firm's investment or its
+dividend policy or both will be sub-optimum. This is shown graphically in Figure 4.2. The
+horizontal axis represents the amount of earnings, investment and new financing in
+rupees. The vertical axis shows the rates of return and the cost of capital. It is assumed
+that the cost of capital, k, remains constant regardless of the amount of new capital
+raised.
+4.3.4 IMPLICATIONS OF WALTER’S MODEL
+Walter’s model has important implications for firms in various levels of growth as
+described below:
+GROWTH FIRM
+Growth firms are characterized by an internal rate of return > cost of the capital i.e. r >
+k. These firms will have surplus profitable opportunities to invest. Because of this, the
+firms in growth phase can earn more return for their shareholders in comparison to what
+the shareholders can earn if they reinvested the dividends. Hence, for growth firms, the
+optimum payout ratio is 0%.
+NORMAL FIRM
+Normal firms have an internal rate of return = cost of the capital i.e. r = k. The firms in
+normal phase will make returns equal to that of a shareholder. Hence, the dividend
+policy is of no relevance in such a scenario. It will have no influence on the market price
+of the share. So, there is no optimum payout ratio for firms in the normal phase. Any
+payout is optimum.
+DECLINING FIRM
+Declining firms have an internal rate of return < cost of the capital i.e. r < k. Declining
+firms make returns that are less than what shareholders can make on their investments.
+So, it is illogical to retain the company’s earnings. In fact, the best scenario to maximize
+the price of the share is to distribute entire earnings to their shareholders. The optimumdividend payout ratio, in such situations, is 100%.
+4.4 Gordon’s Approach : Another theory which contends that dividends are
+relevant is Gordon’s model. This model which opinions that dividend policy of a firmaffects its value are based on following assumptions:- 1. The firm is an all equity firm. No external financing is used and
+investment programmes are financed exclusively by retained earnings.
+2. r and k are constant.
+3. The firm has perpetual life.
+4. The retention ratio, once decided upon, is constant. Thus, the growth
+rate, (g=br) is also constant.
+5. k >br
+Gordon argues that the investors do have a preference for current dividends and
+there is a direct relationship between the dividend policy and the market value of share.
+He has built the model on basic premise that investors are basically risk averse and
+they evaluate the future dividend/capital gains as a risky and uncertain proposition.
+Investors are certain of receiving incomes from dividend than from future capital gains.
+The incremental risk associated with capital gains implies a higher required rate of
+return for discounting the capital gains than for discounting the current dividends. In
+other words, an investor values current dividends more highly than an expected future
+capital gain.
+Hence, the “bird-in-hand” argument of this model suggests that dividend policy is
+relevant, as investors prefer current dividends as against the future uncertain capital
+gains. When investors are certain about their returns they discount the firm’s earnings at
+lower rate and therefore placing a higher value for share and that of firm. So, the
+investors require a higher rate of return as retention rate increases and this would
+adversely affect share price.
+Symbolically: -
+Where Po = Market price of equity share
+E = Earnings per share of firm.
+b = Retention Ratio (1 – payout ratio)
+r = Rate of Return on Investment of the firm.
+K = Cost of equity share capital.
+br = g i.e. growth rate of firm.
+The Irrelevance Concept of Dividend
+The other school of thought on dividend policy and valuation of the firm argues
+that what a firm pays as dividends to share holders is irrelevant and the shareholders
+are indifferent about receiving current dividend in future. The advocates of this school of
+thought argue that dividend policy has no effect on market price of share. Two theories
+have been discussed here to focus on irrelevance of dividend policy for valuation of the
+firm which is as follows:
+4.4.1 Residual’s Theory of Dividend
+According to this theory, dividend decision has no effect on the wealth of
+shareholders or the prices of the shares and hence it is irrelevant so far as valuation of
+firm is concerned. This theory regards dividend decision merely as a part of financing
+decision because earnings available may be retained in the business for re-investment.
+But if the funds are not required in the business they may be distributed as dividends.
+Thus, the decision to pay dividend or retain the earnings may be taken as residual
+decision. This theory assumes that investors do not differentiate between dividends and
+retentions by firm. Their basic desire is to earn higher return on their investment. In case
+the firm has profitable opportunities giving higher rate of return than cost of retained
+earnings, the investors would be content with the firm retaining the earnings to finance
+the same. However, if the firm is not in a position to find profitable investment
+opportunities, the investors would prefer to receive the earnings in the form of
+dividends. Thus, a firm should retain earnings if it has profitable investment
+opportunities otherwise it should pay them as dividends.
+Under the Residuals theory, the firm would treat the dividend decision in three steps:
+o Determining the level of capital expenditures which is determined by the investment
+opportunities.
+o Using the optimal financing mix, find out the amount of equity financing need to
+support the capital expenditure in step (i) above
+o As the cost of retained earnings kr
+is less than the cost of new equity capital, the
+retained earnings would be used to meet the equity portions financing in step (ii)
+above. If available profits are more than this need, then the surplus may be
+distributed as dividends of shareholder. As far as the required equity financing is in
+excess of the amount of profits available, no dividends would be paid to the
+shareholders.
+Hence, in residual theory the dividend policy is influenced by (i) the company’s
+investment opportunities and (ii) the availability of internally generated funds, where
+dividends are paid only after all acceptable investment proposals have been financed.
+The dividend policy is totally passive in nature and has no direct influence on the market
+price of the share.
+4.5 Modigliani and Miller Approach (MM Model)
+Modigliani and Miller have expressed in the most comprehensive manner in
+support of theory of irrelevance. They maintain that dividend policy has no effect on
+market prices of shares and the value of firm is determined by earning capacity of the
+firm or its investment policy. As observed by M.M, “Under conditions of perfect capital
+markets, rational investors, absence of tax discrimination between dividend income and
+capital appreciation, given the firm’s investment policy, its dividend policy may have no
+influence on the market price of shares”. Even, the splitting of earnings between
+retentions and dividends does not affect value of firm.
+Assumptions of MM Hypothesis
+(1) There are perfect capital markets.
+(2) Investors behave rationally.
+(3) Information about company is available to all without any cost.
+(4) There are no floatation and transaction costs.
+(5) The firm has a rigid investment policy.
+(6) No investor is large enough to effect the market price of shares.
+(7) There are either no taxes or there are no differences in tax rates applicable
+to dividends and capital gains.
+4.5.2 The Argument of MM
+The argument given by MM in support of their hypothesis is that whatever increase in
+value of the firm results from payment of dividend, will be exactly off set by achieve in
+market price of shares because of external financing and there will be no change in total
+wealth of the shareholders. For example, if a company, having investment opportunities
+distributes all its earnings among the shareholders, it will have to raise additional funds
+from external sources. This will result in increase in number of shares or payment of
+interest charges, resulting in fall in earnings per share in future. Thus whatever a
+shareholder gains on account of dividend payment is neutralized completely by the fall
+in the market price of shares due to decline in expected future earnings per share. To
+be more specific, the market price of share in beginning of period is equal to present
+value of dividends paid at end of period plus the market price of shares at end of period
+plus the market price of shares at end of the period. This can be put in form of following
+formula:- P0 = D1 + P1
+1 + Ke Where
+PO = Market price per share at beginning of period.
+D1 = Dividend to be received at end of period.
+P1 = Market price per share at end of period.
+Ke = Cost of equity capital.
+The MM Hypothesis can be explained in another form also presuming that
+investment required by the firm on account of payment of dividends is financed out of
+the new issue of equity shares.
+In such a case, the number of shares to be issued can be computed with the help
+of the following equation:
+The rate of return for a share held for one year may be calculated as follows:
+Where P^ is the market or purchase price per share at time 0, P, is the market price per
+share at time and D is dividend per share at time . As hypothesized by M – M, r should
+be equal for all shares. If it is not so, the low-return yielding shares will be sold by
+investors who will purchase the high-return yielding shares.
+This process will tend to reduce the price of the low-return shares and to increase the
+prices of the high-return shares. This switching will continue until the differentials in
+rates of return are eliminated. This discount rate will also be equal for all firms under the
+M-M assumption since there are no risk differences.
+From the above M-M fundamental principle we can derive their valuation model as
+follows:
+Multiplying both sides of equation by the number of shares outstanding (n), we obtain
+the value of the firm if no new financing exists.
+If the firm sells m number of new shares at time 1 at a price of P^, the value of the firm
+at time 0 will be
+The above equation of M – M valuation allows for the issuance of new shares, unlike
+Walter’s and Gordon’s models. Consequently, a firm can pay dividends and raise funds
+to undertake the optimum investment policy. Thus, dividend and investment policies are
+not confounded in M – M model, like waiter’s and Gordon’s models.
+m = number of shares to be issued.
+I = Investment required.
+E = Total earnings of the firm during the period.
+P1 = Market price per share at the end of the period.
+Ke = Cost of equity capital.
+n = number of shares outstanding at the beginning of the period.
+D1 = Dividend to be paid at the end of the period.
+nPO = Value of the firm.
+This equation shows that dividends have no effect on the value of the firm when
+external financing is used. Given the firm’s investment decision, the firm has two
+alternatives, it can retain its earnings to finance the investments or it can distribute the
+earnings to the shareholders as dividends and can arise an equal amount externally. If
+the second alternative is preferred, it would involve arbitrage process. Arbitrage refers
+to entering simultaneously into two transactions which exactly balance or completely
+offset each other. Payment of dividends is associated with raising funds through other
+means of financing. The effect of dividend payment on shareholder’s wealth will be
+exactly offset by the effect of raising additional share capital. When dividends are paid
+to the shareholder, the market price of the shares will increase. But the issue of
+additional block of shares will cause a decline in the terminal value of shares. The
+market price before and after the payment of the dividend would be identical. This
+theory thus signifies that investors are indifferent about dividends and capital gains.
+Their principal aim is to earn higher on investment. If a firm has investment
+opportunities at hand promising higher rate of return than cost of capital, investor will be
+inclined more towards retention. However, if the expected return is likely to be less than
+what it would cost, they would be least interested in reinvestment of income. Modigiliani
+and Miller are of the opinion that value of a firm is determined by earning potentiality
+and investment policy and never by dividend decision.
+4.5.3 Criticism of MM Approach
+MM Hypothesis has been criticized on account of various unrealistic assumptions
+as given below.
+1. Perfect capital markets does not exist in reality.
+2. Information about company is not available to all persons.
+3. The firms have to incur floatation costs which issuing securities.
+4. Taxes do exit and there is normally different tax treatment for dividends and
+capital gains.
+5. The firms do not follow rigid investment policy.
+6. The investors have to pay brokerage, fees etc. which doing any transaction.
+7. Shareholders may prefer current income as compared to further gains.
+Illustration 4.2: Dividend Policy: Application of Walter's Model
+To illustrate the effect of different dividend policies on the value of shares respectively
+for the growth firm, normal firm and declining firm Table 4.2 is constructed.
+Table 4.2 Dividend Policy and the Value of the Firm
+Growth Firm, r>k Normal Firm, r = k
+Basic Data
+Declining Firm, r<k
+r=0.15
+k = 0.10
+EPS, = Rs 10
+r=0.10
+k = 0.10
+EPS, = Rs. 10
+r=0.08
+k = 0.10
+EPS,=Rs.10
+Payout Ratio 40%
+Div=Rs.4 Div=Rs.4 Div=Rs.4
+P={4+(0.15/0.10)(10- 4)}/0.10=Rs.130
+P={4+(0.10/0.10)(10- 4)}/0.10=Rs.100
+P={4+(0.08/0.10)(10- 4)}/0.10=Rs.188
+Payout Ratio 80%
+Div=Rs.8 Div=Rs.8 Div=Rs.8
+P={8+(0.15/0.10)(10- 8)}/0.10=Rs.110
+P={8+(0.10/0.10)(10- 8)}/0.10=Rs.100
+P={8+(0..08/0.10)(10- 8)}/0.10=Rs.96
+Payout Ratio 100%
+Div=Rs.10 Div=Rs.10 Div=Rs.10
+P={10+(0.15/0.10)(10- 10)}/0.10=Rs.100
+P={10+(0.1/0.10)(10- 10)}/0.10=Rs.100
+P={10+(0.08/0.10)(10- 10)}/0.10=Rs.100
+Table 4.2 shows that, in Walter's model, the optimum dividend policy depends on the
+relationship between the firm's rate of return, r and its cost of capital, k. Walter's view on
+the optimum dividend-payout ratio is explained in the next section.
+Illustration 4.3: ABC Ltd. belongs to a risk class for which the appropriate capitalization
+rate is 10%. It currently has outstanding 5,000 shares selling at Rs.100 each. The firm is
+contemplating the declaration of dividend of Rs.6 per share at the end of the current
+financial year. The company expects to have net income of Rs.50,000 and has a
+proposal for making new investments of Rs.1,00,000. Show that under the MMhypothesis, the payment of dividend does not affect the value of the firm.
+Solution:
+A. Value of the firm when dividends are paid:
+(i) Price of the share at the end of the current financial year.
+P1 = P0 (1 + Ke) – D1 = 100 (1 + 10) – 6 = 100 x 1.10 – 6 = 110 – 6 = Rs.104
+B. Value of the firm when dividends are not paid:
+(i) Price per share at the end of the current financial year
+P1 = P0 (1 + ke) – D1 = 100 (1+.10)-0 = 100´1.10 = Rs. 110
+Hence, whether dividends are paid or not, the value of the firm remains the same.
+Illustration 4.4: Expandent Ltd. had 50,000 equity shares of Rs. 10 each outstanding
+on January 1. The shares are currently being quoted at par the market. In the wake of
+the removal of dividend restraint, the company now intends to pay a dividend of Rs. 2
+per share for the current calendar year. It belongs to a risk-class whose appropriate
+capitalization rate is 15%. Using MM model and assuming no taxes, ascertain the price
+of the company's share as it is likely to prevail at the end of the year (i) when dividend is
+declared, and (ii) when no dividend is declared. Also find out the number of new equity
+shares that the company must issue to meet its investment needs of Rs. 2 lakhs,
+assuming a net income of Rs. 1.1 lakhs and also assuming that the dividend is paid
+Solution:
+(i) Price as per share when dividends are paid
+P1 = P0 (1+ke) – D1 = 10 (1+.15)-2 = 11.5-2 = Rs. 9.5.
+(ii) Price per share when dividends are not paid:
+P1 = P0 (1+ke)-D1 = 10 (1+. 15)-0 = Rs. 11.5
+4.6 DIVIDENDS AND UNCERTAINTY
+According to Gordon's model, dividend policy is irrelevant where r = k, when all other
+assumptions are held valid. But when the simplifying assumptions are modified to
+conform more closely to reality, Gordon concludes that dividend policy does affect the
+value of a share even when r = k. This view is based on the assumption that under
+conditions of uncertainty, investors tend to discount distant dividends (capital gains) at a
+higher rate than they discount near dividends. Investors, behaving rationally, are risk- averse and, therefore, have a preference for near dividends to future dividends. The
+logic underlying the dividend effect on the share value can be described as the bird-inthe-hand argument.
+The typical investor would most certainly prefer to have his dividend today and let
+tomorrow take care of it. No instances are in record in which the withholding of
+dividends for the sake of future profits has been hailed with such enthusiasm as to
+advance the price of the stock, the direct opposite has invariably been true. Given two
+companies in the same general position and with the same earning power, the one
+paying the larger dividend will always sell at a higher price.
+Myron Gordon has expressed the bird-in-the-hand argument more convincingly and in
+formal terms. According to him, uncertainty increases with futurity; that is the further one
+looks into the future the more uncertain dividends become. Accordingly, when dividend
+policy is considered in the context of uncertainty, the appropriate discount rate, k cannot
+be assumed to be constant, in fact. it increases with uncertainty; investors prefer to
+constant. In fact, it increases with uncertainty; investors prefer to avoid uncertainty and
+would be willing to pay higher price for the share that pays the greater current dividend,
+all other things held constant.
+Table 4.3 Dividend Policy and the Value of the Firm
+Growth Firm, r>k Normal Firm, r = k
+Basic Data
+Declining Firm, r<k
+r=0.15
+k = 0.10
+EPS, = Rs 10
+r=0.10
+k = 0.10
+EPS, = Rs. 10
+r=0.08
+k = 0.10
+EPS,=Rs.10
+Payout Ratio 40%
+g = br= 0.6x0.15 = 0.09
+p= 10(1-0.6)/( 0.10-0.09) =4/0.01 = Rs400
+g = br = 0.6x0.10 = 0.06
+p= 10(1-0.6) 0/(0.10-0.06) =4/0.04 = Rs100
+g = br= 0.6x0.08 = 0.048
+p= 10(1-0.6)/( 0.10 -0.048) = 4/0.052 =Rs77
+Payout Ratio 60%
+g = br= 0.4x0.15 = 0.06 * g=br = 0.4x0.10 = 0.04 g = br = 0.4x0.08 = 0.032
+p= 10(1-0.4)/( 0.10-0.06) =6/0.04 = Rs150
+p= 10(1-0.4)/( 0.10-0.04) =6/0.06 = Rs100
+p= 10(1-0.4)/( 0.10-0.032) =6/0.068 = Rs88
+Payout Ratio 90%
+g = br= 0.10x0.15 = 0.015 S = br=0.10x0.l0 = 0.01 g = br = 0.10x0.08 = 0.008
+p= 10(1-0.1)/( 0.10-0.015) =9/0.085 = Rs106
+p= 10(1-0.1)/( 0.10-0.01) =9/0.09 = Rs100
+p= 10(1-0.1)/( 0.10-0.008) =9/0.092 = Rs98
+Illustration 4.3: Dividend Irrelevance: The Miller-Modigliani Hypothesis
+The HCL Limited currently has 2 crore outstanding shares selling at a market price of
+Rs. 100 per share. The firm has no borrowing. It has internal funds available to make a
+capital expenditure (capex) of Rs. 30 crore. The capex is expected to yield a positive
+net present value of Rs. 20 crore. The firm also wants to pay a dividend per share of Rs.
+15. Given the firm's capex plan and its policy of zero borrowing, the firm will have to
+issue new shares to finance payment of dividends to its shareholders. How will the
+firm's value be affected (i) if it does not pay any dividend; (ii) if it pays dividend per share
+Rs. 15Rs.
+The firm's current value is: 2 x 100 = Rs. 200 crore. After the capex, the value will
+Increase to: 200 + 20 = Rs. 220 crore. If the firm does not pay dividends, me value per
+share will be: 220/2 = Rs. 110.
+If the firm pays a dividend of Rs. 15 per share, it will entirely utilise its internal funds
+(15x2 = Rs. 30 crore), and it will have to raise Rs. 30 crore by issuing new shares lo
+undertake capex. The value of a share after paying dividend will be: 110 - 15 = X 95.
+Thus, the existing shareholders get cash of f 15 per share in the form of dividends, but
+incur a capital loss of Rs. 15 in the form of reduced share value. They neither gain nor
+lose. The firm will have to issue: 30 crore/95 = 31,57,895 (about 31.6 lakh) share to
+raise Rs. 30 crore. The firm now has 2.316 crore shares at Rs. 95 each share. Thus, dfl
+value of the firm remains as: 2.316 x 95 = Rs. 220 crore.
+Illustration 4.4: Dividend Policy with and without Issue of Shares
+The Bright Engineering Co. Ltd., currently has one lakh outstanding shares selling at
+100 each. The firm has net profits of Rs. 10 lakh and wants to make new investments of
+Rs. 20 lakh during the period. The firm is also thinking of declaring a dividend of Rs. 5
+per share at the end of the current fiscal year. The firm's opportunity cost of capital is 10
+per cent. What will be the price of the share at the end of the year if (i) a dividend is not
+declared; (ii) a dividend is declared. (iii) How many new shares must be issued
+The price of the share at the end of the current fiscal year is determined as follows:
+P0 = D1 + P1
+1 + Ke Or the value of P1 = P0( 1 + Ke )-D1=Rs100(1.10)-0=Rs 110
+The value of P1 when dividend is paid is: Rs100(1.10)- Rs 5=Rs 105
+It can be observed that whether dividend is paid or not the wealth of shareholders
+remains the same. When the dividend is not paid the shareholder will get f 110 by way
+of the price per share at the end of the current fiscal year. On the other hand, when
+dividend is paid, the shareholder will realise Rs. 105
+by way of the price per share at the end of the
+current fiscal year plus Rs. 5 as dividend.
+4.7 RELEVANCE OF DIVIDEND
+4.7.1 Relevance under Market Imperfections
+The assumptions underlying MM's hypothesis may
+not always be found valid in practice. For example,
+we may not find capital markets to be perfect in
+reality; there may exist issue costs; dividends may
+be taxed differently than capital gains; investors may encounter difficulties in selling
+their shares. Because of the unrealistic nature of the assumptions, MM's hypothesis is
+alleged to lack practical relevance. This suggests that internal financing and external
+financing are not equivalent. Dividend policy of the firm may affect the perception of
+shareholders and, therefore, they may not remain indifferent between dividends and
+capital gains. The following are the situations where the MM hypothesis may go wrong.
+4.7.2 Uncertainty and Shareholders' Preference for Dividends
+. It is suggested that dividends resolve uncertainty in the minds of investors and,
+therefore, they prefer dividends than capital gains. As explained earlier, Gordon and
+others have referred to the argument that dividends are relevant under uncertainty as
+the bird-in-the-hand argument. Gordon asserts that uncertainty increases with the
+length of time period. Investors are risk-averters and, therefore, prefer near dividends to
+future dividends. Thus, future dividends are discounted at a higher rate than near
+dividends. This implies that the discount rate increases with uncertainty. As a result, a
+Check Your Progress
+1. What is the most important aspect of
+dividend management?
+2 What are the basic assumptions of
+Walter's model?
+3. What is meant by arbitrage?
+4. What does the MM hypothesis
+hold?
+firm paying dividends earlier will command a higher value than a firm which follows a
+policy of retention. This view implies that there exists a high-payout clientele who value
+shares of dividend paying more than those which do not pay dividends.
+Yet another reason for shareholders preferring current dividends maybe their desire to
+diversify their portfolios according to their risk preferences. Hence, they would like firms
+to distribute earnings. They will be able to invest dividends received in other assets
+keeping in mind their need for diversification. Under these circumstances, investors may
+discount the value of the firms that use internal financing.
+4.7.3 Transaction Costs and the Case against Dividend Payments
+In MM hypothesis it is argued that internal financing (retained earnings) and external
+financing (issue of shares) are equivalent. This implies that when firms pay dividends,
+they can finance their investment plans by issuing shares. Whether the firm retains
+earnings or issues new shares, the wealth of shareholders would remain unaffected.
+This cannot be true since the issue of shares involve flotation or issue costs, including
+costs of preparing and issuing prospectus, underwriting fee, brokers' commission etc.
+No flotation costs are involved if the earnings are retained. The presence of flotation or
+transaction costs makes the external financing costlier than the internal financing via
+retained earnings. In practice, dividend decisions seem to be sticky for whatever
+reasons. Companies continue paying same dividends, rather increasing it, unless
+earnings decline, in spite of need for funds. Under the MM hypothesis, the wealth of a
+shareholder will be same whether the firm pays dividends or not. If a shareholder is not
+paid dividends and he desires to have current income, he can sell the shares held by
+him. When the shareholder sells his shares to satisfy his desire for current income, he
+will have to pay brokerage fee. This fee is more for small sales. Some emerging
+markets are not very liquid. And many shares are not frequently traded. Because of the
+transactions costs and inconvenience associated with the sale of shares to realise
+capital gains, shareholders may prefer dividends to capital gains.
+4.7.4 Information Asymmetry and Agency Costs and the
+Case for Dividend Payments
+In practice managers may not share complete information with shareholders. This gap
+between information available with managers and what is actually shared with
+shareholders is called information asymmetry. This leads to several agency problems,
+viz., conflicts between managers and shareholders. Managers may not have enough
+incentive to disclose full information to shareholders. They may act in their own selfinterest and take away the firm's wealth in the form of non-pecuniary benefits.
+Shareholders incur agency costs to obtain full information about a company's
+investment plans, future earnings, expected dividend payments etc. The shareholders- managers conflict can be reduced through monitoring which includes bonding contracts
+and limiting the power of managers vis-a-vis allocation of wealth and managerial
+compensation. However, monitoring involves costs that are referred to as agency costs.
+The high-payout policy of a company helps to reduce the conflict arising out of
+information asymmetry." It is argued that companies which pay high dividends regularly
+may be raising capital more frequently from the primary markets. Therefore, the actors
+in primary markets like the financial institutions and banks would be monitoring the
+performance of these companies. If the professionals in the banks and financial
+institutions continuously do such monitoring, shareholders need not incur monitoring
+(agency) costs.
+4.7.5 Tax Differential: Low-Payout and High-Payout Clientele
+Investors have to pay taxes on dividends and capital gains. But different tax rates are
+applicable to dividends and capital gains. Dividend income is generally treated as the
+ordinary income, while capital gains are specially treated for tax purposes. In most
+countries, the "capital gains rate is lower than the marginal tax rate for ordinary income.
+From the tax point of view, a shareholder in high tax bracket should prefer capital gains
+over current dividends i.e. for two reasons: (i) the capital gains tax is less than the tax
+on dividends, and (ii) the Capital gains tax is payable only when the shares are actually
+sold . Consider an example. Two identical firms A and B have different dividend policy.
+Both have after tax profit, P of Rs. 100, A pays 100 per cent dividend. B does not pay
+any dividend and shareholders get capital gains. Assume further that capital gains fromshares held at least for one year are taxed at 20 per cent and marginal income tax rate
+is 40 per cent. Suppose B’s shareholders are in highest tax bracket and pay tax on
+dividend income at 40 per cent, A’s shareholders will receive dividends of Rs. 100 and
+their after tax dividend income will be: 100 x (1 - 0.40) = Rs. 60. B’s shareholders will
+realize capital gains of Rs. 100 and their after tax capital gains will be: 100 x (1 - 0.20) =
+is Rs. 80. B’s shareholders are better off as they have tax advantage. Since the after tax
+equity income of B’s shareholders is higher than A’*s shareholders and since both firms
+are identical in all other respects, B’s equity price will be higher.
+If a tax system favours capital gains to dividend income, there may still be several
+investors who are in lower tax brackets. These investors investing in shares will prefer
+dividend income rather capital gains. Thus, there may exit high-payout clientele. India is
+an exception where dividends are not taxed but capital gains are. In most countries, tax
+systems favour capital gains with no or low tax rates as compared to dividends. Thus,
+the preference for low-payout or high-payout shares will depend on the tax status of the
+individual investors. (See Exhibit 4.1 for the different tax schedule regarding dividends
+and capital gains.)
+Exhibit 4.1: Taxes and Dividends
+Shareholders' earnings are taxed differently in different countries. We can identify the
+following four tax systems regarding the taxation of shareholders' earnings: • Double taxation: Under this system, shareholders' earnings are taxed twice; first
+the corporate tax is levied on profits at the level of the company! and then, the after¬tax
+profits distributed as dividends are taxed as ordinary income in the hands of
+shareholders. Most countries have a higher marginal tax rate for dividend income tiian
+capital gains. The wealthy shareholders with high personal tax rates will prefer capital
+gains to dividends. A number of countries such as USA follow the double (or two-tier)
+taxation system. India practised this system until the change in the tax laws in 1997. • Single taxation: Under this system, shareholders' earnings are taxed only once at
+the corporate level. Dividends received by shareholders are exempt from tax. India
+currently follows this system. Companies in India pay tax on their profits at 35 per cent,
+and tiiey will have to pay additional tax at 12.5 per cent on the after-tax profits
+distributed as dividends to shareholders. Shareholders, born individuals and corporate,
+do not pay taxes on the dividend income. However, they do pay tax on short-termcapital gains. The marginal personal rate is 30 per cent and short-term capital gain tax
+rate is 10 per cent. Under this system, all investors will prefer dividends and long-termcapital gains
+• Split-rate taxation: Under this system, corporate profits are divided into retained
+earnings and dividends for the purpose of taxation. A higher tax rate is applied to
+retained earnings and a lower rate to earnings distributed as dividends. Shareholders
+pay tax on dividends and capital gains. This system, but for a lower tax rate on dividend,
+is similar to double taxation system. Tax-exempt and low-tax paying shareholders would
+prefer dividends while shareholders in high tax brackets will prefer capital gains. • Imputation taxation: Under this system, shareholders' earnings are not subjected
+to double taxation. A company pays corporate tax on its earnings. Shareholders pay
+personal taxes on dividends but get full or partial tax relief for the tax paid by the
+company. In Australia, shareholders get full tax relief while in Canada they get partial
+relief. Under full tax relief, a tax-exempt shareholder or a shareholder, who has a
+personal tax rate lower than the corporate tax rate, will get a tax refund.
+4.7.6 Neutrality of Dividend Policy: Biack-Scholes Hypothesis
+Black and Scholes argued that shareholders trade off the benefits of dividends against
+the tax loss. Based on the trade offs of the shareholders, they are classified into three
+types (i) one that considers dividends are always good;( ii) secondly that considers
+dividends are always bad; and (iii) thirdly that is indifferent to dividends. Shareholders in
+high tax brackets may belong to high-payout clientele since in their case the tax
+disadvantage may outweigh the benefits of dividends. On the other hand, shareholders
+in low tax brackets may fit in to low-payout clientele , they may suffer marginal tax
+disadvantage of dividends. Tax-exempt investors’ are indifferent to dividends and
+capital gains, as they pay no taxes on their incomes
+4.8 DIVIDEND POLICY IN PRACTICE
+The main consideration in determining the dividend policy is the objective of
+maximization of wealth of shareholders. Thus, a firm should retain earnings if it has
+profitable opportunities, giving a higher rate of return than cost of retained earnings,
+otherwise it should pay them as dividends. It implies that a firm should treat retained
+earnings as the active decision variable, and dividends as the passive residual.
+In actual practice, however, we find that most firms determine the amount of
+dividends first, as an active decision variable, and the residue constitutes the retained
+earnings. In fact, there is no choice with the companies between paying dividends and
+not paying dividends. Most of the companies believe that by following a stable dividend
+policy with a high payout ratio, they can maximize the market value of shares.
+Moreover, the image of such companies also improved on the market and the investors
+also favour such companies. The firms following this policy, can thus successfully
+approach the market for raising additional funds for future expansion and growth, as
+and when required. It has therefore, been rightly said that theoretically retained earnings
+should be treated as the active decision variable and dividends as passive residual but
+practice does not conform to this in most cases.
+There are a very few exceptions to the practice of paying high dividends and
+continuously increasing dividends. The Chairman and Managing Director of the Great
+Eastern Shipping Company Limited, is in favour of not paying any dividends.
+Deliberating on the company's dividend policy in his 1992-93 Chairman's Statement, he
+stated:
+...” We do not intend to maintain dividends as a percentage of the face value of your
+share, nor do we intend to maintain dividend at a fixed rupee value.... it is our intention
+to retain as much profit as we possibly can, ideally we should like to retain all our
+earnings, we certainly believe that to be in the shareholders' interest, ... payment of
+dividends is an inefficient way of increasing shareholders' wealth. That, had we been a
+new company the most sensible policy may well have been to pay no dividends and
+accumulate our profits. This is a policy followed by the most successful companies in
+the world. We have been inhibited in doing so by tradition and conventional wisdom. .”.. The following questions relate to the dividend policy of a firm: • What are the firm's financial needs given its growth plans and investment
+opportunities?
+• Who are the firm's shareholders and what are their preferences with regard to
+dividend payments?
+• What are the firm's business risks?
+• What are the firm's constraints-financial and legal-in paying dividends?
+• Is control a consideration for the firm?
+• Should the firm follow a stable dividend policy?
+• How should the firm pay dividends—cash dividend or bonus shares or shares
+buyback?
+It is not easy to answer these questions. A number of factors will have to be evaluated
+to analyse each of these questions to evolve a long-term dividend policy for the firmwhich are discussed below.
+4.8.1 Firm’s requirement for Investments and Other Financial Needs
+Firms have to consider the future investment projects while deciding about the dividend
+policies. If the future demands saving for long term projects, it is better to retain
+earnings rather than distributing the dividends. In case firms distribute its earnings in
+form of dividends to the shareholders, it will have to raise funds externally and spend
+floatation costs. In practice, the firms follow this policy of retention of profits. Thus,
+priority should be to given to retention of earnings over dividends payments. It also
+depends on the types of firms – Growth firms have large number of investment projects
+which require them to keep the earnings to be utilized for the same whereas for mature
+firms the investment projects are few. Hence, these firms can distribute easily to the
+shareholders. It requires that a firm should have a target payout ratio which matches
+with the availability of future investment projects. Sometimes, companies’ capital
+structures are also laden with debts which require financial obligations in the form of
+principal and interest payments. Such financial needs also force companies to plan for a
+payout which meets the needs of the shareholders and debt holders. Therefore,
+dividend policy is very much dependent on the companies’ long term financial needs..
+Firms should tailor their dividend policies to their long-term investment opportunities to
+have maximum financial flexibility and avoid financial frictions and costs of raising
+external funds. Generally, retained earnings should be used as a source of internal
+financing only when a company has profitable investment opportunities. If shareholders
+themselves have better investment opportunities, the earnings should be distributed to
+them so that they may be able to maximise their wealth. Theoretically, when the
+company has an internal rate of return greater than the return required by shareholders,
+it would be to the advantage of shareholders to allow the reinvestment of earnings by
+the company. When the company does not have highly profitable opportunities and
+earns a rate on investment, which is lower than the rate required by shareholders, it is
+not in the interest of shareholders to retain earnings.
+4.8.2 Shareholders' Expectations
+The shareholders have diverse views when it comes to holding shares of a company.
+There are investors who are interested in capital gains while some want a steady flow of
+dividends. The reasons are age factor, risk appetite, financial needs, etc. of the
+investors. A retired elderly investor may prefer for a steady source of income whereas a
+young investor having a higher risk appetite may be interested in holding a stock for
+long term in the expectations of high capital gains. Sometimes, the investors plan their
+portfolios to plan their tax expenses as well. Institutional investors and retail investors
+too differ when an investing into dividend yielding stocks and stocks yielding capital
+gains. Therefore, the companies have to consider the conflicting interests of investors
+preferring capital gains as well as dividends. Also once a dividend policy is put into
+place; it should be not changed immediately. This can have a negative impact on the
+shareholders preferring dividends whereby they can shift their preferences to stocks of
+other companies giving better dividends. Legally, the board of directors has discretion to
+decide the distribution of the earnings of a company. Shareholders are the legal owners
+of the company, and directors, appointed by them are their agents. Therefore, directors
+should give due importance to the expectations of shareholders in the matter of
+dividend decision. Shareholders' preference for dividends or capital gains may depend
+on their economic status and the effect of tax differential' on dividends and capital gains.
+In most countries, dividend income is taxed at a rate higher than the capital gains.
+4.8.3 Constraints on Paying Dividends
+Companies have to undergo various constraints while deciding over their dividend
+policy which include liquidity, legal pressures etc. The following are the constraints that
+companies face:
+Liquidity: There is a difference between liquidity and profitability. If the cash flows of
+the companies are restricted, it will not be able to pay dividends even if it is having very
+high earnings. This situation is mostly faced by growth companies which enjoy reap in
+earnings but their liquidity position is tight as their cash is blocked in investment
+projects. Similarly, the mature companies having lesser investment plans in hand have
+cash flows available which can be distributed for paying dividends.
+Capital Market: Access to capital market is an important consideration when it comes to
+deciding dividend policy. Companies with higher cash flows and earnings with a track
+record are able to raise easily capital from the capital market and hence can pay
+dividends easily whereas it is vice versa for the firms with tightened liquidity and lower
+earnings. Also capital market is dependent on overall market conditions like political
+conditions, world market, etc.
+Inflationary conditions: During the times of inflation, the dividend payout is low. The
+reason is that the depreciation sinking fund is not sufficient to fund the new equipments
+available at high costs. Inflation can act as a constraint on paying dividends. Our
+accounting system is based on historical costs. Depreciation is charged on the basis of
+original costs at which assets were acquired. As a result, when prices rise, funds equal
+to depreciation set aside would not be adequate to replace assets or to maintain the
+capital intact. Consequently, to maintain the capital intact and preserve their earnings
+power, firms’ earnings may avoid paying dividends.
+Financial Leverage: Leverage refers to the amount of debt in the capital structure. If a
+firm is highly levered with lower profitability, then it is obliged to pay interest and
+principal amount to the debt holders before preference shareholders and equity
+shareholders. On the other hand, highly profitable firms even though highly levered can
+pay dividends easily to its shareholders.
+Legal Restrictions: Companies have to follow legalities before declaring dividends. For
+example, in India dividend should be paid after providing for depreciation. Also theThe
+legal rules act as boundaries within which a company can operate in terms of paying
+dividends. Acting within these boundaries, a company will have to consider many
+financial variables and constraints in deciding the amount of earnings to be distributed
+as dividends. Dividends should be paid in cash. Dividends cannot be declared for past
+year for which the accounts have been closed.
+Dilution of Ownership: Shareholders do have concerns over their control over their
+company. If a company pays dividend, then the firm raises funds by issuing new shares
+as the cash flow reduces. But it adds to the new shareholder base resulting in dilution of
+ownership if the existing shareholders don’t buy the new shares. In such situations, the
+company prefers that the dividend payment be avoided and investment plans be
+financed through existing cash flows only. Financial condition and borrowing capacity: The financial condition or capability of a
+firm depends on its use of borrowings and interest charges payable. A high degree of
+financial leverage makes a company quite vulnerable to changes in earnings, and also,
+it becomes quite difficult to raise funds externally for financing its growth. A highly
+levered firm is, therefore, expected to retain more to strengthen its equity base.
+However, a company with steady growing earnings and cash flows and without much
+investment opportunities may follow a high dividend payment policy in spite of high
+amount of debt in its capital structure. A growth firm lacking liquidity may borrow to pay
+dividends. But this is not a sound policy. This will adversely affect the firm's financial
+flexibility. Financial flexibility includes the firm's ability to access external funds at a later
+date. The firm may lose the flexibility and capacity of raising external funds to finance
+growth opportunities in the future.
+Restrictions in loan agreements: Lenders may generally put restrictions on dividend
+payments to protect their interests when the firm is experiencing low liquidity or low
+profitability. As such, the firm agrees as part of a contract with a lender to restrict
+dividend payments. For example, a loan agreement may prohibit payment of dividends
+as long as the firm's debt-equity ratio is in excess of, say, 1.5:1 or when the liquidity
+ratio is less than, say, 2:1 or may require the firm to pay dividends only when some
+amount of current earnings has been transferred to a sinking fund established to retire
+debt. These are some of the examples of the restrictions put by lenders on the payment
+of dividends. When these restrictions are put, the company is forced to retain earnings
+and have a low payout.
+Control: The objective of maintaining control over the company by the existing
+management group or the body of shareholders can be an important variable in
+influencing the company's dividend policy. When a company pays large dividends, its
+cash position is affected. As a result, the company will have to issue new shares to
+raise funds to finance its investment programmes. The control of the existing
+shareholders will be diluted if they do not want or cannot buy additional shares. Under
+these circumstances the payment of dividends may be withheld and earnings may be
+retained to finance the firm's investment opportunities.
+4.9 STABILITY OF DIVIDENDS
+Stability of dividends is the most desirable policy favored by companies and investors. It
+instills confidence in the shareholders to stay invested in the company and has a
+positive impact on the market price. Stability of dividends means regularity in payment
+of dividends even though there might be fluctuations in the earnings. There are
+following ways by which firms can maintain stability of dividends
+• Constant dividend per share or dividend rate
+• Constant Dividend Payout
+• and Stable Dividend Plus Extra Dividend
+Before understanding the above terms, we should first know the justification behind
+dividend stability.
+# Investors’ needs for current income: There is a class of investors which always
+prefer dividends over capital gains. The reason is that stable dividends act as current
+income for them like wages and salaries. These investors include retired, elderly
+people, widows, etc. For such investors, the expenses remain more or less constant
+over a time frame. Thus, they prefer the dividend stream should match their expense
+stream also. In case, the dividend policy changes, they may sell their shares and they
+have to bear transaction costs. This situation is quite inconvenient to them. Also such
+investors are ready to pay higher price for dividend paying stocks to avoid the
+inconveniences of selling the shares.
+# Resolves Investors’ uncertainty: Dividend decision conveys a good amount of
+information in the minds of investors. An increase in dividend payment signifies
+optimistic picture of firm’s financial position whereas a decrease in dividends may be
+perceived as downfall in the future earnings prospects. An erratic dividend policy does
+not give any information about the company rather investors feel that the company’s
+future is not bright enough. This kind of policy has a negative impact on the market price
+of its share. Firms should ideally vary dividends gradually when they expect changes in
+long term prospects.
+# Raising Additional Finances: Stability of dividends ensures that a firm will be able
+to raise additional finance whenever it needs. The reason is that it has provided
+assurance and confidence to the investors community as they believe that investment in
+such a company will not result in speculation rather will prove a quality investment. Also
+a small investor looks forward to issues of such companies due to the reason that they
+want to supplement their income by stable dividend payments. Even issues of
+preference shares and debentures of such companies are also favored as the
+subscribers may feel that if the company is able to satisfy the current needs of the
+ordinary shareholders, undoubtedly, their interest and principal obligation will be done
+on time.
+# Requirements of Institutional Investors: Institutional investors prefer to invest in
+companies which have a track record of paying stable dividends. Such investors include
+financial institutions (LIC, IDBI, UTI, etc.), educational and social institutions. The
+plausible rationale behind such investment is availability of huge amount of funds with
+them. Therefore, a stable dividend policy is followed by firms to get funds and satisfy the
+needs of institutional investors.
+On the other hand, a stable dividend policy has drawbacks too. Once a stable dividend
+policy is set, it cannot be reversed. It tends to have an impact on the investors’ attitudes.
+With a stable dividend policy, the firm is able to create a clientele who prefers dividend
+and they remain invested in the company. Whereas a dividend cut tends to give a
+negative impression about a company’s financial prospects and the investors may pull
+out principal amount from the company. Thus, that is the reasoning behind maintaining
+a stable dividend policy. The solution can be to keep a dividend rate at a conservative
+figure. The other way out could be to provide extra dividends to signal an improvement
+in company’s earnings. Even if the extra dividends are not paid regularly the investor
+will not mind but an instance of nonpayment of regular dividends brings a pessimistic
+reactions.
+#Constant dividend per share or dividend rate
+As per this policy, the firms pay dividends as a percentage of paid up capital. This can
+be referred as Dividend per share. This kind of policy is followed by Indian companies
+whereby companies pay a fixed rate on paid up capital as dividend every year. For
+instance, the face value of XYZ Ltd. is Rs 10 and the dividend fixed is Rs 2. So, this
+amount has to be paid irrespective of fluctuations of earnings. So such policy becomes
+a drawback for companies especially if their earnings tend to fluctuate. Such companies
+have to keep provisions from profits for payment of dividends in lean times. This
+provision is called Dividend Equalization Reserve. This reserve is invested in
+marketable securities and assets which can be easily converted into cash in times of
+need. Constant dividend per share does not mean that the dividend is fixed all the
+times. This can increase with the increase in earnings. Such a dividend policy is favored
+by investors who prefer current income.
+The earnings per share and the dividend per share relationship under this policy is
+shown in Figure 4.3.
+#Constant Dividend Payout ratio
+Constant Dividend Payout ratio Policy Payout ratio means ratio of dividend to earnings.
+In the policy of constant payout, the firms tend to pay a fixed percentage of earnings to
+the shareholders. In this sense, the dividend payments are dependent on the earnings
+pattern. If earnings of the firm increase, the dividends automatically increase and vice- versa. Firms are able to internally finance themselves with such a policy. The liquidity of
+the firms is not affected by employing such a policy. The ratio of dividend to earnings is
+known as payout ratio. Some companies may follow a policy of constant payout ratio,
+i.e., paying a fixed percentage of net earnings every year. With this policy the amount of
+dividend will fluctuate indirect proportion to ratio, then 40 per cent of every earnings. If
+a company adopts a 40 percent payout if the company earns Rs. 2 per rupee of net
+earnings will be paid out. For example, share, the dividend per share will be Re 0.80
+and if it earns X 1.50 per share the dividend per share will be Re 0.60. The relation
+between the earnings per share and the dividend per share under this policy is exhibited
+in Figure4.4. .
+Merits of Stability of Dividends
+The stability of dividends has several advantages as discussed below: • Resolution of investors' uncertainty. • Investors' desire for current income. • Institutional investors' requirements. • Raising additional finances.
+Resolution of investors' uncertainty: We have argued in the previous chapter that
+dividends have informational value, and resolve uncertainty in the minds of investors.
+When a company follows a policy of stable dividends, it will not change the amount of
+dividends if mere are temporary changes in its earnings. Thus, when the earnings of a
+company fall and it continues to pay same amount of dividend as in the past, it conveys
+to investors that the future of the company is brighter than suggested by the drop in
+earnings. Similarly, the amount of dividends is increased with increased earnings level
+only when it is possible to maintain it in future. On the other hand, if a company follows
+a policy of changing dividends with cyclical changes in the earnings, shareholders
+would not be certain about the amount of dividends.
+Investors' desire for current income: There are many investors, such as old and retired
+persons, women etc., who desire to receive regular periodic income. They •nvest their
+savings in the shares with a view to use dividends as a source of income to meet their
+living expenses. Dividends are like wages and salaries for them. These investors will
+prefer a company with stable dividends to the one with fluctuating dividends.
+Institutional investors' requirements: Financial, educational and social institutions and
+unit trusts also invest funds in shares of companies. In India, financial institutions such
+as IFCI, IDBI, LIC, and UTI are some of the largest investors in corporate securities.
+Every company is interested to have these financial institutions in the list of their
+investors. These institutions may generally invest in the shares of those companies,
+which have a record of paying regular dividends. These institutional investors may not
+prefer a company, which has a history of adopting an erratic dividend policy. Thus, to
+cater the requirement of institutional investors, a company prefers to follow a stable
+dividend policy.
+Raising additional finances: A stable dividend policy is also advantageous to the
+company in its efforts to raise external finances. Stable and regular dividend policy
+tends to make the share of a company as quality investment rather than a speculation.
+Investors purchasing these shares intend to hold them for long periods of time. The
+loyalty and goodwill of shareholders towards a company increases with stable dividend
+policy. They would be more receptive to an offer by the company for further issues of
+shares. A history of stable dividends serves to spread ownership of outstanding shares
+more widely among small investors, and thereby reduces the chance of loss of control.
+The persons with small means, in the hope of supplementing their income, usually
+purchase shares of the companies with a history of paying regular dividends. A stable
+dividend policy also helps the sale of debentures and preference shares. The fact that
+the company has been paying dividend regularly in the past is a sufficient assurance to
+the purchasers of these securities that no default will be made by the company in
+paying their interest or preference dividend and returning the principal sum. The
+financial
+4.10 CORPORATE DIVIDEND BEHAVIOUR
+We have discussed stability of dividends in terms of stable dividends per share (or
+djvidend rate) and stable payout ratio. A stable payout ratio results into fluctuating
+dividend per share pattern, which could be a cause of uncertainty for investors. In
+practice, firms express their dividend policy either in terms of dividend per share or
+dividend rate. Does this mean that payout ratio is not considered important by firms
+while determining their dividend policies?. One of the central issues of corporate finance
+has been the dividend decision of a firm, which has always been studied in relation to a
+firm’s financing and investment decisions. The association amongst these two decisions
+has posed various questions. How much should a firm pay as dividend? How does a
+dividend payout policy influence the valuation of a firm? Does a firm’s decision to
+distribute cash correspond to its financing and investing decisions? What is the outcome
+of changes in the dividend policy assuming steady financing and investment decisions
+of a firm? Research has attempted to provide answers to these questions and many
+more but mystery still shrouds the dividend decision. Lintner (1956) argues that firms of
+developed markets target their dividend payout ratio with the help of current earnings
+and past dividends. In order to reach such target, various adjustments are made in the
+dividend policy of a firm and therefore firms should have stable dividend policies. Miller
+and Modigliani (1961) on the other hand feel that dividend policy is irrelevant in
+measuring the current worth of shares considering the irrational assumptions of market
+perfections, zero transaction costs, perfect certainty and indifferent behaviour of
+investors. However, Miller and Scholes (1982) argue that in the real world, dividend
+decision is inspired more by high taxes on dividends than capital gains and market
+imperfections.
+4.11 FORMS OF DIVIDENDS
+The usual practice is to pay dividends in cash. Other options are payment of tin-bonus
+shares (referred to as stock dividend in USA) and shares buyback. In this section, we
+shall also discuss share split. The share (stock) split is not a form of dividend; but its
+effects are similar to the effects of the bonus shares.
+4.11.1 Cash Dividend
+Companies mostly pay dividends in cash. A company should have enough cash in its
+bank account when cash dividends are declared. If it does not have enough bank
+balance, arrangement should be made to borrow funds. When the company follows I
+stable dividend policy, it should prepare a cash budget for the coming period to indicate
+the necessary funds, which would be needed to meet the regular dividend payment of
+the company. It is relatively difficult to make cash planning in anticipation of dividend
+needs when an unstable policy is followed.
+The cash account and the reserves account of a company will be reduced when the
+cash dividend is paid. Thus, both the total assets and the net worth of the company are
+reduced when the cash dividend is distributed. The market price of the share drops in
+most cases by the amount of the cash dividend distributed.
+4.11.2 Bonus Shares
+An issue of bonus shares is the distribution of shares free of cost to the existing share
+holders. In India, bonus shares are issued in addition to the cash dividend and not in
+lieu of cash dividend. Hence companies in India may supplement cash dividend by
+bonus issues. Issuing bonus shares increases the number of outstanding shares of the
+Company. The bonus shares are distributed proportionately to the existing shareholder.
+Hence there is no dilution of ownership. For example, if a shareholder owns 100 shares
+at the time when a 10 per cent (i.e., 1:10) bonus issue is made, she will receive 10
+additional shares. The declaration of the bonus shares will increase the paid-up share
+capital and reduce the reserves and surplus (retained earnings) of the company. The
+total net worth (paid-up capital plus reserves and surplus) is not affected by the bonus
+issue. In fact, a bonus issue represents a recapitalisation of reserves and surplus. It is
+merely an accounting transfer from reserves and surplus to paid-up capital.
+4.11.3 Advantages of Bonus Shares
+Prima facie the bonus shares do not affect the wealth of the shareholders. In practice,
+however, it carries certain advantages both for shareholders and the company.
+Shareholders: The following are advantages of the bonus shares to shareholders:
+Tax benefit: One of the advantages to shareholders in the receipt of bonus shares is the
+beneficial treatment of such dividends with regard to income taxes. When a shareholder
+receives cash dividend from company, this is included in his ordinary income and taxed
+at ordinary income tax rate. But the receipt of bonus shares by the shareholder is not
+taxable as income. Further, the shareholder can sell the new shares received by way of
+the bonus issue to satisfy his desire for income and pay capital gain taxes, which are
+usually less than the income taxes on the cash dividends. The shareholder could sell a
+few shares of his original holding to derive capital gains. But selling the original shares
+are considered as a sale of asset by some shareholders. They do not mind selling the
+shares received by way of the bonus shares as they consider it a windfall gain and not a
+part of the principal. Note that in India as per the current law investors do not pay any
+taxes on dividends but they have to pay tax on capital gains. Hence, the Indian law
+makes bonus shares less attractive than dividends.
+Indication of higher future profits: The issue of bonus shares is normally interpreted by
+shareholders as an indication of higher profitability. When the profits of a company do
+not rise, and it declares a bonus issue, the company will experience a dilution of
+earnings as a result of the additional shares outstanding. Since a dilution of earnings is
+not desirable, directors usually declare bonus shares only when they expect rise in
+earnings to offset the additional outstanding shares. Bonus shares, thus, may convey
+some information that may have a favourable impact on value of the shares. But it
+should be noticed that the impact on value is that of the growth expectation and not the
+bonus shares per se.
+Future dividends may increase: If a company has been following a policy of paying a
+fixed amount of dividend per share and continues it after the declaration of the bonus
+issue, the total cash dividends of the shareholders will increase in the future. For
+example, a company may be paying a Re 1 dividend per share and pays 1:1 bonus
+shares with the announcement that the cash dividend per share will remain unchanged.
+If a shareholder originally held 100 shares, he will receive additional 100 shares. His
+total cash dividend in future will be Rs. 200 (Rs. 1 x 200) instead of X 100 (X 1 x 100)
+received in the past. The increase in the shareholders' cash dividend may have a
+favourable effect on the value of the share. It should be, however, realised that the
+bonus issue per share has no effect on the value of the share; it is the increase in
+earnings from the company's investments that affects the value.
+Psychological value: The declaration of the bonus issue may have a favourable
+psychological effect on shareholders. The receipt of bonus shares gives them a chance
+to sell the shares to make capital gains without impairing their principal investment.
+They also associate it with the prosperity of the company. Because of these positive
+expects of the bonus issue, the market usually receives it positively. The sale of the
+shares, received by way of the bonus shares, by some shareholders widens the
+distribution of the company's shares. This tends to increase the market interest in the
+company's shares; thus supporting or raising its market price.
+Company: The bonus share is also advantageous to the company. The advantages
+are:
+Conservation of cash: The declaration of a bonus issue allows the company to declare l
+dividend without using up cash that may be needed to finance me profitable investment
+opportunities within the company. The company is, thus, able to retain earnings and at
+the same time satisfy the desires of shareholders to receive dividend. We have stated
+earlier that directors of a company must consider the financial needs of the company
+and the desires of shareholders while making the dividend decision. These two
+objectives are often in conflict. The use of bonus issue represents a compromise which
+enables directors to achieve both these objectives of a dividend policy.
+Only means to pay dividend under financial difficulty and contractual restrictions:
+In some situations, even if the company's intention is not to retain earnings, the bonus
+issue (with a small amount of dividend) is the only means to pay dividends and satisfy
+the desires of shareholders. When a company is facing a stringent cash situation, the
+only way to replace or reduce cash dividend is the issue of bonus shares. The
+declaration of the bonus issue under such a situation should not convey a message of
+the company's profitability, but financial difficulty. The declaration of the bonus issue is
+also necessitated when the restrictions to pay the cash dividend are put under loan
+agreements. Thus, under the situations of financial stringency or contractual constrain in
+paying cash dividend, the bonus issue is meant to maintain the confidence of
+shareholders in the company.
+More attractive share price: Sometimes the intention of a company in issuing bonus
+shares is to reduce the market price of the share and make it more attractive to
+investors. If the market price of a company's share is very high, it may not appeal to
+small investors. If the price could be brought down to a desired range, the trading
+activity would increase. Therefore, the bonus issue is used as a means to keep the
+market price of the share within a desired trading range. As we shall discuss below, this
+objective can also be achieved by share split.
+4.11.4 Limitations of Bonus Shares
+Bonus shares have the following limitations:
+Shareholders' wealth remains unaffected
+• Costly to administer • Problem of adjusting EPS and P/E ratio
+Bonus shares are considered valuable by most shareholders. But they fail to! realise
+that the bonus shares do not affect their wealth and therefore, in itself it has no value for
+them. The declaration of bonus shares is a method of capitalising the past earnings of
+the shareholders. Thus, it is a formal way of recognising something (earnings), which
+the shareholders already own. It merely divides the ownership of the company into a
+large number of share certificates. Bonus shares represent simply a division of
+corporate pie into a large number of pieces. In fact, the bonus issue does not give any
+extra or special benefit to a shareholder. His proportionate ownership in the company
+does not change. The chief advantage of the bonus share issue is that it has a
+favourable psychological impact on shareholders. The issue of bonus shares | gives an
+indication of the company's growth to shareholders. Shareholders welcome the
+distribution of bonus shares since it has informational value.
+4.12. QUESTIONS AND EXERCISES
+Short-Answer Questions
+1 Explain the Modigliani-Miller hypothesis of dividend irrelevance. Does this dividend
+irrelevance. Does this hypothesis suffer from deficiencies?
+2 How far do you agree that dividends are irrelevant?
+3 In Walter’s Approach, the dividend policy of firm depends on availability of
+investment opportunity and relationship between firm’s internal rate of return and its
+cost of capital. Discuss what are shortcomings of this view?
+4. What are the essentials of Walter's dividend model? Explain its shortcomings
+5. Discuss different sources of working capital.
+6. What is a stable dividend policy?. Why should it be followed?. What can be the
+consequences of changing a stable dividend policy?.
+Long-Answer Questions
+1. How is the corporate dividend behaviour determined ? Explain Lintner's model in this
+regard. 2. The following information is available in respect of a firm:
+Capitalisation rate = 10%
+Earnings per share = Rs. 50
+Assumed rate of return on investments:
+(i) 12%
+(ii) 8%
+(iii) 10%
+Show the effect of dividend policy on market price of shares applying Walter's formula
+when dividend pay out ratio is (a) 0% (b) 20%, (c) 40%, (d) 80%, and (e) 100%
+3. The earnings per share of company are Rs. 8 and the rate of capitalisation
+applicable to the company is 10%. The company has before it an option of adopting a
+payout ratio of 25% or 50% or 75%. Using Walter's formula of dividend payout, compute
+the market value of the company's share if the productivity of retained earnings is (i)
+15% (ii) 10% and (iii) 5%
+4. The earnings per share of a share of the face value of Rs.100 to PQR Ltd. is
+Rs.20. It has a rate of return of 25%. Capitalisation rate of its risk class is 12.5%. If
+Walter's model is used:
+a) What should be the optimum payout ratio?
+b) What should be the market price per share if the payout ratio is zero?
+c) Suppose, the company has a payout of 25% of EPS, what would be the price per
+share?
+5. Determine the market value of equity shares of the company from the following
+information:
+Earnings of the company Rs.5,00,000
+Dividend paid 3,00,000
+Number of shares outstanding 1,00,000
+Price-earning ratio 8
+Rate of return on investment 15%
+6. The earnings per share (EPS) of a company is Rs.10. It has an internal rate of return
+of 15% and the capitalization rate of its risk class is 12.5%. If Walter's Model is used –
+(i) What should be the optimum payout ratio of the company?
+(ii) What would be the price of the share at this payout?
+(iii) How shall the price of the share be affected, if a different payout were
+employed?
+7. From the following information supplied to you, ascertain whether the firm is following
+an optimal dividend policy as per Walter's model?
+Total Earnings Rs.2,00,000
+Number of equity shares (of Rs.100 each) 20,000
+Dividend paid 1,50,000
+Price/Earning ratio 12.5
+The firm is expected to maintain its rate of return on fresh investment. Also find
+out what should be the P/E ratio at which the dividend policy will have no effect on the
+value of the share?
+8. A company has total investment of Rs.5,00,000 assets and 50,000 outstanding
+equity shares of Rs.10 each. It earns a rate of 15% on its investments, and has a policy
+of retaining 50% of the earnings. If the appropriate discount rate for the firm is 10%,
+determine the price of its share using Gordon Model. What shall happen to the price, if
+the company has a payout of 80% or 20%.
+9. Assuming that rate of return expected by investor is 11%; internal rate of
+return is 12%; and earnings per share are Rs.15, calculate price per share by 'Gordon
+Approach' method if dividend payout ratio is 10% and 30%.
+10. Textrol Ltd. has 80,000 shares outstanding. The current market price of
+these shares is Rs.15 each. The company expect a net profit of Rs.2,40,000 during the
+year and it belongs to a risk-class for which the appropriate capitalisation rate has been
+estimated to be 20%. The Company is considering dividend of Rs.2 per share for the
+current year.
+a) What will be the price of the share at the end of the year (i) if the dividend is paid
+and (ii) if the dividend is not paid?
+(b) How many new shares must the Co. issue if the dividend is paid and the Co.
+needs Rs.5,60,000 for an approved investment expenditure during the
+year? Use MM model for the calculation
